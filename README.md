@@ -1,96 +1,174 @@
 # linux-readme
-A description of my linux customizations:
 
-After setting up my main Fedora 41 OS.
+A guide to my Fedora 41 Linux customizations and setup steps.
 
-- Enable 3rd party repos (access to steam, discord, etc)
+---
 
-```bash 
+## 1. Enable 3rd Party Repositories
+
+This gives you access to software like Steam, Discord, and more.
+
+```bash
 sudo dnf install https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm https://mirrors.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
 ```
-install app-stream metadata by
+
+Update app-stream metadata:
+
 ```bash
 sudo dnf group upgrade core
 sudo dnf4 group install core
 ```
 
-Then once youve done the above youll want to update your installed packages.
+---
+
+## 2. Update Installed Packages
 
 ```bash
 sudo dnf -y update
 ```
 
-Then restart.
+Restart your system after updating.
 
-If youd like to check for devices that support firmware updates. Note: this includes ssd, and other lower level devices. My computer only supported one device.
+---
+
+## 3. Firmware Updates
+
+Check for devices (like SSDs) that support firmware updates:
 
 ```bash
 sudo fwupdmgr refresh --force
-sudo fwupdmgr get-devices # Lists devices with available updates.
-sudo fwupdmgr get-updates # Fetches list of available updates.
+sudo fwupdmgr get-devices    # Lists devices with available updates
+sudo fwupdmgr get-updates    # Fetches list of available updates
 sudo fwupdmgr update
 ```
 
-Some versions of Fedora wont prompt you to enable flatpaks.
-What is a flatpak? : Flatpak is a framework for distributing desktop applications across various Linux distributions. I run into issues trying to get these to run on a system thats not connected to the internet. But if your machine has internet access than these are great! 
+---
+
+## 4. Flatpak Support
+
+**What is Flatpak?**  
+Flatpak is a framework for distributing desktop applications across various Linux distributions. It works best on systems with internet access.
+
+Enable Flathub (the main Flatpak repository):
 
 ```bash
 flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
 ```
 
-Next if you have a Nvidia GPU youll want to install its drivers. DO NOT download the drivers from the website. First try these steps:
+---
+
+## 5. Nvidia GPU Drivers
+
+**Do NOT download drivers from Nvidia’s website.**  
+First, try installing via DNF:
+
 ```bash
 sudo dnf install akmod-nvidia
 sudo dnf install xorg-x11-drv-nvidia-cuda
 ```
-Wait for atleast 5-10 mins before rebooting once you install the above, this is required to let the kernel module finish rebuilding in the background.
 
-To check if succesful run this command.
-```bash 
+Wait at least 5–10 minutes before rebooting to allow the kernel module to finish building.
+
+Check if the driver installed successfully:
+
+```bash
 modinfo -F version nvidia
-``` 
-If it displays something like 570.153.02 then youre golden.
+```
 
-If the above does NOT work:
+If you see a version number (e.g., 570.153.02), the installation was successful.
 
-[Follow this guide:](https://www.reddit.com/r/Fedora/comments/18bj1kt/fedora_nvidia_secure_boot/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+If not, see:  
+[Reddit: Fedora Nvidia Secure Boot Guide](https://www.reddit.com/r/Fedora/comments/18bj1kt/fedora_nvidia_secure_boot/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
-These commands will install common multimedia codexs for video and audio files.
+---
+
+## 6. Multimedia Codecs
+
+Install common multimedia codecs for video and audio files:
 
 ```bash
 sudo dnf4 group install multimedia
-sudo dnf swap 'ffmpeg-free' 'ffmpeg' --allowerasing # Switch to full FFMPEG.
-sudo dnf upgrade @multimedia --setopt="install_weak_deps=False" --exclude=PackageKit-gstreamer-plugin # Installs gstreamer components. Required if you use Gnome Videos and other dependent applications.
-sudo dnf group install -y sound-and-video # Installs useful Sound and Video complementary packages.
+sudo dnf swap 'ffmpeg-free' 'ffmpeg' --allowerasing
+sudo dnf upgrade @multimedia --setopt="install_weak_deps=False" --exclude=PackageKit-gstreamer-plugin
+sudo dnf group install -y sound-and-video
 ```
 
-Now for enabling H/W Video Acceleration on web browser videos (aka youtube lol)
+---
+
+## 7. Hardware Video Acceleration (e.g., for YouTube)
 
 ```bash
 sudo dnf install ffmpeg-libs libva libva-utils
 
-# then if you have an AMD CPU
-
+# For AMD CPUs:
 sudo dnf swap mesa-va-drivers mesa-va-drivers-freeworld
 sudo dnf swap mesa-vdpau-drivers mesa-vdpau-drivers-freeworld
 sudo dnf swap mesa-va-drivers.i686 mesa-va-drivers-freeworld.i686
 sudo dnf swap mesa-vdpau-drivers.i686 mesa-vdpau-drivers-freeworld.i686
 
-# I did not research what the Intel ones are
+# For Intel CPUs:
+# (Research required for exact package names)
 
+# OpenH264 support:
 sudo dnf install -y openh264 gstreamer1-plugin-openh264 mozilla-openh264
 sudo dnf config-manager setopt fedora-cisco-openh264.enabled=1
 ```
-After this enable the OpenH264 Plugin in Firefox's settings. (firefox/settings search)
 
-Some gnome plugins I found to be useful:
+After this, enable the OpenH264 plugin in Firefox’s settings (`about:preferences`).
 
-https://extensions.gnome.org/extension/1460/vitals/
-https://extensions.gnome.org/extension/4228/wireless-hid/
+---
 
+## 8. Useful GNOME Extensions
+
+- [Vitals](https://extensions.gnome.org/extension/1460/vitals/)
+- [Wireless HID](https://extensions.gnome.org/extension/4228/wireless-hid/)
+
+---
+
+## 9. Useful Packages
+
+| Package         | Description                                 |
+|-----------------|---------------------------------------------|
+| unzip           | Extract .zip archives                       |
+| p7zip           | 7-Zip file archiver (command-line)          |
+| p7zip-plugins   | Additional formats for 7-Zip                |
+| unrar           | Extract .rar archives                       |
+| discord         | Chat and voice app for communities          |
+| steam           | Gaming duh                   |
+| timeshift       | System restore utility (like Windows System Restore) |
+| git             | Distributed version control system          |
+| rawtherapee     | Advanced photo/raw image editor             |
+| inkscape        | Vector graphics editor (SVG)                |
+| krita           | Digital painting and illustration app       |
+| lm_sensors      | Hardware monitoring (temperatures, voltages)|
+| terminator      | Advanced terminal emulator                  |
+
+Install all at once:
 ```bash
-# useful packages
-
 sudo dnf install -y unzip p7zip p7zip-plugins unrar discord steam timeshift git rawtherapee inkscape krita lm_sensors terminator
+```
 
-#  
+---
+
+## 10. Setting Up Proton for Linux Gaming
+
+[Proton](https://www.protondb.com/) is a compatibility layer that allows you to run Windows games on Linux.
+
+**Steps to enable Proton in Steam:**
+
+1. . **Enable Proton:**
+   - Go to `Steam` > `Settings` > `Compatibility`.
+   - Check **"Enable Steam Play for supported titles"**.
+   - (Optional) Check **"Enable Steam Play for all other titles"** to use Proton for all games.
+   - Select the latest Proton version from the dropdown (Proton Experimental is recommended for best compatibility).
+
+4. **Restart Steam** to apply the changes.
+
+5. **(Optional) Install Additional Proton Versions:**
+   - In Steam, go to `Library` > search for "Proton".
+   - Right-click on a Proton version (e.g., Proton Experimental) and install it.
+
+6. **Check Game Compatibility:**  
+   Visit [ProtonDB](https://www.protondb.com/) to see how well your games run with Proton and for any extra tweaks.
+
+---
