@@ -1,0 +1,2989 @@
+tzdata.noarch: Timezone data
+xkeyboard-config.noarch: X Keyboard Extension configuration data
+fedora-gpg-keys.noarch: Fedora RPM keys
+fedora-repos.noarch: Fedora package repositories
+setup.noarch: A set of system configuration and setup files
+basesystem.noarch: The skeleton package which defines a simple Fedora system
+pkgconf-m4.noarch: m4 macros for pkgconf
+kbd-misc.noarch: Data for kbd package
+pcre2-syntax.noarch: Documentation for PCRE2 regular expressions
+ncurses-base.noarch: Descriptions of common terminals
+bash.x86_64: The GNU Bourne Again shell
+ncurses-libs.x86_64: Ncurses libraries
+zlib-ng-compat.x86_64: Zlib implementation provided by zlib-ng
+libuuid.x86_64: Universally unique ID library
+libblkid.x86_64: Block device ID library
+libzstd.x86_64: Zstd shared library
+json-c.x86_64: JSON implementation in C
+libxml2.x86_64: Library providing XML and HTML support
+bzip2-libs.x86_64: Libraries for applications using bzip2
+libmnl.x86_64: Minimalistic Netlink user-space library
+libcom_err.x86_64: Common error description library
+libffi.x86_64: A portable foreign function interface library
+popt.x86_64: C library for parsing command line parameters
+libedit.x86_64: The NetBSD Editline library
+gmp.x86_64: GNU arbitrary precision library
+libunistring.x86_64: GNU Unicode string library
+libidn2.x86_64: Library to support IDNA2008 internationalized domain names
+readline.x86_64: A library for editing typed command lines
+libcap-ng.x86_64: Alternate posix capabilities library
+gdbm-libs.x86_64: Libraries files for gdbm
+fmt.x86_64: Small, safe and fast formatting library for C++
+libfdisk.x86_64: Partitioning library for fdisk-like programs
+sqlite-libs.x86_64: Shared library for the sqlite3 embeddable SQL database engine.
+libseccomp.x86_64: Enhanced seccomp library
+lzo.x86_64: Data compression library with very fast (de)compression
+jansson.x86_64: C library for encoding, decoding and manipulating JSON data
+libtasn1.x86_64: The ASN.1 library used in GNUTLS
+p11-kit.x86_64: Library for loading and sharing PKCS#11 modules
+libcap.x86_64: Library for getting and setting POSIX.1e capabilities
+dbus-libs.x86_64: Libraries for accessing D-BUS
+pcre2.x86_64: Perl-compatible regular expression library
+grep.x86_64: Pattern matching utilities
+keyutils-libs.x86_64: Key utilities library
+expat.x86_64: An XML parser library
+libsmartcols.x86_64: Formatting library for ls-like programs
+libattr.x86_64: Dynamic library for extended attribute support
+libacl.x86_64: Dynamic library for access control list support
+p11-kit-trust.x86_64: System trust module from p11-kit
+libpsl.x86_64: C library for the Publix Suffix List
+nettle.x86_64: A low-level cryptographic library
+e2fsprogs-libs.x86_64: Ext2/3/4 file system specific shared libraries
+libnftnl.x86_64: Library for low-level interaction with nftables Netlink's API over libmnl
+fuse3-libs.x86_64: File System in Userspace (FUSE) v3 libraries
+efivar-libs.x86_64: Library to manage UEFI variables
+libaio.x86_64: Linux-native asynchronous I/O access library
+libbrotli.x86_64: Library for brotli lossless compression algorithm
+libsepol.x86_64: SELinux binary policy manipulation library
+sed.x86_64: A GNU stream text editor
+libmount.x86_64: Device mounting library
+util-linux-core.x86_64: The most essential utilities from the util-linux suite
+findutils.x86_64: The GNU versions of find utilities (find and xargs)
+kmod-libs.x86_64: Libraries to handle kernel module loading and unloading
+authselect-libs.x86_64: Utility library used by the authselect tool
+gzip.x86_64: GNU data compression program
+cracklib.x86_64: A password-checking library
+libpwquality.x86_64: A library for password generation and password quality checking
+mokutil.x86_64: Tool to manage UEFI Secure Boot MoK Keys
+zchunk-libs.x86_64: Zchunk library
+libnl3.x86_64: Convenience library for kernel netlink sockets
+lz4-libs.x86_64: Libaries for lz4
+libarchive.x86_64: A library for handling streaming archive formats
+squashfs-tools.x86_64: Utility for the creation of squashfs filesystems
+libnl3-cli.x86_64: Command line interface utils for libnl3
+libteam.x86_64: Library for controlling team network device
+authselect.x86_64: Configures authentication and identity sources from supported profiles
+python-pip-wheel.noarch: The pip wheel
+libevent.x86_64: Abstract asynchronous event notification library
+rpm-sequoia.x86_64: Implementation of the RPM PGP interface using Sequoia
+gobject-introspection.x86_64: Introspection system for GObject-based libraries
+shadow-utils.x86_64: Utilities for managing accounts and shadow password files
+device-mapper-persistent-data.x86_64: Device-mapper Persistent Data Tools
+sdbus-cpp.x86_64: High-level C++ D-Bus library
+procps-ng.x86_64: System and process monitoring utilities
+libusb1.x86_64: Library for accessing USB devices
+tpm2-tss.x86_64: TPM2.0 Software Stack
+cyrus-sasl-lib.x86_64: Shared libraries needed by applications which use Cyrus SASL
+gdbm.x86_64: A GNU set of database routines which use extensible hashing
+libbpf.x86_64: Libbpf library
+libss.x86_64: Command line interface parsing library
+ipset-libs.x86_64: Shared library providing the IP sets functionality
+libtextstyle.x86_64: Text styling library
+gettext-libs.x86_64: Libraries for gettext
+graphite2.x86_64: Font rendering capabilities for complex non-Roman writing systems
+snappy.x86_64: Fast compression and decompression library
+libpng.x86_64: A library of functions for manipulating PNG image format files
+freetype.x86_64: A free and portable font rendering engine
+harfbuzz.x86_64: Text shaping library
+isns-utils-libs.x86_64: Shared library files for iSNS
+libdaemon.x86_64: Library for writing UNIX daemons
+inih.x86_64: Simple INI file parser library
+userspace-rcu.x86_64: RCU (read-copy-update) implementation in user-space
+libverto.x86_64: Main loop abstraction library
+libtirpc.x86_64: Transport Independent RPC Library
+libnsl2.x86_64: Public client interface library for NIS(YP) and NIS+
+util-linux.x86_64: Collection of basic system utilities
+libtool-ltdl.x86_64: Runtime libraries for GNU Libtool Dynamic Module Loader
+openldap.x86_64: LDAP support libraries
+duktape.x86_64: Embeddable Javascript engine
+libgpg-error.x86_64: Library for error values used by GnuPG components
+libgcrypt.x86_64: A general-purpose cryptography library
+cpio.x86_64: A GNU archiving program
+gettext-envsubst.x86_64: Substitutes the values of environment variables
+gettext-runtime.x86_64: GNU runtime libraries and programs for producing multi-lingual messages
+libndp.x86_64: Library for Neighbor Discovery Protocol
+psmisc.x86_64: Utilities for managing processes on your system
+iproute.x86_64: Advanced IP routing and network device configuration tools
+liburing.x86_64: Linux-native io_uring I/O access library
+rpm-libs.x86_64: Libraries for manipulating RPM packages
+libyaml.x86_64: YAML 1.1 parser and emitter written in C
+libnfnetlink.x86_64: Netfilter netlink userspace library
+libnetfilter_conntrack.x86_64: Netfilter conntrack userspace library
+nftables.x86_64: Netfilter Tables userspace utilites
+libb2.x86_64: C library providing BLAKE2b, BLAKE2s, BLAKE2bp, BLAKE2sp
+python3-dbus.x86_64: D-Bus bindings for python3
+python3-nftables.x86_64: Python module providing an interface to libnftables
+python3-gobject-base.x86_64: Python 3 bindings for GObject Introspection base package
+libpkgconf.x86_64: Backend library for pkgconf
+pkgconf.x86_64: Package compiler and linker metadata toolkit
+pkgconf-pkg-config.x86_64: pkgconf shim to provide /usr/bin/pkg-config
+kmod.x86_64: Linux kernel module management utilities
+oniguruma.x86_64: Regular expressions library
+jq.x86_64: Command-line JSON processor
+libnghttp2.x86_64: A library implementing the HTTP/2 protocol
+librepo.x86_64: Repodata downloading library
+tpm2-tss-fapi.x86_64: High-level TPM2.0 Software Stack
+libcbor.x86_64: A CBOR parsing library
+dbus-common.noarch: D-BUS message bus configuration
+dbus.x86_64: D-BUS message bus
+device-mapper-libs.x86_64: Device-mapper shared library
+device-mapper.x86_64: Device mapper utility
+device-mapper-event-libs.x86_64: Device-mapper event daemon shared library
+device-mapper-event.x86_64: Device-mapper event daemon
+lvm2-libs.x86_64: Shared libraries for lvm2
+libkcapi.x86_64: User space interface to the Linux Kernel Crypto API
+libkcapi-hasher.x86_64: Common libkcapi hashing application
+libkcapi-hmaccalc.x86_64: Drop-in replacements for hmaccalc provided by the libkcapi package
+libreport-filesystem.noarch: Filesystem layout for libreport
+kbd-legacy.noarch: Legacy data for kbd package
+kbd.x86_64: Tools for configuring the console (keyboard, virtual terminals, etc.)
+grubby.x86_64: Command line tool for updating bootloader configs
+os-prober.x86_64: Probes disks on the system for installed operating systems
+mdadm.x86_64: The mdadm program controls Linux md devices (software RAID arrays)
+binutils.x86_64: A GNU collection of binary utilities
+lvm2.x86_64: Userland logical volume management tools
+kpartx.x86_64: Partition device manager for device-mapper devices
+polkit-pkla-compat.x86_64: Rules for polkit to add compatibility with pklocalauthority
+libfido2.x86_64: FIDO2 library
+tpm2-tools.x86_64: A bunch of TPM testing toolS build upon tpm2-tss
+rpm.x86_64: The RPM package management system
+libcap-ng-python3.x86_64: Python3 bindings for libcap-ng library
+rpm-plugin-audit.x86_64: Rpm plugin for logging audit events on package operations
+xfsprogs.x86_64: Utilities for managing the XFS filesystem
+teamd.x86_64: Team network device control daemon
+ipset.x86_64: Manage Linux IP sets
+e2fsprogs.x86_64: Utilities for managing ext2, ext3, and ext4 file systems
+cracklib-dicts.x86_64: The standard CrackLib dictionaries
+mactel-boot.x86_64: Intel Mac boot files
+hfsplus-tools.x86_64: Tools to create/check Apple HFS+ filesystems
+pkcs11-provider.x86_64: A PKCS#11 provider for OpenSSL 3.0+
+efibootmgr.x86_64: EFI Boot Manager
+libxkbcommon.x86_64: X.Org X11 XKB parsing library
+pigz.x86_64: Parallel implementation of gzip
+dosfstools.x86_64: Utilities for making and checking MS-DOS FAT filesystems on Linux
+memstrack.x86_64: A memory allocation tracer, like a hot spot analyzer for memory allocation
+qrencode-libs.x86_64: QR Code encoding library - Shared libraries
+hostname.x86_64: Utility to set/show the host name or domain name
+bash-completion.noarch: Programmable completion for Bash
+google-noto-fonts-common.noarch: Common files for Noto fonts
+libjpeg-turbo.x86_64: A MMX/SSE2/SIMD accelerated library for manipulating JPEG image files
+libicu.x86_64: International Components for Unicode - libraries
+abattis-cantarell-vf-fonts.noarch: Humanist sans serif font (variable)
+google-noto-sans-vf-fonts.noarch: Noto Sans variable font
+lcms2.x86_64: Color Management Engine
+librevenge.x86_64: A base library for writing document import filters
+avahi-libs.x86_64: Libraries for avahi run-time use
+libtalloc.x86_64: The talloc library
+libwebp.x86_64: Library and tools for the WebP graphics format
+libgudev.x86_64: GObject-based wrapper library for libudev
+libxslt.x86_64: Library providing the Gnome XSLT engine
+libX11-xcb.x86_64: XCB interop for libX11
+libtevent.x86_64: The tevent library
+libepoxy.x86_64: epoxy runtime library
+json-glib.x86_64: Library for JavaScript Object Notation format
+libtdb.x86_64: The tdb library
+hicolor-icon-theme.noarch: Basic requirement for icon themes
+urw-base35-fonts-common.noarch: Common files of the (URW)++ Level 2 Core Font Set
+satyr.x86_64: Tools to create anonymous, machine-friendly problem reports
+libogg.x86_64: The Ogg bitstream file format library
+opus.x86_64: An audio codec for use in low-delay speech and audio communication
+libvorbis.x86_64: The Vorbis General Audio Compression Codec
+libplist.x86_64: Library for manipulating Apple Binary and XML Property Lists
+cmake-filesystem.x86_64: Directories used by CMake modules
+mpfr.x86_64: C library for multiple-precision floating-point computations
+gawk.x86_64: The GNU version of the AWK text processing utility
+avahi.x86_64: Local network service discovery
+libsoup3.x86_64: Soup, an HTTP library implementation
+openjpeg.x86_64: C-Library for JPEG 2000
+fribidi.x86_64: Library implementing the Unicode Bidirectional Algorithm
+libproxy.x86_64: A library handling all the details of proxy configuration
+shared-mime-info.x86_64: Shared MIME information database
+gdk-pixbuf2.x86_64: An image loading library
+libXau.x86_64: Sample Authorization Protocol for X
+libxcb.x86_64: A C binding to the X11 protocol
+xcb-util-keysyms.x86_64: Standard X key constants and keycodes conversion on top of libxcb
+libassuan.x86_64: GnuPG IPC library
+libdav1d.x86_64: Library files for dav1d
+lame-libs.x86_64: LAME MP3 encoding library
+libICE.x86_64: X.Org X11 ICE runtime library
+libSM.x86_64: X.Org X11 SM runtime library
+policycoreutils.x86_64: SELinux policy core utilities
+libsigc++20.x86_64: Typesafe signal framework for C++
+fdk-aac-free.x86_64: Third-Party Modified Version of the Fraunhofer FDK AAC Codec Library for Android
+kde-filesystem.x86_64: KDE filesystem layout
+kf5-filesystem.x86_64: Filesystem for KDE Frameworks 5
+xcb-util.x86_64: Convenience libraries sitting on top of libxcb
+xcb-util-image.x86_64: Port of Xlib's XImage and XShmImage functions on top of libxcb
+flac-libs.x86_64: Libraries for the Free Lossless Audio Codec
+xmlsec1.x86_64: Library providing support for "XML Signature" and "XML Encryption" standards
+avahi-glib.x86_64: Glib libraries for avahi
+fedora-logos.noarch: Fedora-related icons and pictures
+augeas-libs.x86_64: Libraries for augeas
+libreport.x86_64: Generic library for reporting various problems
+abrt-libs.x86_64: Libraries for abrt
+graphene.x86_64: Thin layer of types for graphic libraries
+python3-systemd.x86_64: Python module wrapping libsystemd functionality
+boost-system.x86_64: Run-time component of boost system support library
+xml-common.noarch: Common XML catalog and DTD files
+dconf.x86_64: A configuration system
+libmbim.x86_64: Support library for the Mobile Broadband Interface Model protocol
+taglib.x86_64: Audio Meta-Data Library
+gsm.x86_64: Shared libraries for GSM speech compressor
+parted.x86_64: The GNU disk partition manipulation program
+iso-codes.noarch: ISO code lists and translations
+boost-thread.x86_64: Run-time component of boost thread library
+glibmm2.4.x86_64: C++ interface for the GLib library
+libbytesize.x86_64: A library for working with sizes in bytes
+libtheora.x86_64: Theora Video Compression Codec
+libmwaw.x86_64: A library for import of many old Mac document formats
+libodfgen.x86_64: An ODF generator library
+libstaroffice.x86_64: A library for import of binary StarOffice documents
+google-noto-sans-mono-vf-fonts.noarch: Noto Sans Mono variable font
+google-noto-serif-vf-fonts.noarch: Noto Serif variable font
+libraw1394.x86_64: Library providing low-level IEEE-1394 access - 2.1.2-
+python3-six.noarch: Python 2 and 3 compatibility utilities
+libunwind.x86_64: An unwinding library
+dmidecode.x86_64: Tool to analyse BIOS DMI data
+speex.x86_64: A voice compression format (codec)
+libsndfile.x86_64: Library for reading and writing sound files
+orc.x86_64: The Oil Run-time Compiler
+libdvdread.x86_64: A library for reading DVD video discs based on Ogle code
+libglvnd.x86_64: The GL Vendor-Neutral Dispatch library
+libglvnd-opengl.x86_64: OpenGL support for libglvnd
+libref_array.x86_64: A refcounted array for C
+numactl-libs.x86_64: libnuma libraries
+lmdb-libs.x86_64: Shared libraries for lmdb
+ModemManager-glib.x86_64: Libraries for adding ModemManager support to applications that use glib.
+unzip.x86_64: A utility for unpacking zip files
+xcb-util-renderutil.x86_64: Convenience functions for the Render extension
+xcb-util-cursor.x86_64: Cursor library on top of libxcb
+xcb-util-wm.x86_64: Client and window-manager helper library on top of libxcb
+gtk-update-icon-cache.x86_64: Icon theme caching utility
+libxmlb.x86_64: Library for querying compressed XML metadata
+libimobiledevice-glue.x86_64: Library with common code among libimobiledevice projects
+libgusb.x86_64: GLib wrapper around libusb1
+colord-libs.x86_64: Color daemon library
+default-fonts-core-sans.noarch: Metapackage to install default sans-serif fonts for Western characters
+fontconfig.x86_64: Font configuration and customization library
+libwinpr2.x86_64: Windows Portable Runtime
+libv4l.x86_64: Collection of video4linux support libraries
+jasper-libs.x86_64: Runtime libraries for jasper
+google-noto-sans-devanagari-vf-fonts.noarch: Noto Sans Devanagari variable font
+libieee1284.x86_64: A library for interfacing IEEE 1284-compatible devices
+OpenCL-ICD-Loader.x86_64: Khronos official OpenCL ICD Loader
+gsettings-desktop-schemas.x86_64: A collection of GSettings schemas
+python3-pyudev.noarch: A libudev binding
+soxr.x86_64: The SoX Resampler library
+rav1e-libs.x86_64: Library files for rav1e
+serd.x86_64: A lightweight C library for RDF syntax
+libdnf.x86_64: Library providing simplified C and Python API to libsolv
+imath.x86_64: Library of 2D and 3D vector, matrix, and math operations for computer graphics
+libevdev.x86_64: Kernel Evdev Device Wrapper Library
+libexif.x86_64: Library for extracting extra information from image files
+hyperv-daemons-license.noarch: License of the Hyper-V daemons suite
+pcsc-lite-libs.x86_64: PC/SC Lite libraries
+openal-soft.x86_64: Software implementation of the OpenAL 3D audio API
+libmarkdown.x86_64: A fast implementation of the Markdown language in C
+zxing-cpp.x86_64: C++ port of the ZXing ("Zebra Crossing") barcode scanning library
+hyphen.x86_64: A text hyphenation library
+libdbusmenu.x86_64: Library for passing menus over DBus
+lm_sensors-libs.x86_64: Lm_sensors core libraries
+libxshmfence.x86_64: X11 shared memory fences
+anthy-unicode.x86_64: Japanese character set input library for Unicode
+libqrtr-glib.x86_64: Support library to use and manage the QRTR (Qualcomm IPC Router) bus.
+libqmi.x86_64: Support library to use the Qualcomm MSM Interface (QMI) protocol
+twolame-libs.x86_64: TwoLAME is an optimized MPEG Audio Layer 2 encoding library based on tooLAME
+liblc3.x86_64: Low Complexity Communication Codec (LC3)
+hunspell-filesystem.x86_64: Hunspell filesystem layout
+hunspell-en-US.noarch: US English hunspell dictionaries
+hunspell.x86_64: A spell checker and morphological analyzer library
+libsecret.x86_64: Library for storing and retrieving passwords and other secrets
+shadow-utils-subid.x86_64: A library to manage subordinate uid and gid ranges
+dbus-tools.x86_64: D-BUS Tools and Utilities
+python3-dasbus.noarch: DBus library in Python 3
+imsettings-libs.x86_64: Libraries for imsettings
+python3-distro.noarch: Linux Distribution - a Linux OS platform information API
+PackageKit-glib.x86_64: GLib libraries for accessing PackageKit
+libdhash.x86_64: Dynamic hash table
+libcollection.x86_64: Collection data-type for C
+libbasicobjects.x86_64: Basic object types for C
+tar.x86_64: GNU file archiving program
+dbus-daemon.x86_64: D-BUS message bus
+pcsc-lite-ccid.x86_64: Generic USB CCID smart card reader driver
+pcsc-lite.x86_64: PC/SC Lite smart card framework and applications
+python3-libdnf.x86_64: Python 3 bindings for the libdnf library.
+python3-hawkey.x86_64: Python 3 bindings for the hawkey library
+ebook-tools-libs.x86_64: Libraries for ebook-tools
+libdvdnav.x86_64: A library for reading DVD video discs based on Ogle code
+libshout.x86_64: Icecast source streaming library
+python3-dateutil.noarch: Powerful extensions to the standard datetime module
+python3-bytesize.x86_64: Python 3 bindings for libbytesize
+python3-pyparted.x86_64: Python 3 module for GNU parted
+boost-chrono.x86_64: Run-time component of boost chrono library
+libreport-fedora.x86_64: Default configuration for reporting bugs via Fedora infrastructure
+libreport-plugin-logger.x86_64: libreport's logger reporter plugin
+libreport-cli.x86_64: libreport's command line interface
+libpciaccess.x86_64: PCI access library
+libxkbcommon-x11.x86_64: X.Org X11 XKB keymap creation library
+libraqm.x86_64: Complex Textlayout Library
+nss-mdns.x86_64: glibc plugin for .local name resolution
+libwps.x86_64: A library for import of Microsoft Works documents
+libwpd.x86_64: A library for import of WordPerfect documents
+libwpg.x86_64: A library for import of WordPerfect Graphics images
+libmng.x86_64: Library for Multiple-image Network Graphics support
+libical.x86_64: Reference implementation of the iCalendar data type and serialization format
+libvncserver.x86_64: Library to make writing a VNC server easy
+google-noto-sans-bengali-vf-fonts.noarch: Noto Sans Bengali variable font
+google-noto-sans-hebrew-vf-fonts.noarch: Noto Sans Hebrew variable font
+cldr-emoji-annotation-dtd.noarch: DTD files of CLDR common
+cldr-emoji-annotation.noarch: Emoji annotation files in CLDR
+python3-attrs.noarch: Python attributes without boilerplate
+python3-referencing.noarch: An implementation-agnostic implementation of JSON reference resolution
+fuse-libs.x86_64: File System in Userspace (FUSE) v2 libraries
+python3-jmespath.noarch: JSON Matching Expressions
+slang.x86_64: Shared library for the S-Lang extension language
+libmtp.x86_64: Software library for MTP media players
+hiredis.x86_64: Minimalistic C client library for Redis
+mobile-broadband-provider-info.noarch: Mobile broadband provider database
+gcr-libs.x86_64: gcr and gck libraries
+composefs-libs.x86_64: Libraries for composefs
+fftw-libs-double.x86_64: FFTW library, double precision
+libimagequant.x86_64: Convert 24/32-bit images to 8-bit palette with alpha channel
+python3-idna.noarch: Internationalized Domain Names in Applications (IDNA)
+python3-urllib3.noarch: HTTP library with thread-safe connection pooling, file post, and more
+xmlrpc-c.x86_64: Lightweight RPC library based on XML and HTTP
+yajl.x86_64: Yet Another JSON Library (YAJL)
+raptor2.x86_64: RDF Parser Toolkit for Redland
+python3-pid.noarch: PID file management library
+malcontent-libs.x86_64: Libraries for malcontent
+bubblewrap.x86_64: Core execution tool for unprivileged containers
+adobe-mappings-cmap.noarch: CMap resources for Adobe's character collections
+libvmaf.x86_64: Library for vmaf
+libaom.x86_64: Library files for aom
+zix.x86_64: A lightweight C library of portability wrappers and data structures
+sord.x86_64: A lightweight Resource Description Framework (RDF) C library
+vpnc-script.noarch: Routing setup script for vpnc and openconnect
+phonon-common.noarch: Translation files for phonon
+libxcvt.x86_64: VESA CVT standard timing modelines generator
+libdisplay-info.x86_64: EDID and DisplayID library
+libbabeltrace.x86_64: Common Trace Format Babel Tower
+net-snmp-libs.x86_64: The NET-SNMP runtime client libraries
+libpasswdqc.x86_64: Passphrase quality checker shared library
+jbigkit-libs.x86_64: JBIG1 lossless image compression library
+mtdev.x86_64: Multitouch Protocol Translation Library
+pcre2-utf16.x86_64: UTF-16 variant of PCRE2
+double-conversion.x86_64: Library providing binary-decimal and decimal-binary routines for IEEE doubles
+mythes.x86_64: A thesaurus library
+clucene-core.x86_64: Core clucene module
+libutempter.x86_64: A privileged helper for utmp/wtmp updates
+phonon-backend-vlc-common.noarch: Translation files for phonon-backend-vlc
+cdparanoia-libs.x86_64: Libraries for libcdda_paranoia (Paranoia III)
+adwaita-cursor-theme.noarch: Adwaita cursor theme
+wavpack.x86_64: A completely open audiocodec
+opencore-amr.x86_64: OpenCORE Adaptive Multi Rate Narrowband and Wideband speech lib
+webrtc-audio-processing.x86_64: Library for echo cancellation
+libcdio.x86_64: CD-ROM input and control library
+liba52.x86_64: A free ATSC A/52 stream decoder, also known as AC-3 or AC3
+xapian-core-libs.x86_64: Xapian search engine libraries
+socat.x86_64: Bidirectional data relay between two data channels ('netcat++')
+dotconf.x86_64: Libraries to parse configuration files
+libchewing.x86_64: Intelligent phonetic input method library for Traditional Chinese
+lockdev.x86_64: A library for locking devices
+rpm-build-libs.x86_64: Libraries for building RPM packages
+groff-base.x86_64: Parts of the groff formatting system required to display manual pages
+python3-charset-normalizer.noarch: The Real First Universal Charset Detector
+libsamplerate.x86_64: Sample rate conversion library for audio data
+fftw-libs-single.x86_64: FFTW library, single precision
+python3-pyyaml.x86_64: YAML parser and emitter for Python
+python3-packaging.noarch: Core utilities for Python packages
+npth.x86_64: The New GNU Portable Threads library
+libksba.x86_64: CMS and X.509 library
+gnupg2.x86_64: Utility for secure communication and data storage
+gpgme.x86_64: GnuPG Made Easy - high level crypto API
+gpgmepp.x86_64: C++ bindings/wrapper for GPGME
+jemalloc.x86_64: General-purpose scalable concurrent malloc implementation
+xxhash-libs.x86_64: Extremely fast hash algorithm - library
+openpace.x86_64: Cryptographic library for EAC version 2
+keyutils.x86_64: Linux Key Management Utilities
+fuse-common.x86_64: Common files for File System in Userspace (FUSE) v2 and v3
+fuse3.x86_64: File System in Userspace (FUSE) v3 utilities
+fuse.x86_64: File System in Userspace (FUSE) v2 utilities
+fuse-overlayfs.x86_64: FUSE overlay+shiftfs implementation for rootless containers
+cifs-utils.x86_64: Utilities for mounting and managing CIFS mounts
+opensc-libs.x86_64: OpenSC libraries
+rsync.x86_64: A program for synchronizing files over a network
+libjcat.x86_64: Library for reading Jcat files
+rubberband-libs.x86_64: Audio time-stretching and pitch-shifting library
+python3-kickstart.noarch: Python 3 library for manipulating kickstart files.
+python3-requests-file.noarch: Transport adapter for using file:// URLs with python-requests
+python3-requests-ftp.noarch: FTP transport adapter for python3-requests
+libcdio-paranoia.x86_64: CD paranoia on top of libcdio
+tmux.x86_64: A terminal multiplexer
+clucene-contribs-lib.x86_64: Language specific text analyzers for clucene
+mythes-en.noarch: English thesaurus
+passwdqc-utils.x86_64: Password quality checker utilities
+pam_passwdqc.x86_64: Pluggable passphrase quality checker
+libdisplay-info-tools.x86_64: Command-line tools for libdisplay-info
+sratom.x86_64: A C library for serializing LV2 plugins
+lilv-libs.x86_64: Libraries for lilv
+adobe-mappings-cmap-deprecated.noarch: Deprecated CMap resources for Adobe's character collections
+rasqal.x86_64: RDF Query Library
+redland.x86_64: RDF Application Framework
+xmlrpc-c-client.x86_64: C client libraries for xmlrpc-c
+libreport-web.x86_64: Library providing network API for libreport
+libreport-plugin-ureport.x86_64: libreport's micro report plugin
+libreport-plugin-reportuploader.x86_64: libreport's reportuploader plugin
+libreport-plugin-kerneloops.x86_64: libreport's kerneloops reporter plugin
+python3-jsonschema-specifications.noarch: JSON Schema meta-schemas and vocabularies, exposed as a Registry
+python3-jsonschema.noarch: Implementation of JSON Schema validation for Python
+default-fonts-he.noarch: Metapackage to install default fonts for Hebrew
+default-fonts-yi.noarch: Metapackage to install default fonts for Yiddish
+default-fonts-as.noarch: Metapackage to install default fonts for Assamese
+default-fonts-bn.noarch: Metapackage to install default fonts for Bengali
+gupnp-igd.x86_64: Library to handle UPnP IGD port mapping
+libnice.x86_64: GLib ICE implementation
+wayland-utils.x86_64: Wayland utilities
+libddcutil.x86_64: Shared library to query and update monitor settings
+boost-locale.x86_64: Run-time component of boost locale library
+fuse-sshfs.x86_64: FUSE-Filesystem to access remote filesystems via SSH
+pinentry.x86_64: Collection of simple PIN or passphrase entry dialogs
+enchant2.x86_64: An Enchanting Spell Checking Library
+python3-enchant.noarch: Python 3 bindings for Enchant spellchecking library
+hunspell-en-GB.noarch: UK English hunspell dictionaries
+libqmi-utils.x86_64: Utilities to use the QMI protocol from the command line
+hyphen-en.noarch: English hyphenation rules
+hypervfcopyd.x86_64: Hyper-V FCOPY daemon
+hypervkvpd.x86_64: Hyper-V key value pair (KVP) daemon
+hypervvssd.x86_64: Hyper-V VSS daemon
+lvm2-dbusd.noarch: LVM2 D-Bus daemon
+clinfo.x86_64: Enumerate OpenCL platforms and devices
+default-fonts-hi.noarch: Metapackage to install default fonts for Hindi
+default-fonts-mai.noarch: Metapackage to install default fonts for Maithili
+default-fonts-mr.noarch: Metapackage to install default fonts for Marathi
+libaribcaption.x86_64: Portable ARIB STD-B24 Caption Decoder/Renderer
+langpacks-core-en.noarch: English langpacks core meta-package
+langpacks-fonts-en.noarch: Metapackage to install extra fonts for English
+libfprint.x86_64: Toolkit for fingerprint scanner
+libusbmuxd.x86_64: Client library USB multiplex daemon for Apple's iOS devices
+libimobiledevice.x86_64: Library for connecting to mobile devices
+geoclue2.x86_64: Geolocation service
+lttng-ust.x86_64: LTTng Userspace Tracer library
+libcamera.x86_64: A library to support complex camera ISPs
+mesa-libGLU.x86_64: Mesa libGLU library
+libbs2b.x86_64: Bauer stereophonic-to-binaural DSP library
+libopenmpt.x86_64: C/C++ library to decode tracker music module (MOD) files
+virt-what.x86_64: Detect if we are running in a virtual machine
+python3-linux-procfs.noarch: Linux /proc abstraction classes
+libavc1394.x86_64: Audio/Video Control library for IEEE-1394 devices
+libdc1394.x86_64: 1394-based digital camera control library
+libiec61883.x86_64: Streaming library for IEEE1394
+libmbim-utils.x86_64: Utilities to use the MBIM protocol from the command line
+ModemManager.x86_64: Mobile broadband modem management service
+libpskc.x86_64: Library for PSKC handling
+libreport-plugin-systemd-journal.x86_64: libreport's systemd journal reporter plugin
+avahi-gobject.x86_64: GObject wrapper library for Avahi
+xmlsec1-openssl.x86_64: OpenSSL crypto plugin for XML Security Library
+usbutils.x86_64: Linux USB utilities
+osinfo-db.noarch: osinfo database files
+python3-cups.x86_64: Python3 bindings for CUPS API, known as pycups.
+libgsf.x86_64: GNOME Structured File library
+osinfo-db-tools.x86_64: Tools for managing the osinfo database
+libosinfo.x86_64: A library for managing OS information for virtualization
+initscripts-service.noarch: Support for service command
+unity-gtk-module-common.noarch: Common files for unity-gtk{2,3}-module
+libqalculate.x86_64: Multi-purpose calculator library
+libmpc.x86_64: C library for multiple precision complex arithmetic
+libopusenc.x86_64: A library that provides an easy way to encode Ogg Opus files
+opusfile.x86_64: A high-level API for decoding and seeking within .opus files
+python3-satyr.x86_64: Python 3 bindings for satyr
+urw-base35-bookman-fonts.noarch: URW Bookman font family [part of Level 2 Core Font Set]
+urw-base35-c059-fonts.noarch: C059 font family [part of Level 2 Core Font Set]
+urw-base35-d050000l-fonts.noarch: D050000L font family [part of Level 2 Core Font Set]
+urw-base35-gothic-fonts.noarch: URW Gothic font family [part of Level 2 Core Font Set]
+urw-base35-nimbus-mono-ps-fonts.noarch: Nimbus Mono PS font family [part of Level 2 Core Font Set]
+urw-base35-nimbus-roman-fonts.noarch: Nimbus Roman font family [part of Level 2 Core Font Set]
+urw-base35-nimbus-sans-fonts.noarch: Nimbus Sans font family [part of Level 2 Core Font Set]
+urw-base35-p052-fonts.noarch: P052 font family [part of Level 2 Core Font Set]
+urw-base35-standard-symbols-ps-fonts.noarch: Standard Symbols PS font family [part of Level 2 Core Font Set]
+urw-base35-z003-fonts.noarch: Z003 font family [part of Level 2 Core Font Set]
+urw-base35-fonts.noarch: Core Font Set containing 35 freely distributable fonts from (URW)++
+xmlsec1-nss.x86_64: NSS crypto plugin for XML Security Library
+volume_key-libs.x86_64: A library for manipulating storage encryption keys and passphrases
+libabw.x86_64: A library for import of AbiWord files
+libepubgen.x86_64: An EPUB generator library
+libcdr.x86_64: A library for import of CorelDRAW drawings
+libfreehand.x86_64: A library for import of Macromedia/Adobe FreeHand documents
+libmspub.x86_64: A library for import of Microsoft Publisher documents
+libpagemaker.x86_64: A library for import of Adobe PageMaker documents
+libqxp.x86_64: Library for import of QuarkXPress documents
+libvisio.x86_64: A library for import of Microsoft Visio diagrams
+libzmf.x86_64: A library for import of Zoner document formats
+default-fonts-ast.noarch: Metapackage to install default fonts for Asturian
+default-fonts-be.noarch: Metapackage to install default fonts for Belarusian
+default-fonts-bg.noarch: Metapackage to install default fonts for Bulgarian
+default-fonts-br.noarch: Metapackage to install default fonts for Breton
+default-fonts-dz.noarch: Metapackage to install default fonts for Bhutanese
+default-fonts-el.noarch: Metapackage to install default fonts for Greek
+default-fonts-eo.noarch: Metapackage to install default fonts for Esperanto
+default-fonts-eu.noarch: Metapackage to install default fonts for Basque
+default-fonts-ia.noarch: Metapackage to install default fonts for Interlingua
+default-fonts-kab.noarch: Metapackage to install default fonts for Kabyle
+default-fonts-ku.noarch: Metapackage to install default fonts for Kurdish
+default-fonts-nb.noarch: Metapackage to install default fonts for Norwegian
+default-fonts-nn.noarch: Metapackage to install default fonts for Nynorsk
+default-fonts-nr.noarch: Metapackage to install default fonts for Southern Ndebele
+default-fonts-nso.noarch: Metapackage to install default fonts for Northern Sotho
+default-fonts-ru.noarch: Metapackage to install default fonts for Russian
+default-fonts-ss.noarch: Metapackage to install default fonts for Swati
+default-fonts-tn.noarch: Metapackage to install default fonts for Tswana
+default-fonts-ts.noarch: Metapackage to install default fonts for Tsonga
+default-fonts-uk.noarch: Metapackage to install default fonts for Ukrainian
+default-fonts-ve.noarch: Metapackage to install default fonts for Venda
+default-fonts-vi.noarch: Metapackage to install default fonts for Vietnamese
+default-fonts-xh.noarch: Metapackage to install default fonts for Xhosa
+default-fonts-zu.noarch: Metapackage to install default fonts for Zulu
+harfbuzz-icu.x86_64: Harfbuzz ICU support library
+boost-regex.x86_64: Run-time component of boost regular expression library
+djvulibre-libs.x86_64: Library files for DjVuLibre
+qpdf-libs.x86_64: QPDF library for transforming PDF files
+libyuv.x86_64: YUV conversion and scaling functionality library
+google-noto-sans-math-fonts.noarch: Noto Sans Math font
+google-noto-sans-symbols-2-fonts.noarch: Noto Sans Symbols 2 font
+google-noto-sans-symbols-vf-fonts.noarch: Noto Sans Symbols variable font
+google-noto-naskh-arabic-vf-fonts.noarch: Noto Naskh Arabic variable font
+google-noto-serif-armenian-vf-fonts.noarch: Noto Serif Armenian variable font
+google-noto-serif-bengali-vf-fonts.noarch: Noto Serif Bengali variable font
+google-noto-serif-devanagari-vf-fonts.noarch: Noto Serif Devanagari variable font
+google-noto-serif-ethiopic-vf-fonts.noarch: Noto Serif Ethiopic variable font
+google-noto-serif-georgian-vf-fonts.noarch: Noto Serif Georgian variable font
+google-noto-serif-gujarati-vf-fonts.noarch: Noto Serif Gujarati variable font
+google-noto-serif-gurmukhi-vf-fonts.noarch: Noto Serif Gurmukhi variable font
+google-noto-serif-hebrew-vf-fonts.noarch: Noto Serif Hebrew variable font
+google-noto-serif-kannada-vf-fonts.noarch: Noto Serif Kannada variable font
+google-noto-serif-khmer-vf-fonts.noarch: Noto Serif Khmer variable font
+google-noto-serif-lao-vf-fonts.noarch: Noto Serif Lao variable font
+google-noto-serif-oriya-vf-fonts.noarch: Noto Serif Oriya variable font
+google-noto-serif-sinhala-vf-fonts.noarch: Noto Serif Sinhala variable font
+google-noto-serif-tamil-vf-fonts.noarch: Noto Serif Tamil variable font
+google-noto-serif-telugu-vf-fonts.noarch: Noto Serif Telugu variable font
+google-noto-serif-thai-vf-fonts.noarch: Noto Serif Thai variable font
+google-noto-sans-ethiopic-vf-fonts.noarch: Noto Sans Ethiopic variable font
+default-fonts-am.noarch: Metapackage to install default fonts for Amharic
+google-noto-sans-arabic-vf-fonts.noarch: Noto Sans Arabic variable font
+default-fonts-ar.noarch: Metapackage to install default fonts for Arabic
+google-noto-sans-cherokee-vf-fonts.noarch: Noto Sans Cherokee variable font
+default-fonts-chr.noarch: Metapackage to install default fonts for Cherokee
+google-noto-sans-thaana-vf-fonts.noarch: Noto Sans Thaana variable font
+default-fonts-dv.noarch: Metapackage to install default fonts for Divehi
+google-noto-sans-gothic-fonts.noarch: Noto Sans Gothic font
+default-fonts-got.noarch: Metapackage to install default fonts for Gothic
+google-noto-sans-gujarati-vf-fonts.noarch: Noto Sans Gujarati variable font
+default-fonts-gu.noarch: Metapackage to install default fonts for Gujarati
+google-noto-sans-armenian-vf-fonts.noarch: Noto Sans Armenian variable font
+default-fonts-hy.noarch: Metapackage to install default fonts for Armenian
+google-noto-sans-canadian-aboriginal-vf-fonts.noarch: Noto Sans Canadian Aboriginal variable font
+default-fonts-iu.noarch: Metapackage to install default fonts for Inuktitut
+google-noto-sans-georgian-vf-fonts.noarch: Noto Sans Georgian variable font
+default-fonts-ka.noarch: Metapackage to install default fonts for Georgian
+google-noto-sans-khmer-vf-fonts.noarch: Noto Sans Khmer variable font
+default-fonts-km.noarch: Metapackage to install default fonts for Khmer
+google-noto-sans-kannada-vf-fonts.noarch: Noto Sans Kannada variable font
+default-fonts-kn.noarch: Metapackage to install default fonts for Kannada
+google-noto-sans-lao-vf-fonts.noarch: Noto Sans Lao variable font
+default-fonts-lo.noarch: Metapackage to install default fonts for Lao
+google-noto-sans-meetei-mayek-vf-fonts.noarch: Noto Sans Meetei Mayek variable font
+default-fonts-mni.noarch: Metapackage to install default fonts for Manipuri
+google-noto-sans-nko-fonts.noarch: Noto Sans NKo font
+default-fonts-nqo.noarch: Metapackage to install default fonts for N'Ko
+google-noto-sans-oriya-vf-fonts.noarch: Noto Sans Oriya variable font
+default-fonts-or.noarch: Metapackage to install default fonts for Odia
+google-noto-sans-gurmukhi-vf-fonts.noarch: Noto Sans Gurmukhi variable font
+default-fonts-pa.noarch: Metapackage to install default fonts for Punjabi
+google-noto-sans-ol-chiki-vf-fonts.noarch: Noto Sans Ol Chiki variable font
+default-fonts-sat.noarch: Metapackage to install default fonts for Santali
+google-noto-sans-sinhala-vf-fonts.noarch: Noto Sans Sinhala variable font
+default-fonts-si.noarch: Metapackage to install default fonts for Sinhala
+google-noto-sans-syriac-vf-fonts.noarch: Noto Sans Syriac variable font
+default-fonts-syr.noarch: Metapackage to install default fonts for Syriac
+google-noto-sans-tamil-vf-fonts.noarch: Noto Sans Tamil variable font
+default-fonts-ta.noarch: Metapackage to install default fonts for Tamil
+google-noto-sans-telugu-vf-fonts.noarch: Noto Sans Telugu variable font
+default-fonts-te.noarch: Metapackage to install default fonts for Telugu
+google-noto-sans-thai-vf-fonts.noarch: Noto Sans Thai variable font
+default-fonts-th.noarch: Metapackage to install default fonts for Thai
+google-noto-sans-fonts.noarch: Noto Sans font
+google-noto-sans-mono-fonts.noarch: Noto Sans Mono font
+google-noto-sans-mono-cjk-vf-fonts.noarch: Google Noto Sans Mono CJK Variable Fonts
+google-noto-sans-cjk-vf-fonts.noarch: Google Noto Sans CJK Variable Fonts
+google-noto-serif-cjk-vf-fonts.noarch: Google Noto Serif CJK Variable Fonts
+google-noto-color-emoji-fonts.noarch: Google “Noto Color Emoji” colored emoji font
+stix-fonts.noarch: STIX, a scientific and engineering font family
+rit-rachana-fonts.noarch: OpenType font for Malayalam traditional script
+google-carlito-fonts.noarch: Carlito, a sans-serif font family metric-compatible with Calibri font family
+google-crosextra-caladea-fonts.noarch: Serif font metric-compatible with Cambria font
+liberation-mono-fonts.noarch: Monospace fonts to replace commonly used Microsoft Courier New
+liberation-sans-fonts.noarch: Sans-serif fonts to replace commonly used Microsoft Arial
+liberation-serif-fonts.noarch: Serif fonts to replace commonly used Microsoft Times New Roman
+jomolhari-fonts.noarch: Jomolhari a Bhutanese style font for Tibetan and Dzongkha
+default-fonts-bo.noarch: Metapackage to install default fonts for Tibetan
+vazirmatn-vf-fonts.noarch: A simple and legible Persian/Arabic typeface (variable version)
+default-fonts-fa.noarch: Metapackage to install default fonts for Persian
+rit-meera-new-fonts.noarch: OpenType sans-serif font for Malayalam traditional script
+default-fonts-ml.noarch: Metapackage to install default fonts for Malayalam
+sil-padauk-fonts.noarch: A font for Burmese and the Myanmar script
+default-fonts-my.noarch: Metapackage to install default fonts for Burmese
+madan-fonts.noarch: Font for Nepali language
+default-fonts-ne.noarch: Metapackage to install default fonts for Nepali
+paktype-naskh-basic-fonts.noarch: Fonts for Arabic, Farsi, Urdu and Sindhi from PakType
+default-fonts-ur.noarch: Metapackage to install default fonts for Urdu
+abattis-cantarell-fonts.noarch: Humanist sans serif font
+google-droid-sans-fonts.noarch: Droid Sans, a humanist sans-serif font family
+cronie.x86_64: Cron daemon for executing programs at set times
+crontabs.noarch: Root crontab files used to schedule the execution of programs
+cronie-anacron.x86_64: Utility for running regular jobs
+libtraceevent.x86_64: Library to parse raw trace event formats
+libwmf-lite.x86_64: Windows Metafile parser library
+liblqr-1.x86_64: LiquidRescale library
+libmd.x86_64: Library that provides message digest functions from BSD systems
+libbsd.x86_64: Library providing BSD-compatible functions for portability
+libnet.x86_64: C library for portable packet creation and injection
+python3-inotify.noarch: Monitor filesystem events with Python under Linux
+hdparm.x86_64: A utility for displaying and/or setting hard disk parameters
+tuned.noarch: A dynamic adaptive system tuning daemon
+python3-pysocks.noarch: A Python SOCKS client module
+libqb.x86_64: Library providing high performance logging, tracing, ipc, and poll
+dlm-lib.x86_64: Library for dlm
+tcl8.x86_64: Tool Command Language, pronounced tickle, version 8
+uchardet.x86_64: An encoding detector library ported from Mozilla
+totem-pl-parser.x86_64: Totem Playlist Parser library
+libiptcdata.x86_64: IPTC tag library
+libcue.x86_64: Cue sheet parser library
+exempi.x86_64: Library for easy parsing of XMP metadata
+boost-atomic.x86_64: Run-time component of boost atomic library
+boost-filesystem.x86_64: Run-time component of boost filesystem library
+boost-program-options.x86_64: Run-time component of boost program_options library
+tinyxml2.x86_64: Simple, small and efficient C++ XML parser
+libjaylink.x86_64: Library for SEGGER J-Link and compatible devices
+libftdi.x86_64: Library to program and control the FTDI USB controller
+flashrom.x86_64: Simple program for reading/writing flash chips content
+gnustep-filesystem.x86_64: The basic directory layout for GNUstep packages
+gnustep-make.x86_64: GNUstep makefile package
+gnustep-base-libs.x86_64: GNUStep Base Libraries
+antiword.x86_64: MS Word to ASCII/Postscript converter
+protobuf.x86_64: Protocol Buffers - Google's data interchange format
+abseil-cpp.x86_64: C++ Common Libraries
+libphonenumber.x86_64: Library to handle international phone numbers
+nano.x86_64: A small text editor
+nano-default-editor.noarch: Sets GNU nano as the default editor
+libev.x86_64: High-performance event loop/event model with lots of features
+libverto-libev.x86_64: libev module for libverto
+f2fs-tools.x86_64: Tools for Flash-Friendly File System (F2FS)
+xdg-dbus-proxy.x86_64: Filtering proxy for D-Bus connections
+python3-olefile.noarch: Python package to parse, read and write Microsoft OLE2 files
+tzdata-java.noarch: Timezone data for Java
+lksctp-tools.x86_64: User-space access to Linux Kernel SCTP
+javapackages-filesystem.noarch: Java packages filesystem layout
+openblas.x86_64: An optimized BLAS library based on GotoBLAS2
+accountsservice.x86_64: D-Bus interfaces for querying and manipulating user account information
+libi2c.x86_64: I2C/SMBus bus access library
+i2c-tools.x86_64: A heterogeneous set of I2C tools for Linux
+ddcutil.x86_64: Query and update monitor settings
+libfontenc.x86_64: X.Org X11 libfontenc runtime library
+libXfont2.x86_64: X.Org X11 libXfont2 runtime library
+libXdmcp.x86_64: X Display Manager Control Protocol library
+libtommath.x86_64: A portable number theoretic multiple-precision integer library
+tcl.x86_64: Tool Command Language, pronounced tickle
+usb_modeswitch-data.noarch: USB Modeswitch gets mobile broadband cards in operational mode
+usb_modeswitch.x86_64: USB Modeswitch gets mobile broadband cards in operational mode
+python3-ply.noarch: Python Lex-Yacc
+python3-pycparser.noarch: C parser and AST generator written in Python
+python3-cffi.x86_64: Foreign Function Interface for Python to call C code
+python3-xkbregistry.x86_64: Bindings for libxkbregistry using cffi
+uriparser.x86_64: URI parsing library - RFC 3986
+pakchois.x86_64: A wrapper library for PKCS#11
+libmusicbrainz5.x86_64: Library for accessing MusicBrainz servers
+libfsverity.x86_64: Development package for fsverity-utils
+ima-evm-utils-libs.x86_64: Libraries for ima-evm-utils
+rpm-sign-libs.x86_64: Libraries for signing RPM packages
+python3-rpm.x86_64: Python 3 bindings for apps which will manipulate RPM packages
+python3-simpleline.noarch: A Python3 library for creating text UI
+libcomps.x86_64: Comps XML file manipulation library
+python3-libcomps.x86_64: Python 3 bindings for libcomps library
+checkpolicy.x86_64: SELinux policy compiler
+python3-policycoreutils.noarch: SELinux policy core python3 interfaces
+policycoreutils-python-utils.noarch: SELinux policy core python utilities
+mysql-selinux.noarch: SELinux policy modules for MySQL and MariaDB packages
+iniparser.x86_64: C library for parsing "INI-style" files
+python3-libmount.x86_64: Python bindings for the libmount library
+pkcs11-helper.x86_64: A library for using PKCS#11 providers
+NetworkManager-openvpn.x86_64: NetworkManager VPN plugin for OpenVPN
+ldns.x86_64: Low-level DNS(SEC) library with API
+jsoncpp.x86_64: JSON library implemented in C++
+pugixml.x86_64: A light-weight C++ XML processing library
+poly2tri.x86_64: A 2D constrained Delaunay triangulation library
+assimp.x86_64: Library to import various 3D model formats into applications
+cjson.x86_64: Ultralightweight JSON parser in ANSI C
+librist.x86_64: Library for Reliable Internet Stream Transport (RIST) protocol
+libudfread.x86_64: UDF reader library
+libbluray.x86_64: Library to access Blu-Ray disks for video playback
+openpgm.x86_64: An implementation of the PGM reliable multicast protocol
+libsodium.x86_64: The Sodium crypto library
+zeromq.x86_64: Software library for fast, message-based applications
+libdovi.x86_64: Dolby Vision metadata parsing and writing
+libplacebo.x86_64: Reusable library for GPU-accelerated video/image rendering primitives
+libunibreak.x86_64: A Unicode line-breaking library
+libass.x86_64: Portable library for SSA/ASS subtitles rendering
+lpcnetfreedv.x86_64: LPCNet for FreeDV
+codec2.x86_64: Next-Generation Digital Voice for Two-Way Radio
+sgml-common.noarch: Common SGML catalog and DTD files
+docbook-dtds.noarch: SGML and XML document type definitions for DocBook
+docbook-style-xsl.noarch: Norman Walsh's XSL stylesheets for DocBook XML
+openblas-serial.x86_64: An optimized BLAS library based on GotoBLAS2, serial version
+openexr-libs.x86_64: OpenEXR Libraries
+highway.x86_64: Efficient and performance-portable SIMD
+libjxl.x86_64: Library files for JPEG-XL
+jxl-pixbuf-loader.x86_64: JPEG-XL image loader for GTK+ applications
+dnf-data.noarch: Common data and configuration files for DNF
+python3-dnf.noarch: Python 3 interface to DNF
+python3-libreport.x86_64: Python 3 bindings for report-libs
+abrt-dbus.x86_64: ABRT DBus service
+abrt.x86_64: Automatic bug detection and reporting tool
+python3-abrt.x86_64: ABRT Python 3 API
+abrt-addon-kerneloops.x86_64: abrt's kerneloops addon
+libreport-plugin-bugzilla.x86_64: libreport's bugzilla plugin
+abrt-addon-pstoreoops.x86_64: abrt's pstore oops addon
+abrt-addon-vmcore.x86_64: abrt's vmcore addon
+python3-abrt-addon.noarch: abrt's addon for catching and analyzing Python 3 exceptions
+abrt-addon-xorg.x86_64: abrt's Xorg addon
+abrt-plugin-bodhi.x86_64: abrt's bodhi plugin
+python3-meh.noarch: A python 3 library for handling exceptions
+libreport-anaconda.x86_64: Default configuration for reporting anaconda bugs
+python3-dnf-plugins-core.noarch: Core Plugins for DNF
+python3-typing-extensions.noarch: Python Typing Extensions
+ctags.x86_64: A C programming language indexing and/or cross-reference tool
+source-highlight.x86_64: Produces a document with syntax highlighting
+libstemmer.x86_64: Stemming algorithms written in C
+appstream-data.noarch: Fedora AppStream metadata
+appstream.x86_64: Utilities to generate, maintain and access the AppStream database
+PackageKit.x86_64: Package management service
+xerces-c.x86_64: Validating XML Parser
+libkolabxml.x86_64: Kolab XML format collection parser library
+ktextaddons-common.noarch: Translations and documents for ktextaddons
+libdatrie.x86_64: Implementation of Double-Array structure for representing trie
+libthai.x86_64: Thai language support routines
+liblangtag-data.noarch: liblangtag data files
+liblangtag.x86_64: An interface library to access tags for identifying languages
+libetonyek.x86_64: A library for import of Apple iWork documents
+libe-book.x86_64: A library for import of reflowable e-book formats
+poppler-data.noarch: Encoding files for use with poppler
+boost-date-time.x86_64: Run-time component of boost date-time library
+libcmis.x86_64: A C/C++ client library for CM interfaces
+libatasmart.x86_64: ATA S.M.A.R.T. Disk Health Monitoring Library
+python3-pwquality.x86_64: Python bindings for the libpwquality library
+python3-iso639.noarch: ISO639-2 support for Python
+python3-crypt-r.x86_64: A copy of the `crypt` module that was removed in Python 3.13
+python3-certifi.noarch: Python package for providing Mozilla's CA Bundle
+python3-sentry-sdk.noarch: The new Python SDK for Sentry.io
+woff2.x86_64: Web Open Font Format 2.0 library
+adwaita-icon-theme-legacy.noarch: Full-color icons for the Adwaita icon theme
+adwaita-icon-theme.noarch: Adwaita icon theme
+libglvnd-egl.x86_64: EGL support for libglvnd
+libglvnd-gles.x86_64: GLES support for libglvnd
+kasumi-common.noarch: Anthy dictionary management common files between kasumi and kasumi-unicode
+libpaper.x86_64: Library and tools for handling papersize
+libijs.x86_64: IJS Raster Image Transport Protocol Library
+jbig2dec-libs.x86_64: A decoder implementation of the JBIG2 image compression format
+adobe-mappings-pdf.noarch: PDF mapping resources from Adobe
+srt-libs.x86_64: Secure Reliable Transport protocol libraries
+librabbitmq.x86_64: Client library for AMQP
+libmodplug.x86_64: Modplug mod music file format library
+game-music-emu.x86_64: Video game music file emulation/playback library
+zimg.x86_64: Scaling, color space conversion, and dithering library
+vid.stab.x86_64: Video stabilize library for fmpeg, mlt or transcode
+libmysofa.x86_64: C functions for reading HRTFs
+zvbi.x86_64: Raw VBI, Teletext and Closed Caption decoding library
+xvidcore.x86_64: MPEG-4 Simple and Advanced Simple Profile codec
+vo-amrwbenc.x86_64: VisualOn AMR-WB encoder library
+ilbc.x86_64: Internet Low Bitrate Codec
+aribb24.x86_64: A library for ARIB STD-B24
+svt-av1-libs.x86_64: SVT-AV1 libraries
+libavif.x86_64: Library for encoding and decoding .avif files
+qt-settings.noarch: Configuration files for Qt
+kf5-kcoreaddons.x86_64: KDE Frameworks 5 Tier 1 addon with various classes on top of QtCore
+kf5-karchive.x86_64: KDE Frameworks 5 Tier 1 addon with archive functions
+kf5-kcodecs.x86_64: KDE Frameworks 5 Tier 1 addon with string manipulation methods
+kf5-syndication.x86_64: The Syndication Library
+kf5-kdoctools.x86_64: KDE Frameworks 5 Tier 2 addon for generating documentation
+signon-qt5.x86_64: Single Sign On client library for Qt5-based applications
+kf5-kio-ntlm.x86_64: NTLM support for KIO Framework
+kf5-attica.x86_64: KDE Frameworks Tier 1 Addon with Open Collaboration Services API
+kdsoap.x86_64: A Qt-based client-side and server-side SOAP component
+kf5-kdnssd.x86_64: KDE Frameworks 5 Tier 1 integration module for DNS-SD services (Zeroconf)
+libolm.x86_64: Double Ratchet cryptographic library
+stoken-libs.x86_64: Libraries for stoken
+openconnect.x86_64: Open multi-protocol SSL VPN client
+NetworkManager-openconnect.x86_64: NetworkManager VPN plugin for openconnect
+xdg-user-dirs.x86_64: Handles user special directories
+kde-settings.noarch: Config files for KDE
+tbb.x86_64: The Threading Building Blocks library abstracts low-level threading details
+conmon.x86_64: OCI container runtime monitor
+catatonit.x86_64: A signal-forwarding process manager for containers
+gpsd-libs.x86_64: Client libraries in C for talking to a running gpsd or GPS
+sound-theme-freedesktop.noarch: freedesktop.org sound theme
+editorconfig-libs.x86_64: Parser library for EditorConfig files (shared library)
+libasyncns.x86_64: Asynchronous Name Service Library
+pulseaudio-libs.x86_64: Libraries for PulseAudio clients
+libcanberra.x86_64: Portable Sound Event Library
+pulseaudio-libs-glib2.x86_64: GLIB 2.x bindings for PulseAudio clients
+pulseaudio-utils.x86_64: PulseAudio sound server utilities
+flite.x86_64: Small, fast speech synthesis engine (text-to-speech)
+libao.x86_64: Cross Platform Audio Output Library
+pcaudiolib.x86_64: Portable C Audio Library
+espeak-ng.x86_64: eSpeak NG Text-to-Speech
+python3-libxml2.x86_64: Python 3 bindings for the libxml2 library
+emacs-filesystem.noarch: Emacs filesystem layout
+desktop-file-utils.x86_64: Utilities for manipulating .desktop files
+xdg-utils.noarch: Basic desktop integration functions
+python3-humanize.noarch: Turns dates in to human readable format, e.g '3 minutes ago'
+libipt.x86_64: Intel Processor Trace Decoder Library
+kyotocabinet-libs.x86_64: Libraries for applications using Kyoto Cabinet
+cyrus-sasl-gssapi.x86_64: GSSAPI authentication support for Cyrus SASL
+libmspack.x86_64: Library for CAB and related files compression and decompression
+rtkit.x86_64: Realtime Policy and Watchdog Daemon
+libsbc.x86_64: Library for the SBC (Sub Band Codec)
+libldac.x86_64: A lossy audio codec for Bluetooth connections
+libebur128.x86_64: A library that implements the EBU R 128 standard for loudness normalization
+uresourced.x86_64: Dynamically allocate resources to the active user
+wireplumber-libs.x86_64: Libraries for WirePlumber clients
+wireplumber.x86_64: A modular session/policy manager for PipeWire
+libpath_utils.x86_64: Filesystem Path Utilities
+libini_config.x86_64: INI file parser for C
+gssproxy.x86_64: GSSAPI Proxy
+python3-ptyprocess.noarch: Run a subprocess in a pseudo terminal
+python3-pexpect.noarch: Unicode-aware Pure Python Expect-like module
+libmaxminddb.x86_64: C library for reading MaxMind DB files
+fstrm.x86_64: Frame Streams implementation in C
+abrt-addon-ccpp.x86_64: abrt's C/C++ addon
+abrt-tui.noarch: abrt's command line interface
+libibverbs.x86_64: A library and drivers for direct userspace use of RDMA (InfiniBand/iWARP/RoCE) hardware
+libpcap.x86_64: A system-independent interface for user-level packet capture
+iw.x86_64: A nl80211 based wireless configuration tool
+boost-iostreams.x86_64: Run-time component of boost iostreams library
+liblerc.x86_64: Library for Limited Error Raster Compression
+libtiff.x86_64: Library of functions for manipulating TIFF format image files
+poppler.x86_64: PDF rendering library
+gdk-pixbuf2-modules.x86_64: GIF and TIFF modules for gdk-pixbuf2
+leptonica.x86_64: C library for efficient image processing and image analysis operations
+tesseract-libs.x86_64: Shared libraries for tesseract
+poppler-cpp.x86_64: Pure C++ wrapper for poppler
+python3-pillow.x86_64: Python 3 image processing library
+kimageannotator-common.x86_64: Common language translations for Qt5 and Qt6 builds
+cfitsio.x86_64: Library for manipulating FITS data files
+inih-cpp.x86_64: INIReader C++ library
+exiv2-libs.x86_64: Exif, IPTC and XMP metadata manipulation library
+freecell-solver-data.noarch: The Freecell Solver data files
+libfreecell-solver.x86_64: The Freecell Solver dynamic libraries for solving Freecell games
+libdmtx.x86_64: Library for working with Data Matrix 2D bar-codes
+libX11-common.noarch: Common data for libX11
+libX11.x86_64: Core X11 protocol client library
+libXext.x86_64: X.Org X11 libXext runtime library
+libXfixes.x86_64: X Fixes library
+libXi.x86_64: X.Org X11 libXi runtime library
+libXtst.x86_64: X.Org X11 libXtst runtime library
+libXinerama.x86_64: X.Org X11 libXinerama runtime library
+libXrender.x86_64: X.Org X11 libXrender runtime library
+cairo.x86_64: A 2D graphics library
+cairo-gobject.x86_64: GObject bindings for cairo
+libXrandr.x86_64: X.Org X11 libXrandr runtime library
+libXcursor.x86_64: Cursor management library
+libXdamage.x86_64: X Damage extension library
+libXcomposite.x86_64: X Composite Extension library
+libxkbfile.x86_64: X.Org X11 libxkbfile runtime library
+libXt.x86_64: X.Org X11 libXt runtime library
+libXmu.x86_64: X.Org X11 libXmu/libXmuu runtime libraries
+cairomm.x86_64: C++ API for the cairo graphics library
+poppler-utils.x86_64: Command line utilities for converting PDF files
+libXft.x86_64: X.Org X11 libXft runtime library
+rsvg-pixbuf-loader.x86_64: SVG image loader for gdk-pixbuf
+librsvg2.x86_64: An SVG library based on cairo
+xrdb.x86_64: X server resource database utility
+freerdp2-libs.x86_64: Core libraries implementing the RDP protocol
+setxkbmap.x86_64: X11 keymap client
+python3-cairo.x86_64: Python 3 bindings for the cairo library
+python3-gobject.x86_64: Python 3 bindings for GObject Introspection
+libaccounts-glib.x86_64: Accounts framework for Linux and POSIX based platforms
+libaccounts-qt5.x86_64: Accounts framework Qt5 bindings
+brlapi.x86_64: Application Programming Interface for BRLTTY
+libXv.x86_64: X.Org X11 libXv runtime library
+libXxf86vm.x86_64: X.Org X11 libXxf86vm runtime library
+xprop.x86_64: X property display utility
+gtk2.x86_64: GTK+ graphical user interface library
+atkmm.x86_64: C++ interface for the ATK library
+libXpm.x86_64: X.Org X11 libXpm runtime library
+libXaw.x86_64: X Athena Widget Set
+xmessage.x86_64: Display a message in a window
+gd.x86_64: A graphics library for quick creation of PNG or JPEG images
+libgphoto2.x86_64: Library for accessing digital cameras
+gtk2-engines.x86_64: Theme engines for GTK+ 2.0
+python3-pyatspi.noarch: Python3 bindings for at-spi
+libglvnd-glx.x86_64: GLX support for libglvnd
+libva.x86_64: Video Acceleration (VA) API for Linux
+opencv-core.x86_64: OpenCV core libraries
+glx-utils.x86_64: GLX utilities
+kf5-kconfig-core.x86_64: Non-GUI part of KConfig framework
+kf5-ki18n.x86_64: KDE Frameworks 5 Tier 1 addon for localization
+kf5-kwidgetsaddons.x86_64: KDE Frameworks 5 Tier 1 addon with various classes on top of QtWidgets
+kf5-kconfig-gui.x86_64: GUI part of KConfig framework
+kf5-kwindowsystem.x86_64: KDE Frameworks 5 Tier 1 integration module with classes for windows management
+kf5-kjobwidgets.x86_64: KDE Frameworks 5 Tier 2 addon for KJobs
+kf5-kcompletion.x86_64: KDE Frameworks 5 Tier 2 addon with auto completion widgets and classes
+kf5-sonnet-core.x86_64: Non-gui part of the Sonnet framework
+kf5-kguiaddons.x86_64: KDE Frameworks 5 Tier 1 addon with various classes on top of QtGui
+kf5-kitemviews.x86_64: KDE Frameworks 5 Tier 1 addon with item views
+kf5-kdbusaddons.x86_64: KDE Frameworks 5 Tier 1 addon with various classes on top of QtDBus
+kf5-kservice.x86_64: KDE Frameworks 5 Tier 3 solution for advanced plugin and service introspection
+kf5-solid.x86_64: KDE Frameworks 5 Tier 1 integration module that provides hardware information
+kf5-sonnet-ui.x86_64: GUI part of the Sonnet framework
+kf5-kwallet.x86_64: KDE Frameworks 5 Tier 3 solution for password management
+kf5-kwallet-libs.x86_64: KWallet framework libraries
+kf5-sonnet.x86_64: KDE Frameworks 5 Tier 1 solution for spell checking
+maliit-framework.x86_64: Input method framework
+maliit-framework-qt5.x86_64: Input method module for Qt 5 based on Maliit framework
+kf5-kcrash.x86_64: KDE Frameworks 5 Tier 2 addon for handling application crashes
+kf5-kactivities.x86_64: A KDE Frameworks 5 Tier 3 to organize user work into separate activities
+kf5-kirigami2.x86_64: QtQuick plugins to build user interfaces based on the KDE UX guidelines
+kf5-kglobalaccel.x86_64: KDE Frameworks 5 Tier 3 integration module for global shortcuts
+kf5-kglobalaccel-libs.x86_64: Runtime libraries for kf5-kglobalaccel
+phonon-qt5.x86_64: Multimedia framework api for Qt5
+kf5-kactivities-stats.x86_64: A KDE Frameworks 5 Tier 3 library for accessing the usage data collected by the activities system
+kf5-kpackage.x86_64: KDE Frameworks 5 Tier 2 library to load and install packages as plugins
+qt5-qtfeedback.x86_64: Qt5 Tactile Feedback
+maliit-keyboard.x86_64: Maliit Keyboard 2
+kf5-bluez-qt.x86_64: A Qt wrapper for Bluez
+kf5-syntax-highlighting.x86_64: KDE Frameworks 5 Syntax highlighting engine for Kate syntax definitions
+dbusmenu-qt5.x86_64: A Qt implementation of the DBusMenu protocol
+kf5-knotifications.x86_64: KDE Frameworks 5 Tier 2 solution with abstraction for system notifications
+polkit-qt5-1.x86_64: PolicyKit Qt5 bindings
+kf5-kauth.x86_64: KDE Frameworks 5 Tier 2 integration module to perform actions as privileged user
+kf5-kconfigwidgets.x86_64: KDE Frameworks 5 Tier 3 addon for creating configuration dialogs
+kf5-kiconthemes.x86_64: KDE Frameworks 5 Tier 3 integration module with icon themes
+kf5-kxmlgui.x86_64: KDE Frameworks 5 Tier 3 solution for user-configurable main windows
+kf5-kbookmarks.x86_64: KDE Frameworks 5 Tier 3 addon for bookmarks manipulation
+kf5-qqc2-desktop-style.x86_64: QtQuickControls2 style for consistency between QWidget and QML apps
+kf5-ktextwidgets.x86_64: KDE Frameworks 5 Tier 3 addon with advanced text editing widgets
+kf5-kio-core-libs.x86_64: Runtime libraries for KIO Core
+kf5-kinit.x86_64: KDE Frameworks 5 tier 3 solution for process launching
+kf5-kio-gui.x86_64: Gui components for the KIO Framework
+kf5-kio-doc.noarch: Documentation files for kf5-kio
+kf5-kio-core.x86_64: Core components of the KIO Framework
+kf5-kio-widgets-libs.x86_64: Runtime libraries for KIO Widgets library
+kf5-kio-widgets.x86_64: Widgets for KIO Framework
+kf5-kio-file-widgets.x86_64: Widgets for file-handling for KIO Framework
+kf5-kparts.x86_64: KDE Frameworks 5 Tier 3 solution for KParts
+kf5-kdewebkit.x86_64: KDE Frameworks 5 Tier 3 integration module for QtWebKit
+kf5-purpose.x86_64: Framework for providing abstractions to get the developer's purposes fulfilled
+kf5-knewstuff.x86_64: KDE Frameworks 5 Tier 3 module for downloading application assets
+opencv-imgproc.x86_64: OpenCV module: Image Processing
+zenity.x86_64: Display dialog boxes from shell scripts
+tecla.x86_64: Keyboard layout viewer
+libnma-gtk4.x86_64: Experimental GTK 4 version of NetworkManager GUI library
+freeglut.x86_64: A freely licensed alternative to the GLUT library
+libcaca.x86_64: Library for Colour AsCii Art, text mode graphics
+python3-brlapi.x86_64: Python 3 binding for BrlAPI
+pangomm.x86_64: C++ interface for Pango
+tk.x86_64: The graphical toolkit for the Tcl scripting language
+libspectre.x86_64: A library for rendering PostScript(TM) documents
+xhost.x86_64: Manage hosts or users allowed to connect to the X server
+xorg-x11-xauth.x86_64: X.Org X11 X authority utilities
+xkbcomp.x86_64: XKB keymap compiler
+libgxps.x86_64: GObject based library for handling and rendering XPS documents
+poppler-glib.x86_64: Glib wrapper for poppler
+libfakekey.x86_64: Library for converting characters to X key-presses
+libvdpau.x86_64: Wrapper library for the Video Decode and Presentation API
+libchromaprint.x86_64: Library implementing the AcoustID fingerprinting
+libXxf86dga.x86_64: X.Org X11 libXxf86dga runtime library
+xdpyinfo.x86_64: X11 display information utility
+libXres.x86_64: X-Resource extension client library
+libXScrnSaver.x86_64: X.Org X11 libXss runtime library
+dbus-x11.x86_64: X11-requiring add-ons for D-BUS
+xmodmap.x86_64: Edit and display the X11 core keyboard map
+xorg-x11-xinit.x86_64: X.Org X11 X Window System xinit startup scripts
+imsettings.x86_64: Delivery framework for general Input Method configuration
+imsettings-gsettings.x86_64: GSettings support on imsettings
+startup-notification.x86_64: Library for tracking application startup
+libcloudproviders.x86_64: Library for integration of cloud storage providers
+gtk3.x86_64: GTK+ graphical user interface library
+libreport-gtk.x86_64: GTK front-end for libreport
+gnome-abrt.x86_64: A utility for viewing problems that have occurred with the system
+system-config-printer-libs.noarch: Libraries and shared code for printer administration tool
+libdbusmenu-gtk3.x86_64: Library for passing menus over DBus - Development files - GTK+2 version - GTK+3 version
+libnma.x86_64: NetworkManager GUI library
+nm-connection-editor.x86_64: A network connection configuration editor for NetworkManager
+egl-utils.x86_64: EGL utilities
+tslib.x86_64: Touchscreen Access Library
+SDL2_ttf.x86_64: TrueType font rendering library for SDL2
+python3-meh-gui.noarch: Graphical user interface for the python3-meh library
+gtkmm3.0.x86_64: C++ interface for the GTK+ library
+im-chooser-common.x86_64: Common files for im-chooser subpackages
+im-chooser.x86_64: Desktop Input Method configuration tool
+kasumi-unicode.x86_64: An anthy-unicode dictionary management tool
+ibus-anthy-python.noarch: Anthy Python files for IBus
+ibus-anthy.x86_64: The Anthy engine for IBus input platform
+abrt-gui-libs.x86_64: Libraries for abrt-gui
+abrt-gui.x86_64: abrt's gui
+libunity-gtk3-parser.x86_64: Gtk3MenuShell to GMenuModel parser
+unity-gtk3-module.x86_64: Gtk3MenuShell D-Bus exporter
+xdg-desktop-portal-gtk.x86_64: Backend implementation for xdg-desktop-portal using GTK+
+libwnck3.x86_64: Window Navigator Construction Kit
+libcanberra-gtk3.x86_64: Gtk+ 3.x Bindings for libcanberra
+python3-click.noarch: Simple wrapper around optparse for powerful command line utilities
+fedora-third-party.noarch: Tool for handling third-party RPM and Flatpak repositories in Fedora
+fedora-flathub-remote.noarch: Third party remote pointing to a filtered version of flathub.org
+fedora-workstation-repositories.x86_64: Repository files for searchable repositories
+qtkeychain-qt6.x86_64: Development files for qtkeychain-qt5
+PackageKit-Qt6.x86_64: Qt6 support library for PackageKit
+libaccounts-qt6.x86_64: Accounts framework Qt6 bindings
+polkit-qt6-1.x86_64: PolicyKit Qt6 bindings
+appstream-qt.x86_64: Qt6 bindings for appstream
+qgpgme-qt6.x86_64: Qt6 API bindings/wrapper for GPGME
+signon-qt6.x86_64: Single Sign On client library for Qt6-based applications
+accounts-qml-module-qt6.x86_64: Qt6 build of accounts-qml-module
+f42-backgrounds-base.noarch: Base images for Fedora  42 default background
+desktop-backgrounds-compat.noarch: The default Fedora wallpaper for less common DEs
+kdiagram.x86_64: Powerful libraries (KChart, KGantt) for creating business diagrams
+signon.x86_64: Accounts framework for Linux and POSIX based platforms
+signon-plugin-oauth2.x86_64: OAuth2 plugin for the Accounts framework
+pulseaudio-qt-qt6.x86_64: Qt6 bindings for PulseAudio
+poppler-qt6.x86_64: Qt6 wrapper for poppler
+phonon-qt6.x86_64: Multimedia framework api for Qt6
+qca-qt6.x86_64: Qt6 Cryptographic Architecture
+kdsoap6.x86_64: Qt 6 version of kdsoap
+kdsoap-ws-discovery-client.x86_64: Library for finding WS-Discovery devices in the network using Qt6 and KDSoap
+qca-qt6-ossl.x86_64: Openssl plugin for the Qt6 Cryptographic Architecture
+f42-backgrounds-kde.noarch: Fedora  42 default wallpaper for KDE
+kde-settings-plasma.noarch: Configuration files for plasma
+libquotient-qt6.x86_64: Files for qt6
+pinentry-qt.x86_64: Passphrase/PIN entry dialog based on Qt6
+kio-fuse.x86_64: KIO FUSE
+ktextaddons-qt6.x86_64: Qt6 libraries for ktextaddons
+kcolorpicker-qt6.x86_64: QToolButton control with color popup menu (Qt6)
+kimageannotator-qt6.x86_64: Library and a tool for annotating images. Part of KSnip project. (Qt6)
+qaccessibilityclient-qt6.x86_64: Accessibility client library for Qt6
+sddm.x86_64: QML based desktop and login manager
+kde-settings-sddm.noarch: Configuration files for sddm
+signon-ui.x86_64: Online Accounts Sign-on Ui
+zxcvbn-c.x86_64: C/C++ version of the zxcvbn password strength estimator
+libexttextcat.x86_64: Text categorization library
+libeot.x86_64: A library for parsing Embedded OpenType font files
+libargon2.x86_64: The password-hashing library
+Box2D.x86_64: A 2D Physics Engine for Games
+python3-pygdbmi.noarch: Get Structured Output from GDB's Machine Interface
+python3-psutil.x86_64: A process and system utilities module for Python
+aha.x86_64: Convert terminal output to HTML
+highcontrast-icon-theme.noarch: HighContrast icon theme
+linux-atm-libs.x86_64: Linux ATM API library
+ppp.x86_64: The Point-to-Point Protocol daemon
+NetworkManager-l2tp.x86_64: NetworkManager VPN plugin for L2TP and L2TP/IPsec
+pptp.x86_64: Point-to-Point Tunneling Protocol (PPTP) Client
+NetworkManager-pptp.x86_64: NetworkManager VPN plugin for PPTP
+soundtouch.x86_64: Audio Processing library for changing Tempo, Pitch and Playback Rates
+libsrtp.x86_64: An implementation of the Secure Real-time Transport Protocol (SRTP)
+libmpeg2.x86_64: MPEG-2 decoder libraries
+cmark-lib.x86_64: CommonMark parsing and rendering library
+p7zip-plugins.x86_64: Additional plugins for p7zip
+redhat-menus.noarch: Configuration and data files for the desktop menus
+pcre2-utf32.x86_64: UTF-32 variant of PCRE2
+unicode-ucd.noarch: Unicode Character Database
+python3-pyxdg.noarch: Python3 library to access freedesktop.org standards
+zram-generator.x86_64: Systemd unit generator for zram swap devices
+libpipeline.x86_64: A pipeline manipulation library
+setroubleshoot-plugins.noarch: Analysis plugins for use with setroubleshoot
+setroubleshoot-server.x86_64: SELinux troubleshoot server
+color-filesystem.noarch: Color filesystem layout
+colord.x86_64: Color daemon
+libcupsfilters.x86_64: Library for developing printing filters
+libfastjson.x86_64: A JSON implementation in C
+libestr.x86_64: String handling essentials library
+quota-nls.noarch: Gettext catalogs for disk quota tools
+quota.x86_64: System administration tools for monitoring users' disk usage
+ipcalc.x86_64: IP network address calculator
+dhcp-common.noarch: Common files used by ISC dhcp client, server and relay agent
+lpsolve.x86_64: Mixed Integer Linear Programming (MILP) solver
+libnumbertext.x86_64: Number to number name and money text conversion library
+libblack-hole-solver1.x86_64: The Black Hole Solver dynamic libraries
+mozilla-filesystem.x86_64: Mozilla filesytem layout
+python3-dbus-next.noarch: Zero-dependency DBus library for Python with asyncio support
+cyrus-sasl-plain.x86_64: PLAIN and LOGIN authentication support for Cyrus SASL
+lrzsz.x86_64: The lrz and lsz modem communications programs
+ncurses.x86_64: Ncurses support utilities
+perl-Digest.noarch: Modules that calculate message digests
+perl-Digest-MD5.x86_64: Perl interface to the MD5 algorithm
+perl-Data-Dumper.x86_64: Stringify perl data structures, suitable for printing and eval
+perl-MIME-Base32.noarch: Base32 encoder / decoder
+perl-libnet.noarch: Perl clients for various network protocols
+perl-IO-Socket-IP.noarch: Drop-in replacement for IO::Socket::INET supporting both IPv4 and IPv6
+perl-URI.noarch: A Perl module implementing URI parsing and manipulation
+perl-File-Path.noarch: Create or remove directory trees
+perl-Time-Local.noarch: Efficiently compute time from local and GMT time
+perl-Pod-Escapes.noarch: Resolve POD escape sequences
+perl-Text-Tabs+Wrap.noarch: Expand tabs and do simple line wrapping
+perl-Net-SSLeay.x86_64: Perl extension for using OpenSSL
+perl-IO-Socket-SSL.noarch: Perl library for transparent SSL
+perl-File-Temp.noarch: Return name and handle of a temporary file safely
+perl-Term-ANSIColor.noarch: Color screen output using ANSI escape sequences
+perl-Pod-Simple.noarch: Framework for parsing POD documentation
+perl-HTTP-Tiny.noarch: Small, simple, correct HTTP/1.1 client
+perl-Term-Cap.noarch: Perl termcap interface
+perl-Socket.x86_64: Networking constants and support functions
+perl-Pod-Perldoc.noarch: Look up Perl documentation in Pod format
+perl-podlators.noarch: Format POD source into various output formats
+perl-Text-ParseWords.noarch: Parse text into an array of tokens or array of arrays
+perl-Pod-Usage.noarch: Print a usage message from embedded POD documentation
+perl-constant.noarch: Perl pragma to declare constants
+perl-parent.noarch: Establish an ISA relationship with base classes at compile time
+perl-Storable.x86_64: Persistence for Perl data structures
+perl-MIME-Base64.x86_64: Encoding and decoding of Base64 and quoted-printable strings
+perl-Getopt-Long.noarch: Extended processing of command line options
+perl-Exporter.noarch: Implements default import method for modules
+perl-Carp.noarch: Alternative warn and die for modules
+perl-PathTools.x86_64: PathTools Perl module (Cwd, File::Spec)
+perl-Encode.x86_64: Character encodings in Perl
+perl-Math-BigInt.noarch: Arbitrary-size integer and float mathematics
+perl-DBI.x86_64: A database access API for perl
+net-tools.x86_64: Basic networking tools
+lsof.x86_64: A utility which lists open files on a Linux/UNIX system
+initial-setup.x86_64: Initial system configuration utility
+blivet-gui-runtime.noarch: blivet-gui runtime
+logrotate.x86_64: Rotates, compresses, removes and mails system log files
+libreswan.x86_64: Internet Key Exchange (IKEv1 and IKEv2) implementation for IPsec
+NetworkManager-libreswan.x86_64: NetworkManager VPN plug-in for IPsec VPN
+acl.x86_64: Access control list utilities
+libppd.x86_64: Library for retro-fitting legacy printer drivers
+bzip2.x86_64: File compression utility
+initial-setup-gui-wayland-plasma.noarch: Run initial-setup GUI on Plasma Wayland
+initial-setup-gui.x86_64: Graphical user interface for the initial-setup utility
+isomd5sum.x86_64: Utilities for working with md5sum implanted in ISO images
+kdump-anaconda-addon.noarch: Kdump configuration anaconda addon
+braille-printer-app.x86_64: Braille printer application
+NetworkManager-libreswan-gnome.x86_64: NetworkManager VPN plugin for libreswan - GNOME files
+ocfs2-tools.x86_64: Tools for managing the Oracle Cluster Filesystem 2
+man-db.x86_64: Tools for searching and reading man pages
+minicom.x86_64: A text-based modem control and terminal emulation program
+dhcp-client.x86_64: Provides the ISC DHCP client daemon and dhclient-script
+rsyslog.x86_64: Enhanced system logging and kernel message trapping daemon
+setroubleshoot.x86_64: Helps troubleshoot SELinux problems
+zram-generator-defaults.noarch: Default configuration for zram-generator
+ibus-hangul.x86_64: The Hangul engine for IBus input platform
+brltty.x86_64: Braille display driver for Linux/Unix
+adwaita-gtk2-theme.x86_64: Adwaita gtk2 theme
+plasma-welcome-fedora.noarch: Fedora-related customizations for Plasma-welcome
+phonon-qt6-backend-vlc.x86_64: VLC backend for PhononQt6
+kxkb2locale1.x86_64: Watches the KDE keyboard config and applies it to org.freedesktop.locale1
+libcanberra-gtk2.x86_64: Gtk+ 2.x Bindings for libcanberra
+abrt-desktop.x86_64: Virtual package to make easy default installation on desktop environments
+imsettings-plasma.x86_64: Plasma Workspace support on imsettings
+libappindicator-gtk3.x86_64: Application indicators library - GTK 3
+system-config-printer-udev.x86_64: Rules for udev for automatic configuration of USB printers
+gtk3-immodule-xim.x86_64: XIM support for GTK+
+localsearch.x86_64: Localsearch and metadata extractors
+catdoc-wordview.x86_64: Display Microsoft Word files in a graphical window
+kio-extras-kf5.x86_64: Additional components to increase the functionality of KIO Framework
+kwebkitpart.x86_64: A KPart based on QtWebKit
+phonon-qt5-backend-vlc.x86_64: VLC backend for PhononQt5
+kf5-sonnet-hunspell.x86_64: hunspell plugin for kf5-sonnet
+ibus-chewing.x86_64: The Chewing engine for IBus input platform
+intel-mediasdk.x86_64: Hardware-accelerated video processing on Intel integrated GPUs library
+xdriinfo.x86_64: X application to query configuration information of DRI drivers
+gtk2-immodule-xim.x86_64: XIM support for GTK+
+paps.x86_64: Plain Text to PostScript converter
+spice-vdagent.x86_64: Agent for Spice guests
+xrandr.x86_64: Commandline utility to change output properties
+xsettingsd.x86_64: Provides settings to X11 clients via the XSETTINGS specification
+exiv2.x86_64: Exif, IPTC and XMP metadata manipulation library
+nmap-ncat.x86_64: Nmap's Netcat replacement
+abrt-cli.x86_64: Virtual package to make easy default installation on non-graphical environments
+kde-settings-pulseaudio.noarch: Enable pulseaudio support in KDE
+vlc-plugin-pipewire.x86_64: Pipewire plugin for VLC media player
+pinfo.x86_64: An info file viewer
+avif-pixbuf-loader.x86_64: AVIF image loader for GTK+ applications
+PackageKit-command-not-found.x86_64: Ask the user to install command line programs automatically
+dnf-plugins-core.noarch: Core Plugins for DNF
+default-editor.noarch: Metapackage for DNF group
+unar.x86_64: Multi-format extractor
+fuse-encfs.x86_64: Encrypted pass-thru filesystem in userspace
+cryfs.x86_64: Cryptographic filesystem for the cloud
+hfsutils.x86_64: Tools for reading and writing Macintosh HFS volumes
+python3-urllib3+socks.noarch: Metapackage for python3-urllib3: socks extras
+tuned-ppd.noarch: PPD compatibility daemon
+default-fonts-other-sans.noarch: Metapackage to install default sans fonts for non-CJK languages
+default-fonts-other-serif.noarch: Metapackage to install default serif fonts for non-CJK languages
+default-fonts-core-math.noarch: Metapackage to install default fonts for Math
+default-fonts-core-emoji.noarch: Metapackage to install default fonts for Emoji
+default-fonts-cjk-serif.noarch: Metapackage to install default serif fonts for CJK languages
+default-fonts-cjk-sans.noarch: Metapackage to install default sans-serif fonts for CJK languages
+default-fonts-cjk-mono.noarch: Metapackage to install default mono fonts for CJK languages
+opus-tools.x86_64: A set of tools for the opus audio codec
+spice-webdavd.x86_64: Spice daemon for the DAV channel
+libcamera-ipa.x86_64: ISP Image Processing Algorithm Plugins for libcamera
+usbmuxd.x86_64: Daemon for communicating with Apple's iOS devices
+langpacks-en.noarch: English langpacks meta-package
+hyperv-daemons.x86_64: Hyper-V daemons suite
+hunspell-en.noarch: English hunspell dictionaries
+passwdqc.x86_64: A password/passphrase strength checking and policy enforcement toolset
+opensc.x86_64: Smart card library and applications
+cifs-utils-info.x86_64: Additional tools for querying information about CIFS mount
+gnupg2-smime.x86_64: CMS encryption and signing tool and smart card support for GnuPG
+composefs.x86_64: Tools to handle creating and mounting composefs images
+PackageKit-gstreamer-plugin.x86_64: Install GStreamer codecs using PackageKit
+glib-networking.x86_64: Networking support for GLib
+zip.x86_64: A file compression and packaging utility compatible with PKZIP
+irqbalance.x86_64: IRQ balancing daemon
+default-fonts-core-serif.noarch: Metapackage to install default serif fonts for Western characters
+default-fonts-core-mono.noarch: Metapackage to install default mono fonts for Western characters
+default-fonts-other-mono.noarch: Metapackage to install default mono fonts for non-CJK languages
+fatresize.x86_64: FAT16/FAT32 resizer
+kde-l10n.noarch: Internationalization support for KDE Applications
+lame.x86_64: Free MP3 audio compressor
+cups-pk-helper.x86_64: A helper that makes system-config-printer use PolicyKit
+webp-pixbuf-loader.x86_64: WebP image loader for GTK+ applications
+libproxy-bin.x86_64: Binary to test libproxy
+avahi-tools.x86_64: Command line tools for mDNS browsing and publishing
+iio-sensor-proxy.x86_64: IIO accelerometer sensor to input device proxy
+switcheroo-control.x86_64: D-Bus service to check the availability of dual-GPU
+python3-simpleaudio.x86_64: Simple, asynchronous audio playback module for Python 3
+google-noto-serif-fonts.noarch: Noto Serif font
+aajohan-comfortaa-fonts.noarch: Modern style true type font
+gdouros-symbola-fonts.noarch: A symbol font
+google-noto-emoji-fonts.noarch: Google “Noto Emoji” Black-and-White emoji font
+adwaita-mono-fonts.noarch: Adwaita Mono font family
+adwaita-sans-fonts.noarch: Adwaita Sans font family
+open-sans-fonts.noarch: Open Sans is a humanist sans-serif typeface designed by Steve Matteson
+p11-kit-server.x86_64: Server and client commands for p11-kit
+lsb_release.noarch: Linux Standard Base Release Tool using os-release(5)
+low-memory-monitor.x86_64: Monitors low-memory conditions
+rpm-plugin-systemd-inhibit.x86_64: Rpm plugin for systemd inhibit functionality
+cyrus-sasl-md5.x86_64: CRAM-MD5 and DIGEST-MD5 authentication support for Cyrus SASL
+jfsutils.x86_64: Utilities for managing the JFS filesystem
+geolite2-city.noarch: Free IP geolocation city database
+geolite2-country.noarch: Free IP geolocation country database
+media-player-info.noarch: Data files describing media player capabilities
+catdoc.x86_64: A program which converts Microsoft office files to plain text
+fwupd-efi.x86_64: Firmware update EFI binaries
+udftools.x86_64: Linux UDF Filesystem userspace utilities
+nilfs-utils.x86_64: Utilities for managing NILFS v2 filesystems
+python3-regex.x86_64: Alternative regular expression module, to replace re
+ntfs-3g-system-compression.x86_64: NTFS-3G plugin for reading "system compressed" files
+gawk-all-langpacks.x86_64: Additional localisation files for gawk utility
+rpm-plugin-selinux.x86_64: Rpm plugin for SELinux functionality
+prefixdevname.x86_64: Udev helper utility that provides network interface naming using user defined prefix
+rootfiles.noarch: The basic required files for the root user's directory
+mpage.x86_64: A tool for printing multiple pages of text on each printed page
+b43-openfwwf.noarch: Open firmware for some Broadcom 43xx series WLAN chips
+b43-fwcutter.x86_64: Firmware extraction tool for Broadcom wireless driver
+ed.x86_64: The GNU line editor
+words.noarch: Dictionary of English words for the /usr/share/dict directory
+tree.x86_64: File system tree viewer
+traceroute.x86_64: Traces the route taken by packets over an IPv4/IPv6 network
+time.x86_64: A GNU utility for monitoring a program's use of system resources
+symlinks.x86_64: A utility which maintains a system's symbolic links
+psacct.x86_64: Utilities for monitoring process activities
+plocate.x86_64: Much faster locate
+mcelog.x86_64: Tool to translate x86-64 CPU Machine Check Exception data
+man-pages.noarch: Linux kernel and C library user-space interface documentation
+mailcap.noarch: Helper application and MIME type associations for file types
+iptstate.x86_64: A top-like display of IP Tables state table entries
+dos2unix.x86_64: Text file format converters
+deltarpm.x86_64: Create deltas between rpms
+compsize.x86_64: Utility for measuring compression ratio of files on btrfs
+bc.x86_64: GNU's bc (a numeric processing language) and dc (a calculator)
+attr.x86_64: Utilities for managing filesystem extended attributes
+mtr.x86_64: Network diagnostic tool combining 'traceroute' and 'ping'
+fpaste.noarch: A simple tool for pasting info onto the Fedora community paste server
+bash-color-prompt.noarch: Color prompt for bash shell
+fedora-bookmarks.noarch: Fedora bookmarks
+livesys-scripts.noarch: Scripts for auto-configuring live media during boot
+gpg-pubkey.(none): Fedora (42) <fedora-42-primary@fedoraproject.org> public key
+libgcc.x86_64: GCC version 15 shared support library
+filesystem.x86_64: The basic directory layout for a Linux system
+libstdc++.x86_64: GNU Standard C++ Library
+libwayland-client.x86_64: Wayland client library
+libselinux.x86_64: SELinux library and simple utilities
+xz-libs.x86_64: Libraries for decoding LZMA compression
+libxcrypt.x86_64: Extended crypt library for descrypt, md5crypt, bcrypt, and others
+ibus-libs.x86_64: IBus libraries
+alternatives.x86_64: A tool to maintain symbolic links determining default commands
+elfutils-libelf.x86_64: Library to read and write ELF files
+libwayland-server.x86_64: Wayland server library
+speech-dispatcher-libs.x86_64: Development files for speech-dispatcher
+libwayland-cursor.x86_64: Wayland cursor library
+protobuf-c.x86_64: C bindings for Google's Protocol Buffers
+vulkan-loader.x86_64: Vulkan ICD desktop loader
+libselinux-utils.x86_64: SELinux libselinux utilities
+spirv-tools-libs.x86_64: Library files for spirv-tools
+libwayland-egl.x86_64: Wayland egl library
+openssh.x86_64: An open source implementation of SSH protocol version 2
+libgomp.x86_64: GCC OpenMP v4.5 shared support library
+LibRaw.x86_64: Library for reading RAW files obtained from digital photo cameras
+mariadb-common.noarch: The shared files required by server and client
+cups-filesystem.noarch: CUPS printing system - directory layout
+cups-libs.x86_64: CUPS printing system - libraries
+cups-client.x86_64: CUPS printing system - client programs
+flatpak-libs.x86_64: Libraries for flatpak
+perl-Scalar-List-Utils.x86_64: A selection of general-utility scalar and list subroutines
+libzip.x86_64: C library for reading, creating, and modifying zip archives
+libnotify.x86_64: Desktop notification library
+libpinyin-data.x86_64: Data files for libpinyin
+libpinyin.x86_64: Library to deal with pinyin
+libtinysparql.x86_64: Libtinysparql library
+passim-libs.x86_64: Local caching server library
+liborcus.x86_64: Standalone file import filter library for spreadsheet documents
+gutenprint-libs.x86_64: libgutenprint library
+libvpx.x86_64: VP8/VP9 Video Codec SDK
+gutenprint.x86_64: Printer Drivers Package
+ibus-gtk2.x86_64: IBus IM module for GTK2
+ibus-gtk3.x86_64: IBus IM module for GTK3
+mariadb-errmsg.noarch: The error messages files required by server and embedded
+criu.x86_64: Tool for Checkpoint/Restore in User-space
+libdecor.x86_64: Wayland client side decoration library
+sdl2-compat.x86_64: SDL 2.0 runtime compatibility library using SDL 3.0
+fprintd.x86_64: D-Bus service for Fingerprint reader access
+perl-DBD-MariaDB.x86_64: MariaDB and MySQL driver for the Perl5 Database Interface (DBI)
+libuser.x86_64: A user and group account administration library
+usermode.x86_64: Tools for certain user account management tasks
+vpnc.x86_64: IPSec VPN client compatible with Cisco equipment
+NetworkManager-vpnc.x86_64: NetworkManager VPN plugin for vpnc
+kexec-tools.x86_64: The kexec/kdump userspace component
+xz.x86_64: LZMA compression utilities
+libdnf5.x86_64: Package management library
+libdnf5-cli.x86_64: Library for working with a terminal in a command-line package manager
+upower-libs.x86_64: Client libraries for UPower
+libsemanage.x86_64: SELinux binary policy manipulation library
+vulkan-tools.x86_64: Vulkan tools
+libheif.x86_64: HEIF and AVIF file format decoder and encoder
+jxrlib.x86_64: Open source implementation of jpegxr
+tk8.x86_64: The graphical toolkit for the Tcl scripting language, version 8
+aardvark-dns.x86_64: Authoritative DNS server for A/AAAA container records
+graphviz-libs.x86_64: Graphviz libraries
+ImageMagick-libs.x86_64: ImageMagick libraries to link with
+iptables-libs.x86_64: libxtables and iptables extensions userspace support
+libatomic.x86_64: The GNU Atomic library
+libeis.x86_64: Library for Emulated Input Servers
+libsane-airscan.x86_64: SANE backend for eSCL or WSD
+sane-airscan.x86_64: SANE backend for AirScan (eSCL) and WSD document scanners
+libuv.x86_64: Platform layer for node.js
+bind-libs.x86_64: Libraries used by the BIND DNS packages
+mpdecimal.x86_64: Library for general decimal arithmetic
+ibus-panel.x86_64: IBus Panel icon
+ibus-xinit.noarch: IBus Xinit
+ibus-setup.noarch: IBus setup utility
+ibus.x86_64: Intelligent Input Bus for Linux OS
+python3-libselinux.x86_64: SELinux python 3 bindings for libselinux
+python3-speechd.x86_64: Python 3 Client API for speech-dispatcher
+python3-s3transfer.noarch: Amazon S3 Transfer Manager
+python3-rapidfuzz.x86_64: Rapid fuzzy string matching in Python and C++ using the Levenshtein Distance
+blivet-data.noarch: Data for the blivet python module.
+python3-lxml.x86_64: XML processing library combining libxml2/libxslt with the ElementTree API
+python3-soupsieve.noarch: CSS selector library
+mpg123-libs.x86_64: Real time MPEG 1.0/2.0/2.5 audio player/decoder for layers 1, 2 and 3
+wget2-libs.x86_64: Runtime libraries for GNU Wget2
+wget2.x86_64: An advanced file and recursive website downloader
+qt5-filesystem.x86_64: Filesystem for Qt 5 packages
+qt5-qtbase-common.noarch: Common files for Qt5
+qt5-qtbase.x86_64: Qt5 - QtBase components
+qt5-qtspeech.x86_64: Qt5 - Speech component
+qt5-qtbase-gui.x86_64: Qt5 GUI-related libraries
+qt5-qtdeclarative.x86_64: Qt5 - QtDeclarative component
+qcoro-qt6.x86_64: C++ Coroutines for Qt 6
+qt5-qtwayland.x86_64: Qt5 - Wayland platform support and QtCompositor module
+qt5-qtgraphicaleffects.x86_64: Qt5 - QtGraphicalEffects component
+qt5-qtquickcontrols2.x86_64: Qt5 - module with set of QtQuick controls for embedded
+kquickimageeditor-qt6.x86_64: Qt6 QtQuick components providing basic image editing capabilities
+kf5-frameworkintegration.x86_64: KDE Frameworks 5 Tier 4 workspace and cross-framework integration plugins
+kf5-frameworkintegration-libs.x86_64: Runtime libraries for kf5-frameworkintegration.
+qt5-qtx11extras.x86_64: Qt5 - X11 support library
+kf5-kwayland.x86_64: KDE Frameworks 5 library that wraps Client and Server Wayland libraries
+qt5-qtwebchannel.x86_64: Qt5 - WebChannel component
+qt5-qtsensors.x86_64: Qt5 - Sensors component
+qt5-qtquickcontrols.x86_64: Qt5 - module with set of QtQuick controls
+qt5-qtlocation.x86_64: Qt5 - Location component
+liblouis-tables.noarch: Data tables
+liblouis.x86_64: Braille translation and back-translation library
+python3-louis.noarch: Python 3 language bindings for liblouis
+liblouisutdml.x86_64: Braille transcription library for UTDML documents
+hplip-common.x86_64: Files needed by the HPLIP printer and scanner drivers
+hplip-libs.x86_64: HPLIP libraries
+fonts-filesystem.noarch: Directories used by font packages
+fedora-release-identity-kde.noarch: Package providing the identity for Fedora KDE Plasma Desktop Edition
+fedora-release-kde.noarch: Base package for Fedora KDE Plasma Desktop-specific default configurations
+fedora-release-common.noarch: Fedora release files
+elfutils-default-yama-scope.noarch: Default yama attach scope sysctl setting
+elfutils-libs.x86_64: Libraries to handle compiled objects
+elfutils-debuginfod-client.x86_64: Library and command line client for build-id HTTP ELF/DWARF server
+gdb-headless.x86_64: A GNU source-level debugger for C, C++, Fortran, Go and other languages
+xdg-desktop-portal.x86_64: Portal frontend service to flatpak
+makedumpfile.x86_64: make a small dumpfile of kdump
+dracut.x86_64: Initramfs generator using udev
+cups.x86_64: CUPS printing system
+speech-dispatcher-espeak-ng.x86_64: Speech Dispatcher espeak-ng module
+speech-dispatcher.x86_64: To provide a high-level device independent layer for speech synthesis
+mariadb.x86_64: A very fast and robust SQL database server
+mariadb-server.x86_64: The MariaDB server and related files
+smartmontools-selinux.noarch: SELinux policies for smartmontools
+smartmontools.x86_64: Tools for monitoring SMART capable hard disks
+flatpak-selinux.noarch: SELinux policy module for flatpak
+dracut-squash.x86_64: dracut module to build an initramfs with most files in a squashfs image
+flatpak-session-helper.x86_64: User D-Bus service used by flatpak and others
+flatpak.x86_64: Application deployment framework for desktop apps
+iputils.x86_64: Network monitoring tools including ping
+dracut-network.x86_64: dracut modules to build a dracut initramfs with network support
+iscsi-initiator-utils-iscsiuio.x86_64: Userspace configuration daemon required for some iSCSI hardware
+iscsi-initiator-utils.x86_64: iSCSI daemon and utility programs
+rpcbind.x86_64: Universal Addresses to RPC Program Number Mapper
+ca-certificates.noarch: The Mozilla CA root certificate bundle
+dnf5.x86_64: Command-line package manager
+open-vm-tools.x86_64: Open Virtual Machine Tools for virtual machines hosted on VMware
+tesseract-tessdata-doc.noarch: Documentation for tesseract-tessdata
+tesseract-langpack-eng.noarch: English language data for tesseract-tessdata
+tesseract.x86_64: Raw OCR Engine
+open-vm-tools-desktop.x86_64: User experience components for Open Virtual Machine Tools
+dnf5-plugins.x86_64: Plugins for dnf5
+dracut-live.x86_64: dracut modules to build a dracut initramfs with live image capabilities
+kdump-utils.x86_64: Kernel crash dump collection utilities
+skopeo.x86_64: Inspect container images and repositories on registries
+xl2tpd.x86_64: Layer 2 Tunnelling Protocol Daemon (RFC 2661)
+virtualbox-guest-additions.x86_64: VirtualBox Guest Additions
+mariadb-server-utils.noarch: Non-essential server utilities for MariaDB/MySQL applications
+mariadb-gssapi-server.x86_64: GSSAPI authentication plugin for server
+mariadb-cracklib-password-check.x86_64: The password strength checking plugin
+mariadb-backup.x86_64: The mariabackup tool for physical online backups
+mariadb-client-utils.noarch: Non-essential client utilities for MariaDB/MySQL applications
+libsane-hpaio.x86_64: SANE driver for scanners in HP's multi-function devices
+gutenprint-cups.x86_64: CUPS drivers for Canon, Epson, HP and compatible printers
+hplip.x86_64: HP Linux Imaging and Printing Project
+dracut-config-rescue.x86_64: dracut configuration to turn on rescue image generation
+python3-blivet.noarch: A python3 package for examining and modifying storage configuration.
+ipp-usb.x86_64: HTTP reverse proxy capable of IPP-over-USB connection
+upower.x86_64: Power Management Service
+wireless-regdb.noarch: Regulatory database for 802.11 wireless networking
+alsa-utils.x86_64: Advanced Linux Sound Architecture (ALSA) utilities
+cups-browsed.x86_64: Daemon for local auto-installation of remote printers
+dnsmasq.x86_64: A lightweight DHCP/caching DNS server
+openssh-server.x86_64: An open source SSH server daemon
+openvpn.x86_64: A full-featured TLS VPN solution
+qemu-guest-agent.x86_64: QEMU guest agent
+wpa_supplicant.x86_64: WPA/WPA2/IEEE 802.1X Supplicant
+iptables-nft.x86_64: nftables compatibility for iptables, arptables and ebtables
+gdb.x86_64: A GNU source-level debugger for C, C++, Fortran, Go and other languages
+elfutils.x86_64: A collection of utilities and DSOs to handle ELF files and DWARF data
+ibus-gtk4.x86_64: IBus IM module for GTK4
+qt5-qtmultimedia.x86_64: Qt5 - Multimedia support
+qt5-qtwebkit.x86_64: Qt5 - QtWebKit components
+liblouisutdml-utils.x86_64: Utilities that convert various file formats into braille
+xwaylandvideobridge.x86_64: Utility to allow streaming Wayland windows to X applications
+qt5-qtsvg.x86_64: Qt5 - Support for rendering and displaying SVG
+qt5-qtimageformats.x86_64: Qt5 - QtImageFormats component
+qt5-qtspeech-speechd.x86_64: qt5-qtspeech speech-dispatcher plugin
+wget2-wget.x86_64: wget2 shim to provide wget
+python3-beautifulsoup4.noarch: HTML/XML parser for quick-turnaround applications like screen-scraping
+speech-dispatcher-utils.x86_64: Various utilities for speech-dispatcher
+python3-libsemanage.x86_64: semanage python 3 bindings for libsemanage
+ibus-m17n.x86_64: The M17N engine for IBus platform
+python3-argcomplete.noarch: Bash tab completion for argparse
+python3-rpds-py.x86_64: Python bindings to the Rust rpds crate
+python3-setools.x86_64: Policy analysis tools for SELinux
+sos.noarch: A set of tools to gather troubleshooting information from a system
+bind-utils.x86_64: Utilities for querying DNS name servers
+ImageMagick.x86_64: An X application for displaying and manipulating images
+libdnf5-plugin-expired-pgp-keys.x86_64: Libdnf5 plugin for detecting and removing expired PGP keys
+fprintd-pam.x86_64: PAM module for fingerprint authentication
+criu-libs.x86_64: Libraries for criu
+passim.x86_64: Local caching server
+tinysparql.x86_64: Desktop-neutral metadata database and search tool
+cups-ipptool.x86_64: CUPS printing system - tool for performing IPP requests
+openssh-clients.x86_64: An open source SSH client applications
+openssh-askpass.x86_64: A passphrase dialog for OpenSSH and X
+libshaderc.x86_64: A library for compiling shader strings into SPIR-V
+libgexiv2.x86_64: Gexiv2 is a GObject-based wrapper around the Exiv2 library
+liboeffis.x86_64: Library for XDG RemoteDesktop Portal Setup
+intel-gmmlib.x86_64: Intel Graphics Memory Management Library
+spdlog.x86_64: Super fast C++ logging library
+c-ares.x86_64: A library that performs asynchronous DNS operations
+corosynclib.x86_64: The Corosync Cluster Engine Libraries
+cpp.x86_64: The C Preprocessor
+cpuinfo.x86_64: A library to detect information about host CPU
+diffutils.x86_64: GNU collection of diff utilities
+exfatprogs.x86_64: Userspace utilities for exFAT filesystems
+giflib.x86_64: A library and utilities for processing GIFs
+libdeflate.x86_64: Fast implementation of DEFLATE, gzip, and zlib
+libei.x86_64: Library for Emulated Input
+libgfortran.x86_64: Fortran runtime
+libhangul.x86_64: Hangul input library
+libobjc.x86_64: Objective-C runtime
+neon.x86_64: An HTTP and WebDAV client library
+efi-filesystem.noarch: The basic directory layout for EFI machines
+qt5-qttranslations.noarch: Qt5 - QtTranslations module
+microcode_ctl.x86_64: Tool to transform and deploy CPU microcode update for x86
+m17n-db.noarch: Multilingualization datafiles for m17n-lib
+fedora-appstream-metadata.noarch: Operating System AppStream Metadata for Fedora Linux
+gpg-pubkey.(none): RPM Fusion nonfree repository for Fedora (2020) <rpmfusion-buildsys@lists.rpmfusion.org> public key
+rpmfusion-nonfree-release.noarch: RPM Fusion (nonfree) Repository Configuration
+rpmfusion-free-release.noarch: RPM Fusion (free) Repository Configuration
+gpg-pubkey.(none): RPM Fusion free repository for Fedora (2020) <rpmfusion-buildsys@lists.rpmfusion.org> public key
+rpmfusion-free-appstream-data.noarch: Appstream metadata for the RPM Fusion free repository
+rpmfusion-nonfree-appstream-data.noarch: Appstream metadata for the RPM Fusion nonfree repository
+python-qt5-rpm-macros.noarch: RPM macros python-qt5
+python3-webencodings.noarch: Documentation for python-webencodings
+python3-tinycss2.noarch: Low-level CSS parser for Python 3
+python3-scour.noarch: An SVG scrubber
+python3-pyserial.noarch: Python serial port access library
+python3-pyparsing.noarch: Python package with an object-oriented approach to text processing
+python3-cssselect.noarch: Parses CSS3 Selectors and translates them to XPath 1.0
+python3-appdirs.noarch: Python module for determining platform-specific directories
+perl-Error.noarch: Error/exception handling in an OO-ish way
+python3-legacy-cgi.noarch: Fork of the standard library cgi and cgitb modules
+libgcc.i686: GCC version 15 shared support library
+zlib-ng-compat.i686: Zlib implementation provided by zlib-ng
+libstdc++.i686: GNU Standard C++ Library
+libX11-xcb.i686: XCB interop for libX11
+libzstd.i686: Zstd shared library
+libffi.i686: A portable foreign function interface library
+libwayland-client.i686: Wayland client library
+expat.i686: An XML parser library
+gsl.x86_64: The GNU Scientific Library for numerical analysis
+elfutils-libelf.i686: Library to read and write ELF files
+libpng.i686: A library of functions for manipulating PNG image format files
+libglvnd.i686: The GL Vendor-Neutral Dispatch library
+libtool-ltdl.i686: Runtime libraries for GNU Libtool Dynamic Module Loader
+libwayland-server.i686: Wayland server library
+sqlite-libs.i686: Shared library for the sqlite3 embeddable SQL database engine.
+libunistring.i686: GNU Unicode string library
+libidn2.i686: Library to support IDNA2008 internationalized domain names
+libbrotli.i686: Library for brotli lossless compression algorithm
+fribidi.i686: Library implementing the Unicode Bidirectional Algorithm
+libogg.i686: The Ogg bitstream file format library
+libvorbis.i686: The Vorbis General Audio Compression Codec
+vulkan-loader.i686: Vulkan ICD desktop loader
+libtdb.i686: The tdb library
+python3-pyqt5-sip.x86_64: The sip module support for PyQt5
+movit-data.noarch: Data files for the Movit GPU video filter library
+movit.x86_64: GPU video filter library
+opencv-flann.x86_64: OpenCV module: Clustering and Search in Multi-dimensional Space
+opencv-features2d.x86_64: OpenCV module: 2D Feature Detection
+opencv-calib3d.x86_64: OpenCV module: Camera Calibration and 3D Reconstruction
+python3-qt5-base.x86_64: Python 3 bindings for Qt5 base
+lib2geom.x86_64: Easy to use 2D geometry library in C++
+libgee.x86_64: GObject collection library
+perl-TermReadKey.x86_64: A perl module for simple terminal control
+kf5-libkdcraw.x86_64: A C++ interface around LibRaw library
+kseexpr.x86_64: The embeddable expression engine fork for Krita
+libmypaint.x86_64: Library for making brush strokes
+poppler-qt5.x86_64: Qt5 wrapper for poppler
+turbojpeg.x86_64: TurboJPEG library
+minizip-ng-compat.x86_64: Minizip implementation provided by minizip-ng
+pystring.x86_64: Collection of C++ functions emulating Python's string class methods
+yaml-cpp.x86_64: A YAML parser and emitter for C++
+OpenColorIO.x86_64: Enables color transforms and image display across graphics apps
+quazip-qt5.x86_64: Qt5 wrapper for the minizip library
+gperftools-libs.x86_64: Libraries provided by gperftools
+klt.x86_64: An implementation of the Kanade-Lucas-Tomasi feature tracker
+lensfun.x86_64: Library to rectify defects introduced by photographic lenses
+gc.x86_64: Garbage collector for C and C++
+gspell.x86_64: Spell-checking library for GTK+
+gtksourceview4.x86_64: Source code editing widget
+potrace.x86_64: Transform bitmaps into vector graphics
+mkfontscale.x86_64: Tool to generate legacy X11 font system index files
+urw-base35-fonts-legacy.noarch: Legacy version of (URW)++ Level 2 Core Font Set
+GraphicsMagick.x86_64: An ImageMagick fork, offering faster image generation and better quality
+GraphicsMagick-c++.x86_64: GraphicsMagick Magick++ library (C++ bindings)
+inkscape-libs.x86_64: Shared libraries for Inkscape
+openblas-openmp.x86_64: An optimized BLAS library based on GotoBLAS2, OpenMP version
+sdl12-compat.x86_64: SDL 1.2 runtime compatibility library using SDL 2.0
+opencv-dnn.x86_64: OpenCV module: Deep Neural Network
+opencv-video.x86_64: OpenCV module: Video Analysis
+opencv-tracking.x86_64: OpenCV module: Tracking
+libid3tag.x86_64: ID3 tag manipulation library
+libmad.x86_64: MPEG audio decoder library
+sox.x86_64: A general purpose sound file conversion tool
+mlt-qt5.x86_64: Qt5 support for MLT
+mlt.x86_64: Toolkit for broadcasters, video editors, media players, transcoders
+mlt-qt6.x86_64: Qt6 support for MLT
+libquadmath.x86_64: GCC __float128 shared support library
+flexiblas.x86_64: A BLAS/LAPACK wrapper library with runtime exchangeable backends
+flexiblas-openblas-openmp.x86_64: FlexiBLAS wrappers for OpenBLAS
+flexiblas-netlib.x86_64: FlexiBLAS wrapper library
+python3-numpy-f2py.x86_64: f2py for numpy
+python3-numpy.x86_64: A fast multidimensional array facility for Python
+python3-inkex.noarch: Python extensions for Inkscape core
+libayatana-ido-gtk3.x86_64: Ayatana Indicator Display Objects library for GTK3
+libpsl.i686: C library for the Publix Suffix List
+libwayland-cursor.i686: Wayland cursor library
+libevent.i686: Abstract asynchronous event notification library
+spirv-tools-libs.i686: Library files for spirv-tools
+gmp.i686: GNU arbitrary precision library
+libtasn1.i686: The ASN.1 library used in GNUTLS
+bzip2-libs.i686: Libraries for applications using bzip2
+libjpeg-turbo.i686: A MMX/SSE2/SIMD accelerated library for manipulating JPEG image files
+opus.i686: An audio codec for use in low-delay speech and audio communication
+libxshmfence.i686: X11 shared memory fences
+pcre2.i686: Perl-compatible regular expression library
+libuuid.i686: Universally unique ID library
+xz-libs.i686: Libraries for decoding LZMA compression
+libxml2.i686: Library providing XML and HTML support
+elfutils-libs.i686: Libraries to handle compiled objects
+libnghttp2.i686: A library implementing the HTTP/2 protocol
+libayatana-indicator-gtk3.x86_64: Ayatana Indicators Shared Library for GTK2 for GTK3
+libxkbcommon.i686: X.Org X11 XKB parsing library
+libblkid.i686: Block device ID library
+p11-kit.i686: Library for loading and sharing PKCS#11 modules
+nettle.i686: A low-level cryptographic library
+flac-libs.i686: Libraries for the Free Lossless Audio Codec
+graphite2.i686: Font rendering capabilities for complex non-Roman writing systems
+liblerc.i686: Library for Limited Error Raster Compression
+libicu.i686: International Components for Unicode - libraries
+webrtc-audio-processing.i686: Library for echo cancellation
+libasyncns.i686: Asynchronous Name Service Library
+libpciaccess.i686: PCI access library
+libXau.i686: Sample Authorization Protocol for X
+libxcb.i686: A C binding to the X11 protocol
+libX11.i686: Core X11 protocol client library
+libXext.i686: X.Org X11 libXext runtime library
+libXrender.i686: X.Org X11 libXrender runtime library
+libXfixes.i686: X Fixes library
+libXi.i686: X.Org X11 libXi runtime library
+libXinerama.i686: X.Org X11 libXinerama runtime library
+libXtst.i686: X.Org X11 libXtst runtime library
+libXcursor.i686: Cursor management library
+libXdamage.i686: X Damage extension library
+libXrandr.i686: X.Org X11 libXrandr runtime library
+libvdpau.i686: Wrapper library for the Video Decode and Presentation API
+libXcomposite.i686: X Composite Extension library
+libXScrnSaver.i686: X.Org X11 libXss runtime library
+libXxf86vm.i686: X.Org X11 libXxf86vm runtime library
+gsm.i686: Shared libraries for GSM speech compressor
+lame-libs.i686: LAME MP3 encoding library
+jbigkit-libs.i686: JBIG1 lossless image compression library
+libwebp.i686: Library and tools for the WebP graphics format
+libtiff.i686: Library of functions for manipulating TIFF format image files
+libdatrie.i686: Implementation of Double-Array structure for representing trie
+libthai.i686: Thai language support routines
+lm_sensors-libs.i686: Lm_sensors core libraries
+mpg123-libs.i686: Real time MPEG 1.0/2.0/2.5 audio player/decoder for layers 1, 2 and 3
+libsndfile.i686: Library for reading and writing sound files
+libsepol.i686: SELinux binary policy manipulation library
+libselinux.i686: SELinux library and simple utilities
+libmount.i686: Device mounting library
+gdk-pixbuf2.i686: An image loading library
+harfbuzz.i686: Text shaping library
+freetype.i686: A free and portable font rendering engine
+fontconfig.i686: Font configuration and customization library
+cairo.i686: A 2D graphics library
+cairo-gobject.i686: GObject bindings for cairo
+gdk-pixbuf2-modules.i686: GIF and TIFF modules for gdk-pixbuf2
+json-glib.i686: Library for JavaScript Object Notation format
+libXft.i686: X.Org X11 libXft runtime library
+libcloudproviders.i686: Library for integration of cloud storage providers
+libcap-ng.i686: Alternate posix capabilities library
+libcap.i686: Library for getting and setting POSIX.1e capabilities
+dbus-libs.i686: Libraries for accessing D-BUS
+avahi-libs.i686: Libraries for avahi run-time use
+pulseaudio-libs.i686: Libraries for PulseAudio clients
+libusb1.i686: Library for accessing USB devices
+libgusb.i686: GLib wrapper around libusb1
+avahi-glib.i686: Glib libraries for avahi
+keyutils-libs.i686: Key utilities library
+libcom_err.i686: Common error description library
+libverto.i686: Main loop abstraction library
+cups-libs.i686: CUPS printing system - libraries
+gtk2.i686: GTK+ graphical user interface library
+libsoup3.i686: Soup, an HTTP library implementation
+libtinysparql.i686: Libtinysparql library
+ncurses-libs.i686: Ncurses libraries
+libedit.i686: The NetBSD Editline library
+libglvnd-egl.i686: EGL support for libglvnd
+libglvnd-glx.i686: GLX support for libglvnd
+libva.i686: Video Acceleration (VA) API for Linux
+libglvnd-gles.i686: GLES support for libglvnd
+libepoxy.i686: epoxy runtime library
+lcms2.i686: Color Management Engine
+colord-libs.i686: Color daemon library
+libwayland-egl.i686: Wayland egl library
+gtk3.i686: GTK+ graphical user interface library
+libdecor.i686: Wayland client side decoration library
+sdl2-compat.i686: SDL 2.0 runtime compatibility library using SDL 3.0
+gdbm-libs.i686: Libraries files for gdbm
+libxcrypt.i686: Extended crypt library for descrypt, md5crypt, bcrypt, and others
+cyrus-sasl-lib.i686: Shared libraries needed by applications which use Cyrus SASL
+openldap.i686: LDAP support libraries
+libebur128.i686: A library that implements the EBU R 128 standard for loudness normalization
+liblc3.i686: Low Complexity Communication Codec (LC3)
+libldac.i686: A lossy audio codec for Bluetooth connections
+libsbc.i686: Library for the SBC (Sub Band Codec)
+libgomp.i686: GCC OpenMP v4.5 shared support library
+fftw-libs-single.i686: FFTW library, single precision
+fdk-aac-free.i686: Third-Party Modified Version of the Fraunhofer FDK AAC Codec Library for Android
+inih.i686: Simple INI file parser library
+libunwind.i686: An unwinding library
+libcanberra.i686: Portable Sound Event Library
+libcanberra-gtk3.i686: Gtk+ 3.x Bindings for libcanberra
+duktape.i686: Embeddable Javascript engine
+libproxy.i686: A library handling all the details of proxy configuration
+json-c.i686: JSON implementation in C
+timeshift.x86_64: System restore tool for Linux
+libayatana-appindicator-gtk3.x86_64: Ayatana Application Indicators - GTK3
+inkscape.x86_64: Vector-based drawing program using SVG
+flexiblas-openblas-serial.x86_64: FlexiBLAS wrappers for OpenBLAS
+p7zip.x86_64: Very high compression ratio file archiver
+lm_sensors.x86_64: Hardware monitoring tools
+gamemode.x86_64: Optimize system performance for games on demand
+elfutils-debuginfod-client.i686: Library and command line client for build-id HTTP ELF/DWARF server
+glib-networking.i686: Networking support for GLib
+libcanberra-gtk2.i686: Gtk+ 2.x Bindings for libcanberra
+gamemode.i686: Optimize system performance for games on demand
+dconf.i686: A configuration system
+snapper-libs.x86_64: Library for filesystem snapshot management
+snapper.x86_64: Tool for filesystem snapshot management
+btrfsmaintenance.noarch: Scripts for btrfs maintenance tasks
+inotify-tools.x86_64: Command line utilities for inotify
+libdnf5-plugin-actions.x86_64: Libdnf5 plugin that allows to run actions (external executables) on hooks
+make.x86_64: A GNU tool which simplifies the build process for users
+m4.x86_64: GNU macro processor
+bison.x86_64: A GNU general-purpose parser generator
+flex.x86_64: A tool for generating scanners (text pattern recognizers)
+python3-rpmautospec-core.noarch: Minimum functionality for rpmautospec
+libxcrypt-devel.x86_64: Development files for libxcrypt
+gcc.x86_64: Various compilers (C, C++, Objective-C, ...)
+gcc-plugin-annobin.x86_64: The annobin plugin for gcc, built by the installed version of gcc
+zlib-ng-compat-devel.x86_64: Development files for zlib-ng-compat
+libzstd-devel.x86_64: Header files for Zstd library
+elfutils-libelf-devel.x86_64: Development support for libelf
+qt5-srpm-macros.noarch: RPM macros for source Qt5 packages
+filesystem-srpm-macros.noarch: Macros for the sbin-merge
+efi-srpm-macros.noarch: Common SRPM Macros for building EFI-related packages
+annobin-docs.noarch: Documentation and shell scripts for use with annobin
+annobin-plugin-gcc.x86_64: annobin gcc plugin
+fakeroot-libs.x86_64: Gives a fake root environment (libraries)
+fakeroot.x86_64: Gives a fake root environment
+add-determinism.x86_64: RPM buildroot helper to strip nondeterministic bits in files
+build-reproducibility-srpm-macros.noarch: Configuration to integrate add-determinism in package builds
+zig-srpm-macros.noarch: SRPM macros required for Zig packages
+tree-sitter-srpm-macros.noarch: RPM macros for Tree-sitter parsers
+rust-srpm-macros.noarch: RPM macros for building Rust projects
+perl-srpm-macros.noarch: RPM macros for building Perl source package from source repository
+package-notes-srpm-macros.noarch: Generate LDFLAGS to insert .note.package section
+openblas-srpm-macros.noarch: OpenBLAS architecture macros
+ocaml-srpm-macros.noarch: OCaml architecture macros
+lua-srpm-macros.noarch: RPM macros for building Lua source packages
+kernel-srpm-macros.noarch: RPM macros that list arches the full kernel is built on
+gnat-srpm-macros.noarch: RPM macros needed when source packages that need GNAT are built
+ghc-srpm-macros.noarch: RPM macros for building Haskell source packages
+fpc-srpm-macros.noarch: RPM macros needed by packages built with Free Pascal Compiler
+ansible-srpm-macros.noarch: SRPM stage RPM packaging macros for Ansible collections
+patch.x86_64: Utility for modifying/upgrading files
+python3-utils.noarch: Python Utils is a module with some convenient utilities
+python3-progressbar2.noarch: Library to provide visual progress to long running operations
+zstd.x86_64: Zstd compression library
+rpm-build.x86_64: Scripts and executable programs used to build packages
+forge-srpm-macros.noarch: Macros to simplify packaging of forge-hosted projects
+python-srpm-macros.noarch: RPM macros for building Python source packages
+fonts-srpm-macros.noarch: Source-stage rpm automation for fonts packages
+redhat-rpm-config.noarch: Red Hat-family-specific rpm configuration files
+rpmdevtools.noarch: RPM Development Tools
+kmodtool.noarch: Tool for building kmod packages
+akmods.noarch: Automatic kmods build and install tool
+python3-rpmautospec.noarch: Package and CLI tool to generate release fields and changelogs
+egl-wayland.x86_64: EGLStream-based Wayland external platform
+egl-gbm.x86_64: Nvidia egl gbm libary
+egl-wayland.i686: EGLStream-based Wayland external platform
+egl-gbm.i686: Nvidia egl gbm libary
+libglvnd-opengl.i686: OpenGL support for libglvnd
+x265-libs.x86_64: H.265/HEVC encoder library
+x264-libs.x86_64: Library for encoding H264/AVC video streams
+libfreeaptx.x86_64: Open Source implementation of Audio Processing Technology codec (aptX)
+vvenc-libs.x86_64: Library  files for vvenc
+libavcodec-freeworld.x86_64: Freeworld libavcodec to complement the distro counterparts
+svt-hevc-libs.x86_64: Libraries for svt-hevc
+mjpegtools-libs.x86_64: MJPEGtools libraries
+librtmp.x86_64: Support library for RTMP streams
+libheif-freeworld.x86_64: HEVC support for HEIF and AVIF file format decoder and encoder
+pipewire-codec-aptx.x86_64: PipeWire Bluetooth aptX codec plugin
+ffmpeg-libs.x86_64: Libraries for ffmpeg
+libavdevice.x86_64: Special devices muxing/demuxing library
+ffmpeg.x86_64: Digital VCR and streaming server
+vmaf-models.noarch: Model files for vmaf
+libva-utils.x86_64: Tools for VAAPI (including vainfo)
+gpm-libs.x86_64: Dynamic library for gpm
+libsss_idmap.x86_64: FreeIPA Idmap library
+libsss_certmap.x86_64: SSSD Certificate Mapping Library
+file-libs.x86_64: Libraries for applications using libmagic
+sssd-nfs-idmap.x86_64: SSSD plug-in for NFSv4 rpc.idmapd
+libsss_sudo.x86_64: A library to allow communication between SUDO and SSSD
+libsss_nss_idmap.x86_64: Library for SID and certificate based lookups
+sssd-client.x86_64: SSSD Client libraries for NSS and PAM
+sssd-common.x86_64: Common files for the SSSD
+sssd-krb5-common.x86_64: SSSD helpers needed for Kerberos and GSSAPI authentication
+sssd-kcm.x86_64: An implementation of a Kerberos KCM server
+sssd-proxy.x86_64: The proxy back end of the SSSD
+file.x86_64: Utility for determining file types
+python3-file-magic.noarch: Python 3 bindings for the libmagic API
+toolbox.x86_64: Tool for interactive command line environments on Linux
+rawtherapee.x86_64: Raw image processing software
+netavark.x86_64: OCI network stack
+lua-libs.x86_64: Libraries for lua
+libkate.x86_64: Libraries to handle the Kate bitstream format
+libebml.x86_64: Extensible Binary Meta Language library
+libmatroska.x86_64: Open audio/video container format library
+libtiger.x86_64: Rendering library for Kate streams using Pango and Cairo
+speexdsp.x86_64: A voice compression format (DSP)
+schroedinger.x86_64: Portable libraries for the high quality Dirac video codec
+protobuf-lite.x86_64: Protocol Buffers LITE_RUNTIME libraries
+libusb-compat-0.1.x86_64: Compatibility shim around libusb-1.0 offering the old 0.1 API
+libssh2.x86_64: A library implementing the SSH2 protocol
+libspatialaudio.x86_64: Ambisonic encoding / decoding and binauralization library
+libmpcdec.x86_64: Musepack audio decoding library
+libmicrodns.x86_64: Minimal mDNS resolver library
+libdvbpsi.x86_64: Library for MPEG TS and DVB PSI tables decoding and generation
+libdca.x86_64: DTS Coherent Acoustics decoder library
+libcddb.x86_64: Library (C API) for accessing CDDB servers
+gnu-free-fonts-common.noarch: Common files for freefont (documentation…)
+gnu-free-sans-fonts.noarch: GNU FreeFont Sans-Serif Font
+aribb25.x86_64: Basic implementation of the ARIB STD-B25 public standard
+aalib-libs.x86_64: Library files for aalib
+SDL_image.x86_64: Image loading library for SDL
+live555.x86_64: RTP/RTCP/RTSP/SIP multimedia streaming libraries
+libnfs.x86_64: Client library for accessing NFS shares over a network
+xset.x86_64: User preference utility for X
+gpg-pubkey.(none): Microsoft (Release signing) <gpgsecurity@microsoft.com> public key
+gpg-pubkey.(none): atim_heroic-games-launcher (None) <atim#heroic-games-launcher@copr.fedorahosted.org> public key
+perl-Compress-Raw-Zlib.x86_64: Low-level interface to the zlib compression library
+perl-LWP-MediaTypes.noarch: Guess media type for a file or a URL
+mingw-binutils-generic.x86_64: Utilities which are needed for both the Win32 and Win64 toolchains
+wine-dxvk-dxgi.i686: DXVK DXGI implementation
+wine-dxvk-dxgi.x86_64: DXVK DXGI implementation
+perl-Time-HiRes.x86_64: High resolution alarm, sleep, gettimeofday, interval timers
+perl-File-Slurper.noarch: Simple, sane and efficient module to slurp a file
+libinstpatch.x86_64: Instrument file software library
+perl-Data-Dump.noarch: Pretty printing of data structures
+perl-Encode-Locale.noarch: Determine the locale encoding
+fluid-soundfont-common.noarch: Common files for FluidR3 soundfont
+fluid-soundfont-gm.noarch: Pro-quality General Midi soundfont
+mt32emu.x86_64: C/C++ library for emulating Roland MT-32, CM-32L and LAPC-I synthesizer modules
+libslirp.x86_64: A general purpose TCP-IP emulator
+iir1.x86_64: DSP IIR Realtime C++ filter library
+SDL2_net.x86_64: SDL portable network library
+perl-Digest-SHA.x86_64: Perl extension for SHA-1/224/256/384/512
+perl-Digest-HMAC.noarch: Keyed-Hashing for Message Authentication
+perl-NTLM.noarch: NTLM Perl module
+perl-HTML-Tagset.noarch: HTML::Tagset - data tables useful in parsing HTML
+perl-Compress-Raw-Bzip2.x86_64: Low-level interface to bzip2 compression library
+perl-IO-Compress.noarch: Read and write compressed data
+perl-Net-HTTP.noarch: Low-level HTTP connection (client)
+perl-TimeDate.noarch: A Perl module for time and date manipulation
+perl-HTTP-Date.noarch: Date conversion routines
+perl-File-Listing.noarch: Parse directory listing
+perl-WWW-RobotRules.noarch: Database of robots.txt-derived permissions
+perl-Try-Tiny.noarch: Minimal try/catch with proper localization of $@
+perl-Module-Load.noarch: Run-time require of both modules and files
+perl-IO-HTML.noarch: Open an HTML file with automatic character set detection
+perl-Clone.x86_64: Recursively copy perl data types
+perl-HTTP-Message.noarch: HTTP style message
+perl-HTML-Parser.x86_64: Perl module for parsing HTML
+perl-HTTP-Cookies.noarch: HTTP cookie jars
+perl-HTTP-Negotiate.noarch: Choose a variant to serve
+perl-libwww-perl.noarch: A Perl interface to the World-Wide Web
+glfw.x86_64: A cross-platform multimedia library
+cmake-rpm-macros.noarch: Common RPM macros for cmake
+mingw32-crt.noarch: MinGW Windows cross-compiler runtime for the win32 target
+mingw64-crt.noarch: MinGW Windows cross-compiler runtime for the win64 target
+mingw64-zlib.noarch: MinGW Windows zlib compression library for the win64 target
+mingw32-zlib.noarch: MinGW Windows zlib compression library for the win32 target
+mingw64-win-iconv.noarch: MinGW Windows Iconv library
+mingw64-libxml2.noarch: MinGW Windows libxml2 XML processing library
+mingw64-winpthreads.noarch: MinGW pthread library for the win64 target
+mingw64-libgcc.x86_64: MinGW Windows GCC runtime libraries for C for the win64 target
+mingw64-libjpeg-turbo.noarch: MinGW Windows Libjpeg-turbo library
+mingw32-win-iconv.noarch: MinGW Windows Iconv library
+mingw32-winpthreads.noarch: MinGW pthread library for the win32 target
+mingw32-libgcc.x86_64: MinGW Windows GCC runtime libraries for C for the win32 target
+mingw32-libjpeg-turbo.noarch: MinGW Windows Libjpeg-turbo library
+mingw32-libxml2.noarch: MinGW Windows libxml2 XML processing library
+mingw32-libxslt.noarch: MinGW Windows Library providing the Gnome XSLT engine
+mingw32-lcms2.noarch: MinGW Color Management Engine
+mingw32-vkd3d.noarch: Development files for libvkd3d-utils
+mingw32-libstdc++.x86_64: MinGW Windows GCC runtime libraries for C++ for the win32 target
+mingw32-libtiff.noarch: MinGW Windows port of the LibTIFF library
+mingw64-vkd3d.noarch: Development files for libvkd3d-utils
+mingw64-libstdc++.x86_64: MinGW Windows GCC runtime libraries for C++ for the win64 target
+mingw64-libtiff.noarch: MinGW Windows port of the LibTIFF library
+mingw64-libxslt.noarch: MinGW Windows Library providing the Gnome XSLT engine
+mingw32-libpng.noarch: MinGW Windows Libpng library
+mingw64-libpng.noarch: MinGW Windows Libpng library
+mingw64-lcms2.noarch: Static libraries for mingw32-lcms2 development
+mingw64-FAudio.noarch: Development files for the FAudio library
+mingw32-FAudio.noarch: Development files for the FAudio library
+liberation-narrow-fonts.noarch: Sans-serif Narrow fonts to replace commonly used Microsoft Arial Narrow
+unixODBC.x86_64: A complete ODBC driver manager for Linux
+mingw32-wine-gecko.noarch: Gecko library for 32bit wine
+mingw64-wine-gecko.noarch: Gecko library for 64bit wine
+libGLEW.x86_64: libGLEW
+libvkd3d-shader.x86_64: Shader library for vkd3d
+libvkd3d.x86_64: D3D12 to Vulkan translation library
+mangohud.x86_64: Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load
+icoutils.x86_64: Utility for extracting and converting Microsoft icon and cursor files
+dosbox-staging.x86_64: Modern continuation of DOSBox with advanced features
+perl-IO-Compress-Brotli.x86_64: Perl bindings for Brotli compression
+perl-PerlIO-utf8_strict.x86_64: Fast and correct UTF-8 I/O
+libv4l.i686: Collection of video4linux support libraries
+libieee1284.i686: A library for interfacing IEEE 1284-compatible devices
+speex.i686: A voice compression format (codec)
+fmt.i686: Small, safe and fast formatting library for C++
+orc.i686: The Oil Run-time Compiler
+libtheora.i686: Theora Video Compression Codec
+libgudev.i686: GObject-based wrapper library for libudev
+libshout.i686: Icecast source streaming library
+spdlog.i686: Super fast C++ logging library
+wavpack.i686: A completely open audiocodec
+twolame-libs.i686: TwoLAME is an optimized MPEG Audio Layer 2 encoding library based on tooLAME
+taglib.i686: Audio Meta-Data Library
+opencore-amr.i686: OpenCORE Adaptive Multi Rate Narrowband and Wideband speech lib
+libvpx.i686: VP8/VP9 Video Codec SDK
+libGLEW.i686: libGLEW
+glfw.i686: A cross-platform multimedia library
+svt-av1-libs.i686: SVT-AV1 libraries
+rav1e-libs.i686: Library files for rav1e
+libyuv.i686: YUV conversion and scaling functionality library
+libdav1d.i686: Library files for dav1d
+libaom.i686: Library files for aom
+libavif.i686: Library for encoding and decoding .avif files
+libnl3.i686: Convenience library for kernel netlink sockets
+libibverbs.i686: A library and drivers for direct userspace use of RDMA (InfiniBand/iWARP/RoCE) hardware
+libpcap.i686: A system-independent interface for user-level packet capture
+libimagequant.i686: Convert 24/32-bit images to 8-bit palette with alpha channel
+libXpm.i686: X.Org X11 libXpm runtime library
+gd.i686: A graphics library for quick creation of PNG or JPEG images
+readline.i686: A library for editing typed command lines
+unixODBC.i686: A complete ODBC driver manager for Linux
+lockdev.i686: A library for locking devices
+libexif.i686: Library for extracting extra information from image files
+libgphoto2.i686: Library for accessing digital cameras
+libXv.i686: X.Org X11 libXv runtime library
+graphene.i686: Thin layer of types for graphic libraries
+cdparanoia-libs.i686: Libraries for libcdda_paranoia (Paranoia III)
+pcsc-lite-libs.i686: PC/SC Lite libraries
+OpenCL-ICD-Loader.i686: Khronos official OpenCL ICD Loader
+nss-mdns.i686: glibc plugin for .local name resolution
+wine-dxvk.i686: Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine
+wine-dxvk.x86_64: Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine
+wine-dxvk-d3d10.i686: DXVK D3D10 implementation
+wine-dxvk-d3d8.i686: DXVK D3D8 implementation
+wine-dxvk-d3d9.i686: DXVK D3D9 implementation
+wine-dxvk-d3d9.x86_64: DXVK D3D9 implementation
+wine-dxvk-d3d8.x86_64: DXVK D3D8 implementation
+wine-dxvk-d3d10.x86_64: DXVK D3D10 implementation
+mangohud.i686: Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load
+ntfs-3g-libs.x86_64: Runtime libraries for ntfs-3g
+ntfs-3g.x86_64: Linux NTFS userspace driver
+ntfsprogs.x86_64: NTFS filesystem libraries and utilities
+libxml++.x86_64: C++ wrapper for the libxml2 XML parser library
+libconfig.x86_64: C/C++ configuration file library
+libffado.x86_64: Free firewire audio driver library
+libdb.x86_64: The Berkeley DB database library for C
+jack-audio-connection-kit.x86_64: The Jack Audio Connection Kit
+portaudio.x86_64: Free, cross platform, open-source, audio I/O library
+qjackctl.x86_64: Qt based JACK control application
+runc.x86_64: CLI for running Open Containers
+containerd.x86_64: An open and reliable container runtime
+tini-static.x86_64: Standalone static build of tini
+docker-compose-switch.x86_64: docker-compose CLI shim
+mingw-filesystem-base.noarch: Generic files which are needed for {mingw32,mingw64,ucrt64}-filesystem
+java-21-openjdk-headless.x86_64: OpenJDK 21 Headless Runtime Environment
+containers-common.noarch: Common configuration and documentation for containers
+containers-common-extra.noarch: Extra dependencies for Podman and Buildah
+mingw64-filesystem.noarch: MinGW cross compiler base filesystem and environment for the win64 target
+mingw32-filesystem.noarch: MinGW cross compiler base filesystem and environment for the win32 target
+tcpdump.x86_64: A network traffic monitoring tool
+krb5-libs.x86_64: The non-admin shared libraries used by Kerberos 5
+heroic-games-launcher-bin.x86_64: A Native GOG, Amazon and Epic Games Launcher for Linux
+krb5-libs.i686: The non-admin shared libraries used by Kerberos 5
+qt6-qttools-common.noarch: Common files for qt6-qttools
+qt6-filesystem.x86_64: Filesystem for Qt6 packages
+qt6-qtbase-common.noarch: Common files for Qt6
+qt6-qtbase.x86_64: Qt6 - QtBase components
+qt6-qtbase-gui.x86_64: Qt6 GUI-related libraries
+qt6-qtshadertools.x86_64: Qt6 - Qt Shader Tools module builds on the SPIR-V Open Source Ecosystem
+qt6-qtwebchannel.x86_64: Qt6 - WebChannel component
+qt6-qtsensors.x86_64: Qt6 - Sensors component
+qt6-qtquicktimeline.x86_64: Qt6 - QuickTimeline plugin
+qt6-qtquick3d.x86_64: Qt6 - Quick3D Libraries and utilities
+qt6-qtmultimedia.x86_64: Qt6 - Multimedia support
+qt6-qtspeech.x86_64: Qt6 - Speech component
+qt6-qtpdf.x86_64: Qt6 - QtPdf components
+qt6-qttools.x86_64: Qt6 - QtTool components
+qt6-qtserialport.x86_64: Qt6 - SerialPort component
+qt6-qtpositioning.x86_64: Qt6 - Positioning component
+polkit-libs.x86_64: Libraries for polkit
+re2.x86_64: C++ fast alternative to backtracking RE engines
+qt6-qtwebengine.x86_64: Qt6 - QtWebEngine components
+qt6-qtwebview.x86_64: Qt6 - WebView component
+polkit.x86_64: An authorization framework
+qt6-qtlocation.x86_64: Qt6 - Location Libraries
+qt6-qtspeech-speechd.x86_64: Speech Dispatcher text-to-speech engine for qt6-qtspeech
+qt6-qtspeech-flite.x86_64: Festival Lite text-to-speech engine for qt6-qtspeech
+qt6-qt5compat.x86_64: Qt6 - Qt 5 Compatibility Libraries
+qt6-qtvirtualkeyboard.x86_64: Qt6 - VirtualKeyboard component
+qt6-qtnetworkauth.x86_64: Qt6 - NetworkAuth component
+qt6-qtimageformats.x86_64: Qt6 - QtImageFormats component
+qt6-qtwebsockets.x86_64: Qt6 - WebSockets component
+qt6-qtconnectivity.x86_64: Qt6 - Connectivity components
+qt6-qtbase-mysql.x86_64: MySQL driver for Qt6's SQL classes
+qt6-srpm-macros.noarch: RPM macros for source Qt6 packages
+qt6-qttranslations.noarch: Qt6 - QtTranslations module
+egl-x11.x86_64: NVIDIA XLib and XCB EGL Platform Library
+egl-x11.i686: NVIDIA XLib and XCB EGL Platform Library
+whois-nls.noarch: Gettext catalogs for whois tools
+python3-firewall.noarch: Python3 bindings for firewalld
+firewalld-filesystem.noarch: Firewalld directory layout and rpm macros
+firewalld.noarch: A firewall daemon with D-Bus interface providing a dynamic firewall
+firewall-config.noarch: Firewall configuration application
+mkpasswd.x86_64: Encrypt a password with crypt(3) function using a salt
+whois.x86_64: Improved WHOIS client
+m17n-lib.x86_64: Multilingual text library
+cups-filters-driverless.x86_64: OpenPrinting driverless backends and drivers for CUPS 2.X
+cups-filters.x86_64: OpenPrinting CUPS filters for CUPS 2.X
+mariadb-connector-c-config.noarch: Configuration files for packages that use /etc/my.cnf as a configuration file
+libde265.x86_64: Open H.265 video codec implementation
+mariadb-connector-c.x86_64: The MariaDB Native Client library (C driver)
+passt-selinux.noarch: SELinux support for passt and pasta
+passt.x86_64: User-mode networking daemons for virtual machines and namespaces
+libupnp.x86_64: Universal Plug and Play (UPnP) SDK
+libeconf.x86_64: Enhanced config file parser library
+faad2-libs.x86_64: Shared libraries of the FAAD 2 AAC decoder
+chrony.x86_64: An NTP client/server
+libeconf.i686: Enhanced config file parser library
+daxctl-libs.x86_64: Management library for "Device DAX" devices
+cxl-libs.x86_64: Management library for CXL devices
+ndctl-libs.x86_64: Management library for "libnvdimm" subsystem devices (Non-volatile Memory)
+ndctl.x86_64: Manage "libnvdimm" subsystem devices (Non-volatile Memory)
+fluidsynth-libs.x86_64: Real-time software synthesizer run-time libraries
+libtomcrypt.x86_64: A comprehensive, portable cryptographic toolkit
+python3-websockets.x86_64: Implementation of the WebSocket Protocol for Python
+python3-mutagen.noarch: Mutagen is a Python module to handle audio meta-data
+python3-brotli.x86_64: Lossless compression algorithm (python 3)
+aria2.x86_64: High speed download utility with resuming and segmented downloading
+media-downloader.x86_64: GUI frontend to multiple CLI based downloading programs
+apr.x86_64: Apache Portable Runtime library
+apr-util.x86_64: Apache Portable Runtime Utility library
+apr-util-lmdb.x86_64: APR utility library LMDB driver
+apr-util-openssl.x86_64: APR utility library OpenSSL crypto support
+libxcrypt-compat.x86_64: Compatibility library providing legacy API functions
+unrar.x86_64: Utility for extracting, testing and viewing RAR archives
+yyjson.x86_64: A high performance JSON library written in ANSI C
+fastfetch.x86_64: Fast neofetch-like system information tool
+libwacom-data.noarch: Tablet Information Client Library Data Files
+libwacom.x86_64: Tablet Information Client Library
+gocryptfs.x86_64: Encrypted overlay filesystem written in Go
+python3-setuptools.noarch: Easily build and distribute Python 3 packages
+publicsuffix-list-dafsa.noarch: Cross-vendor public domain suffix database in DAFSA form
+mtools.x86_64: Programs for accessing MS-DOS disks without mounting the disks
+libstdc++-devel.x86_64: Header files and libraries for C++ development
+gcc-c++.x86_64: C++ support for GCC
+grub2-common.noarch: grub2 common layout
+grub2-tools-minimal.x86_64: Support tools for GRUB.
+grub2-tools.x86_64: Support tools for GRUB.
+libcurl.x86_64: A library for getting files from web servers
+libudisks2.x86_64: Dynamic library to access the udisksd daemon
+udisks2.x86_64: Disk Manager
+libdrm.x86_64: Direct Rendering Manager runtime library
+fwupd.x86_64: Firmware update daemon
+grub2-pc-modules.noarch: Modules used to build custom grub images
+openh264.x86_64: H.264 codec library
+pam-libs.x86_64: Shared libraries of the PAM package
+which.x86_64: Displays where a particular program in your path is located
+grub2-pc.x86_64: Bootloader with support for Linux, Multiboot, and more
+pam.x86_64: An extensible library which provides authentication for applications
+mozilla-openh264.x86_64: H.264 codec support for Mozilla browsers
+fwupd-plugin-uefi-capsule-data.x86_64: Localized data for the UEFI UX capsule
+fwupd-plugin-modem-manager.x86_64: fwupd plugin using ModemManger
+fwupd-plugin-flashrom.x86_64: fwupd plugin using flashrom
+xorg-x11-server-Xwayland.x86_64: Xwayland
+udisks2-iscsi.x86_64: Module for iSCSI
+udisks2-btrfs.x86_64: Module for BTRFS
+curl.x86_64: A utility for getting files from remote servers (FTP, HTTP, and others)
+grub2-tools-extra.x86_64: Support tools for GRUB.
+grub2-tools-efi.x86_64: Support tools for GRUB.
+libmodulemd.x86_64: Module metadata manipulation library
+distribution-gpg-keys.noarch: GPG keys of various Linux distributions
+ibus-table.noarch: The Table engine for IBus platform
+libcurl.i686: A library for getting files from web servers
+libdrm.i686: Direct Rendering Manager runtime library
+pam-libs.i686: Shared libraries of the PAM package
+vapoursynth-libs.x86_64: VapourSynth's core library with a C++ API
+qtlockedfile-qt5.x86_64: QFile extension with advisory locking functions (Qt5)
+qtsingleapplication-qt5.x86_64: Qt5 library to start applications only once per user
+mujs.x86_64: An embeddable Javascript interpreter
+libXpresent.x86_64: A Xlib-compatible API for the Present extension
+compat-lua-libs.x86_64: Powerful light-weight programming language (compat version)
+mpv.x86_64: Movie player playing most video formats and DVDs
+smplayer.x86_64: A graphical frontend for mplayer and mpv
+chainner.x86_64: A flowchart-based image processing GUI
+ladspa.x86_64: Linux Audio Developer's Simple Plug-in API, examples and tools
+liblrdf.x86_64: Library for manipulating RDF files describing LADSPA plugins
+spandsp.x86_64: A DSP library for telephony
+libavtp.x86_64: An AVTP protocol implementation
+libgdither.x86_64: Library for applying dithering to PCM audio sources
+gavl.x86_64: A library for handling uncompressed audio and video data
+frei0r-plugins.x86_64: Frei0r - a minimalist plugin API for video effects
+qt6-qtcharts.x86_64: Qt6 - Charts component
+shotcut.x86_64: A free, open source, cross-platform video editor
+shotcut-langpack-en.noarch: English language data for shotcut
+sane-backends-libs.x86_64: SANE libraries
+sane-backends.x86_64: Scanner access software
+kernel-headers.x86_64: Header files for the Linux kernel for use by glibc
+sane-backends-drivers-scanners.x86_64: SANE backend drivers for scanners
+sane-backends-drivers-cameras.x86_64: Scanner backend drivers for digital cameras
+sane-backends-libs.i686: SANE libraries
+sane-backends-drivers-scanners.i686: SANE backend drivers for scanners
+sane-backends-drivers-cameras.i686: Scanner backend drivers for digital cameras
+libblockdev-utils.x86_64: A library with utility functions for the libblockdev library
+libblockdev.x86_64: A library for low-level manipulation with block devices
+libblockdev-lvm.x86_64: The LVM plugin for the libblockdev library
+libblockdev-btrfs.x86_64: The BTRFS plugin for the libblockdev library
+libblockdev-crypto.x86_64: The crypto plugin for the libblockdev library
+libblockdev-dm.x86_64: The Device Mapper plugin for the libblockdev library
+libblockdev-fs.x86_64: The FS plugin for the libblockdev library
+libblockdev-loop.x86_64: The loop plugin for the libblockdev library
+libblockdev-mdraid.x86_64: The MD RAID plugin for the libblockdev library
+libblockdev-mpath.x86_64: The multipath plugin for the libblockdev library
+libblockdev-nvdimm.x86_64: The NVDIMM plugin for the libblockdev library
+libblockdev-nvme.x86_64: The NVMe plugin for the libblockdev library
+libblockdev-part.x86_64: The partitioning plugin for the libblockdev library
+libblockdev-smart.x86_64: The smart plugin for the libblockdev library
+libblockdev-smartmontools.x86_64: The smartmontools plugin for the libblockdev library
+libblockdev-swap.x86_64: The swap plugin for the libblockdev library
+intel-vpl-gpu-rt.x86_64: Intel Video Processing Library (Intel VPL) GPU Runtime
+libblockdev-plugins-all.x86_64: Meta-package that pulls all the libblockdev plugins as dependencies
+libblockdev-tools.x86_64: Various nice tools based on libblockdev
+python3-blockdev.x86_64: Python3 gobject-introspection bindings for libblockdev
+libblockdev-lvm-dbus.x86_64: The LVM plugin for the libblockdev library
+qt6-qtsvg.x86_64: Qt6 - Support for rendering and displaying SVG
+libopenjph.x86_64: JPEG-2000 Part-15 library
+grub2-efi-ia32.x86_64: GRUB for EFI systems.
+grub2-efi-x64.x86_64: GRUB for EFI systems.
+shim-x64.x86_64: First-stage UEFI bootloader
+shim-ia32.x86_64: First-stage UEFI bootloader
+grub2-efi-ia32-cdboot.x86_64: Files used to boot removeable media with EFI
+grub2-efi-x64-cdboot.x86_64: Files used to boot removeable media with EFI
+grub2-efi-x64-modules.noarch: Modules used to build custom grub.efi images
+libliftoff.x86_64: Lightweight KMS plane library
+xcb-util-errors.x86_64: XCB utility library that gives readable names to error, event, & request codes
+wsdd.noarch: Web Services Dynamic Discovery host daemon
+python3-pypresence.noarch: A Discord Rich Presence Client in Python
+python3-protobuf.x86_64: Python bindings for Google Protocol Buffers
+python3-moddb.noarch: A Python scraper/parser for ModDB
+python3-evdev.x86_64: Python bindings for the Linux input handling subsystem
+openvr-api.x86_64: OpenVR API libraries
+libseat.x86_64: Universal seat management library
+cabextract.x86_64: Utility for extracting cabinet (.cab) archives
+javascriptcoregtk4.1.x86_64: JavaScript engine from webkit2gtk4.1
+hidapi.x86_64: Library for communicating with USB and Bluetooth HID devices
+libmanette.x86_64: Game controller library
+webkit2gtk4.1.x86_64: WebKitGTK for GTK 3 and libsoup 3
+gvfs-client.x86_64: Client modules of backends for the gio framework in GLib
+gvfs.x86_64: Backends for the gio framework in GLib
+lutris.x86_64: Install and play any video game easily
+gamescope.x86_64: Micro-compositor for video games on Wayland
+fluid-soundfont-gs.noarch: Pro-quality General Standard Extension soundfont
+libFAudio.x86_64: FNA is a reimplementation of the Microsoft XNA Game Studio 4.0 Refresh libraries
+libFAudio.i686: FNA is a reimplementation of the Microsoft XNA Game Studio 4.0 Refresh libraries
+libbtrfsutil.x86_64: btrfs filesystem-specific runtime utility libraries
+less.x86_64: A text file browser similar to more, but better
+btrfs-assistant.x86_64: GUI management tool to make managing a Btrfs filesystem easier
+libbtrfs.x86_64: btrfs filesystem-specific runtime libraries
+btrfs-progs.x86_64: Userspace programs for btrfs
+uuid.x86_64: Universally Unique Identifier library
+glibc-common.x86_64: Common binaries and locale data for glibc
+glibc-all-langpacks.x86_64: All language packs for glibc.
+glibc-gconv-extra.x86_64: All iconv converter modules for glibc.
+glibc.x86_64: The GNU libc libraries
+systemd-libs.x86_64: systemd libraries
+vlc-libs.x86_64: VLC media player runtime libraries
+alsa-lib.x86_64: The Advanced Linux Sound Architecture (ALSA) library
+vlc-plugins-base.x86_64: VLC media player core
+pipewire-libs.x86_64: Libraries for PipeWire clients
+audit-libs.x86_64: Dynamic library for libaudit
+systemd-shared.x86_64: Internal systemd shared library
+libwinpr.x86_64: Windows Portable Runtime
+freerdp-libs.x86_64: Core libraries implementing the RDP protocol
+pipewire-pulseaudio.x86_64: PipeWire PulseAudio implementation
+vlc-cli.x86_64: VLC media player command line interface
+vlc-plugins-video-out.x86_64: VLC media player vout plugins
+cryptsetup-libs.x86_64: Cryptsetup shared library
+pciutils-libs.x86_64: Linux PCI library
+pixman.x86_64: Pixel manipulation library
+python3-libs.x86_64: Python runtime libraries
+python3.x86_64: Python 3.13 interpreter
+gstreamer1.x86_64: GStreamer streaming media framework runtime
+gstreamer1-plugins-base.x86_64: GStreamer streaming media framework base plugins
+gstreamer1-plugins-good.x86_64: GStreamer plugins with good code and licensing
+gstreamer1-plugins-bad-free-libs.x86_64: Runtime libraries for the GStreamer media framework "bad" plug-ins
+gstreamer1-plugins-bad-free.x86_64: GStreamer streaming media framework "bad" plugins
+libssh-config.noarch: Configuration files for libssh
+xorg-x11-server-common.x86_64: Xorg server common files
+systemd-sysusers.x86_64: systemd-sysusers program
+systemd-pam.x86_64: systemd PAM module
+systemd.x86_64: System and Service Manager
+systemd-udev.x86_64: Rule-based device node and kernel event manager
+bolt.x86_64: Thunderbolt device manager
+pipewire.x86_64: Media Sharing Server
+audit-rules.x86_64: audit rules and utilities
+pipewire-jack-audio-connection-kit.x86_64: PipeWire JACK implementation
+pipewire-jack-audio-connection-kit-libs.x86_64: PipeWire JACK implementation libraries
+vlc-plugin-pulseaudio.x86_64: VLC media player PulseAudio plugins
+vlc-plugin-lua.x86_64: VLC media player lua scripting plugins
+vlc-gui-qt.x86_64: VLC media player Qt GUI
+kernel-modules-core.x86_64: Core kernel modules to match the core kernel
+kernel-core.x86_64: The Linux kernel
+kernel-modules.x86_64: kernel modules to match the core kernel
+kernel-modules-extra.x86_64: Extra kernel modules to match the kernel
+plutovg.x86_64: Tiny 2D vector graphics library in C
+plutosvg.x86_64: Tiny SVG rendering library in C
+SDL3_ttf.x86_64: Support for TrueType (.ttf) font files with Simple Directmedia Layer
+SDL3_image.x86_64: Image loading library for SDL
+freerdp.x86_64: Free implementation of the Remote Desktop Protocol (RDP)
+daala-libs.x86_64: Daala video codec libraries
+dwz.x86_64: DWARF optimization and duplicate removal tool
+libgs.x86_64: Library providing Ghostcript's core functionality
+ghostscript-tools-printing.noarch: Ghostscript's printing utilities
+ghostscript.x86_64: Interpreter for PostScript language & PDF
+ghostscript-tools-fontutils.noarch: Ghostscript's font utilities
+libnfsidmap.x86_64: NFSv4 User and Group ID Mapping Library
+kernel-devel.x86_64: Development package for building kernel modules to match the kernel
+nfs-utils.x86_64: NFS utilities and supporting clients and daemons for the kernel NFS server
+debugedit.x86_64: Tools and scripts for creating debuginfo and source file distributions, collect build-ids and rewrite source paths in DWARF data for debugging, tracing and profiling.
+vlc-plugins-extra.x86_64: VLC media player extra plugins
+kernel.x86_64: The Linux kernel
+vlc.x86_64: The cross-platform open-source multimedia framework, player and server
+vlc-gui-skins2.x86_64: VLC media player Skins2 GUI
+audit.x86_64: User space tools for kernel auditing
+pipewire-utils.x86_64: PipeWire media server utilities
+systemd-oomd-defaults.noarch: Configuration files for systemd-oomd
+at.x86_64: Job spooling tools
+systemd-resolved.x86_64: Network Name Resolution manager
+systemd-networkd.x86_64: System daemon that manages network configurations
+xorg-x11-server-Xephyr.x86_64: A nested server
+libssh.x86_64: A library implementing the SSH protocol
+gstreamer1-plugins-bad-free-extras.x86_64: Extra GStreamer "bad" plugins (less often used "bad" plugins)
+vlc-plugin-gstreamer.x86_64: VLC media player GStreamer codec plugin
+gstreamer1-plugins-good-qt6.x86_64: GStreamer "good" plugins qt6 qml plugin
+gstreamer1-plugins-good-qt.x86_64: GStreamer "good" plugins qt qml plugin
+gstreamer1-plugins-good-gtk.x86_64: GStreamer "good" plugins gtk plugin
+gstreamer1-plugin-libav.x86_64: GStreamer FFmpeg/LibAV plugin
+gstreamer1-plugin-openh264.x86_64: GStreamer OpenH264 plugin
+gstreamer1-plugins-ugly-free.x86_64: GStreamer streaming media framework "ugly" plugins
+pipewire-gstreamer.x86_64: GStreamer elements for PipeWire
+python3-audit.x86_64: Python3 bindings for libaudit
+python-unversioned-command.noarch: The "python" command that runs Python 3
+python3-tkinter.x86_64: A GUI toolkit for Python
+pciutils.x86_64: PCI bus related utilities
+cryptsetup.x86_64: Utility for setting up encrypted disks
+vlc-plugin-ffmpeg.x86_64: VLC media player FFmpeg plugins
+pipewire-plugin-libcamera.x86_64: PipeWire media server libcamera support
+pipewire-alsa.x86_64: PipeWire media server ALSA support
+vlc-plugin-visualization.x86_64: VLC media player visualization plugins
+vlc-plugin-notify.x86_64: VLC media player notification plugin
+vlc-plugin-kde.x86_64: VLC media player KWallet plugin
+alsa-ucm.noarch: ALSA Use Case Manager configuration
+vlc-plugins-freeworld.x86_64: H.264, and HEVC codec plugins for VLC media player
+crun.x86_64: OCI runtime written in C
+docker-buildx.x86_64: Docker CLI plugin for extended build capabilities with BuildKit
+libnsl.x86_64: Legacy support library for NIS
+glibc-devel.x86_64: Object files for development using standard C libraries.
+ibus-libpinyin.x86_64: Intelligent Pinyin engine based on libpinyin for IBus
+podman.x86_64: Manage Pods, Containers and Container Images
+systemd-rpm-macros.noarch: Macros that define paths and scriptlets related to systemd
+alsa-sof-firmware.noarch: Firmware and topology files for Sound Open Firmware project
+glibc-gconv-extra.i686: All iconv converter modules for glibc.
+glibc.i686: The GNU libc libraries
+alsa-lib.i686: The Advanced Linux Sound Architecture (ALSA) library
+gstreamer1.i686: GStreamer streaming media framework runtime
+gstreamer1-plugins-base.i686: GStreamer streaming media framework base plugins
+systemd-libs.i686: systemd libraries
+pipewire-libs.i686: Libraries for PipeWire clients
+pipewire.i686: Media Sharing Server
+pipewire-alsa.i686: PipeWire media server ALSA support
+gstreamer1-plugins-good.i686: GStreamer plugins with good code and licensing
+audit-libs.i686: Dynamic library for libaudit
+libssh.i686: A library implementing the SSH protocol
+pixman.i686: Pixel manipulation library
+glib2.x86_64: A library of handy utility functions
+kmime.x86_64: The KMime Library
+qt6-qtwayland.x86_64: Qt6 - Wayland platform support and QtCompositor module
+libkdepim.x86_64: Library for common kdepim apps
+kontactinterface.x86_64: The Kontact Interface Library
+grantleetheme.x86_64: KDE PIM library for Grantlee template system
+kldap.x86_64: The KLDAP Library
+libkleo.x86_64: KDE PIM cryptographic library
+kpimtextedit.x86_64: The KPimTextEdit Library
+kidentitymanagement.x86_64: The KIdentityManagement Library
+kcalutils.x86_64: The KCalendarUtils Library
+at-spi2-core.x86_64: Protocol definitions and daemon for D-Bus at-spi
+atk.x86_64: Interfaces for accessibility support
+kernel-core.x86_64: The Linux kernel
+kernel-modules-core.x86_64: Core kernel modules to match the core kernel
+plymouth-core-libs.x86_64: Plymouth core libraries
+mesa-filesystem.i686: Mesa driver filesystem
+mesa-filesystem.x86_64: Mesa driver filesystem
+mesa-libgbm.x86_64: Mesa gbm runtime library
+mesa-dri-drivers.x86_64: Mesa-based DRI drivers
+libkgapi.x86_64: Library to access to Google services
+libkexiv2-qt6.x86_64: Qt6 version of libkexiv2
+kaccounts-integration-qt6.x86_64: qt6 runtime for kaccounts-integration
+akonadi-server.x86_64: PIM Storage Service
+akonadi-contacts.x86_64: The Akonadi Contacts Library
+akonadi-mime.x86_64: The Akonadi Mime Library
+akonadi-search.x86_64: The Akonadi Search library and indexing agent
+plymouth-scripts.x86_64: Plymouth related scripts
+plymouth.x86_64: Graphical Boot Animation and Logger
+kimap.x86_64: The KIMAP Library
+pimcommon.x86_64: PIM common libraries
+mailimporter.x86_64: Mail importer library
+libksieve.x86_64: Sieve support library
+kmbox.x86_64: The KMbox Library
+postgresql-private-libs.x86_64: The shared libraries required only for this build of PostgreSQL server
+libkdegames.x86_64: Common code and data for many KDE games
+libgravatar.x86_64: Gravatar support library
+postgresql.x86_64: PostgreSQL client programs
+kaddressbook.x86_64: Contact Manager
+kaddressbook-libs.x86_64: Runtime libraries for kaddressbook
+kio-extras.x86_64: Additional components to increase the functionality of KIO Framework
+plymouth-graphics-libs.x86_64: Plymouth graphics libraries
+kernel-modules.x86_64: kernel modules to match the core kernel
+at-spi2-atk.x86_64: A GTK+ module that bridges ATK to D-Bus at-spi
+ktnef.x86_64: The KTNef Library
+yt-dlp+default.noarch: Metapackage for yt-dlp: default extras
+yt-dlp.noarch: A command-line program to download videos from online video platforms
+libkcddb-doc.noarch: Documentation for libkcddb
+libkcddb.x86_64: CDDB retrieval library
+keditbookmarks-libs.x86_64: Runtime libraries for keditbookmarks
+keditbookmarks.x86_64: Bookmark organizer and editor
+libkdcraw.x86_64: A C++ interface around LibRaw library
+ksanecore.x86_64: Library providing logic to interface scanners
+kpkpass.x86_64: Library to deal with Apple Wallet pass files
+kdegraphics-mobipocket.x86_64: A collection of plugins to handle mobipocket files
+git-core.x86_64: Core package of git with minimal functionality
+baloo-widgets.x86_64: Widgets for Baloo
+dolphin-libs.x86_64: Dolphin runtime libraries
+dolphin.x86_64: KDE File Manager
+git-core-doc.noarch: Documentation files for git-core
+perl-Git.noarch: Perl interface to Git
+git.x86_64: Fast Version Control System
+kitinerary.x86_64: A library containing itinerary data model and itinerary extraction code
+libksane.x86_64: SANE Library interface for KDE
+kolourpaint-libs.x86_64: Runtime libraries for kolourpaint
+kolourpaint.x86_64: An easy-to-use paint program
+gwenview-libs.x86_64: Runtime files for gwenview
+gwenview.x86_64: An image viewer
+kernel-modules-extra.x86_64: Extra kernel modules to match the kernel
+plymouth-plugin-label.x86_64: Plymouth label plugin
+plymouth-plugin-two-step.x86_64: Plymouth "two-step" plugin
+plymouth-theme-spinner.x86_64: Plymouth "Spinner" theme
+mailimporter-akonadi.x86_64: The MailImporterAkondi runtime library
+kaccounts-providers.x86_64: Additional service providers for KAccounts framework
+krfb.x86_64: Desktop sharing
+krfb-libs.x86_64: Runtime libraries for krfb
+mesa-libGL.x86_64: Mesa libGL runtime libraries
+mesa-libEGL.x86_64: Mesa libEGL runtime libraries
+firefox.x86_64: Mozilla Firefox Web browser
+thunderbird-librnp-rnp.x86_64: OpenPGP implementation for Thunderbird based on RNP
+thunderbird.x86_64: Mozilla Thunderbird mail/newsgroup client
+krdc-libs.x86_64: Runtime libraries for krdc
+krdc.x86_64: Remote desktop client
+krita-libs.x86_64: Shared libraries for krita
+krita.x86_64: Krita is a sketching and painting program
+kjournald-libs.x86_64: Library files for kjournald
+kjournald.x86_64: Framework for interacting with systemd-journald
+ark-libs.x86_64: Runtime libraries for ark
+ark.x86_64: Archive manager
+xorg-x11-drv-nvidia-kmodsrc.x86_64: xorg-x11-drv-nvidia kernel module source code
+xorg-x11-drv-nvidia-cuda-libs.x86_64: CUDA libraries for xorg-x11-drv-nvidia
+sudo.x86_64: Allows restricted root access for specified users
+okular-libs.x86_64: Runtime files for okular
+okular-part.x86_64: Okular kpart plugin
+nvidia-modprobe.x86_64: Load the NVIDIA kernel module and create NVIDIA character device files
+nodejs-libs.x86_64: Node.js and v8 libraries
+nodejs.x86_64: JavaScript runtime
+libkmahjongg-data.noarch: Common data for libkmahjongg
+libkmahjongg.x86_64: Common code, backgrounds and tile sets for games using Mahjongg tiles
+libkcompactdisc.x86_64: A KDE compact disc library
+audiocd-kio-doc.noarch: Documentation for audiocd-kio
+audiocd-kio.x86_64: KF6 Audiocd kio slave
+kunifiedpush.x86_64: UnifiedPush client library and distributor daemon
+ksmtp.x86_64: KDE SMTP libraries
+kmailtransport.x86_64: The KMailTransport Library
+messagelib.x86_64: KDE Message libraries
+akonadi-calendar.x86_64: The Akonadi Calendar Library
+mailcommon.x86_64: Mail applications support library
+calendarsupport.x86_64: KDE PIM library for calendar and event handling
+kdepim-runtime-libs.x86_64: kdepim-runtime runtime libraries
+kdepim-runtime.x86_64: KDE PIM Runtime Environment
+eventviews.x86_64: KDE PIM library for displaying events and calendars
+incidenceeditor.x86_64: KDE PIM library for creating and editing calendar incidences
+akonadi-import-wizard.x86_64: Akonadi Import Wizard
+pim-data-exporter.x86_64: Pim Data Exporter
+pim-data-exporter-libs.x86_64: Runtime libraries for pim-data-exporter
+grantlee-editor-libs.x86_64: Runtime libraries for grantlee-editor
+grantlee-editor.x86_64: KMail Theme Editor
+korganizer.x86_64: Personal Organizer
+korganizer-libs.x86_64: Runtime libraries for korganizer
+akregator.x86_64: Feed Reader
+akregator-libs.x86_64: Runtime libraries for akregator
+kmail-account-wizard.x86_64: KMail Account Wizard
+pim-sieve-editor.x86_64: Sieve Editor
+kmail-libs.x86_64: Runtime libraries for kmail
+kmail.x86_64: Mail client
+kontact-libs.x86_64: Runtime libraries for kontact
+kontact.x86_64: Personal Information Manager
+kpmcore.x86_64: Library for managing partitions by KDE programs
+konsole-part.x86_64: Konsole kpart plugin
+konsole.x86_64: KDE Terminal emulator
+kdeconnectd.x86_64: KDE Connect service
+kde-connect-libs.x86_64: Runtime libraries for kde-connect
+kde-connect.x86_64: KDE Connect client for communication with smartphones
+kate-libs.x86_64: Private runtime libraries for kate
+hwdata.noarch: Hardware identification and configuration data
+mesa-compat-libOSMesa.x86_64: Mesa offscreen rendering libraries
+kernel-devel.x86_64: Development package for building kernel modules to match the kernel
+mesa-libgbm.i686: Mesa gbm runtime library
+mesa-dri-drivers.i686: Mesa-based DRI drivers
+glib2.i686: A library of handy utility functions
+at-spi2-core.i686: Protocol definitions and daemon for D-Bus at-spi
+atk.i686: Interfaces for accessibility support
+mesa-libGL.i686: Mesa libGL runtime libraries
+mesa-libEGL.i686: Mesa libEGL runtime libraries
+xorg-x11-drv-nvidia-libs.i686: Libraries for xorg-x11-drv-nvidia
+xorg-x11-drv-nvidia-libs.x86_64: Libraries for xorg-x11-drv-nvidia
+nvidia-settings.x86_64: Configure the NVIDIA graphics driver
+xorg-x11-drv-nvidia.x86_64: NVIDIA's proprietary display driver for NVIDIA graphic cards
+akmod-nvidia.x86_64: Akmod package for nvidia kernel module(s)
+mesa-compat-libOSMesa.i686: Mesa offscreen rendering libraries
+sdl12-compat.i686: SDL 1.2 runtime compatibility library using SDL 2.0
+xorg-x11-drv-nvidia-power.x86_64: Advanced  power management
+kwrite.x86_64: Text Editor
+kamera.x86_64: Digital camera support for KDE
+kde-partitionmanager.x86_64: KDE Partition Manager
+kdepim-addons.x86_64: Additional plugins for KDE PIM applications
+neochat.x86_64: Client for matrix, the decentralized communication protocol
+kmahjongg.x86_64: A tile matching game
+nodejs-full-i18n.x86_64: Non-English locale data for Node.js
+nodejs-npm.x86_64: Node.js Package Manager
+okular.x86_64: A document viewer
+sudo-python-plugin.x86_64: Python plugin for sudo
+firefox-langpacks.x86_64: Firefox langpacks
+kio-gdrive.x86_64: An Google Drive KIO slave for KDE
+plymouth-system-theme.x86_64: Plymouth default theme
+kernel.x86_64: The Linux kernel
+dolphin-plugins.x86_64: Dolphin plugins
+kdegraphics-thumbnailers.x86_64: Thumbnailers for various graphic types
+skanpage.x86_64: Utility to scan images and multi-page documents
+yt-dlp-bash-completion.noarch: Bash completion for yt-dlp
+discord.x86_64: All-in-one voice and text chat
+postgresql-server.x86_64: The programs needed to create and run a PostgreSQL server
+postgresql-contrib.x86_64: Extension modules distributed with PostgreSQL
+kmines.x86_64: A classic Minesweeper game
+kpat.x86_64: A selection of solitaire card games
+colord-kde.x86_64: Colord support for KDE
+kgpg.x86_64: Manage GPG encryption keys
+akonadi-server-mysql.x86_64: Akonadi MySQL backend support
+wlroots0.18.x86_64: A modular Wayland compositor library
+wlroots.x86_64: A modular Wayland compositor library
+mesa-vulkan-drivers.x86_64: Mesa Vulkan drivers
+mesa-vdpau-drivers-freeworld.x86_64: Mesa-based VDPAU drivers
+mesa-va-drivers-freeworld.x86_64: Mesa-based VA-API drivers
+mesa-vdpau-drivers-freeworld.i686: Mesa-based VDPAU drivers
+gstreamer1-plugins-bad-freeworld.x86_64: GStreamer 1.0 streaming media framework "bad" plug-ins
+gstreamer1-plugins-ugly.x86_64: GStreamer 1.0 streaming media framework "ugly" plug-ins
+kamoso.x86_64: Application for taking pictures and videos from a webcam
+libadwaita.x86_64: Building blocks for modern GNOME applications
+signon-kwallet-extension.x86_64: KWallet integration for Sign-on framework
+qrca.x86_64: QR code scanner for KDE Plasma
+python3-productmd.noarch: Library providing parsers for metadata related to OS installation
+orca.noarch: Assistive technology for people with visual impairments
+openxr-libs.x86_64: OpenXR runtime loader library
+nodejs-docs.noarch: Node.js API documentation
+mingw64-SDL3.noarch: MinGW64 Windows port of SDL cross-platform multimedia library
+mingw32-SDL3.noarch: MinGW32 Windows port of SDL cross-platform multimedia library
+mediawriter.x86_64: Fedora Media Writer
+mbedtls.x86_64: Light-weight cryptographic and SSL/TLS library
+lirc-libs.x86_64: LIRC libraries
+libvisual.x86_64: Abstraction library for audio visualisation plugins
+libva-intel-media-driver.x86_64: The Intel Media Driver for VAAPI.
+libkexiv2-qt5.x86_64: Qt5 version of libkexiv2
+kwalletmanager5.x86_64: Manage KDE passwords
+kmouth.x86_64: A program that speaks for you
+kio-admin.x86_64: Manage files as administrator using the admin:// KIO protocol
+khelpcenter.x86_64: Show documentation for KDE applications
+kfind.x86_64: KDE Find File Utility
+kdnssd.x86_64: KDE Network Monitor for DNS-SD services (Zeroconf)
+kdialog.x86_64: Nice dialog boxes from shell scripts
+kdenetwork-filesharing.x86_64: Network filesharing
+kdebugsettings.x86_64: Configure debug output from Qt6 applications
+kde-inotify-survey.x86_64: Monitors inotify limits and lets the user know when exceeded
+kcharselect.x86_64: Character selector
+kcalc.x86_64: Scientific Calculator
+kaccounts-integration-qt5.x86_64: qt5 runtime for kaccounts-integration
+filelight.x86_64: Graphical disk usage statistics
+ffmpegthumbs.x86_64: KDE ffmpegthumbnailer service
+ethtool.x86_64: Settings tool for Ethernet NICs
+elisa-player.x86_64: Elisa music player
+dragon.x86_64: Media player
+SDL3.x86_64: Cross-platform multimedia library
+libvisual.i686: Abstraction library for audio visualisation plugins
+at-spi2-atk.i686: A GTK+ module that bridges ATK to D-Bus at-spi
+mesa-vulkan-drivers.i686: Mesa Vulkan drivers
+mesa-va-drivers-freeworld.i686: Mesa-based VA-API drivers
+SDL3.i686: Cross-platform multimedia library
+kmod-nvidia-6.15.5-200.fc42.x86_64.x86_64: nvidia kernel module(s) for 6.15.5-200.fc42.x86_64
+kmod-nvidia-6.15.4-200.fc42.x86_64.x86_64: nvidia kernel module(s) for 6.15.4-200.fc42.x86_64
+libdbusmenu.i686: Library for passing menus over DBus
+libdbusmenu-gtk2.i686: Library for passing menus over DBus - Development files - GTK+2 version
+steam-devices.noarch: Device support for Steam-related hardware
+libnsl.i686: Legacy support library for NIS
+libatomic.i686: The GNU Atomic library
+libICE.i686: X.Org X11 ICE runtime library
+steam.i686: Installer for the Steam software distribution service
+linux-firmware-whence.noarch: WHENCE License file
+nspr.x86_64: Netscape Portable Runtime
+nss-util.x86_64: Network Security Services Utilities Library
+samba-common.noarch: Files used by both Samba servers and clients
+libwbclient.x86_64: The winbind client library
+samba-client-libs.x86_64: Samba client libraries
+libldb.x86_64: A schema-less, ldap like, API and database
+samba-common-libs.x86_64: Libraries used by both Samba servers and clients
+samba-libs.x86_64: Samba libraries
+libnetapi.x86_64: The NETAPI library
+crypto-policies.noarch: System-wide crypto policies
+clang-resource-filesystem.x86_64: Filesystem package that owns the clang resource directory
+samba-dcerpc.x86_64: DCE RPC binaries
+pango.x86_64: System for layout and rendering of internationalized text
+bluez.x86_64: Bluetooth utilities
+samba-winbind-modules.x86_64: Samba winbind modules
+libsmbclient.x86_64: The SMB client library
+samba-ldb-ldap-modules.x86_64: Samba ldap modules for ldb
+samba-common-tools.x86_64: Tools for Samba clients
+samba.x86_64: Server and Client software to interoperate with Windows machines
+samba-winbind.x86_64: Samba winbind
+nss-softokn-freebl.x86_64: Freebl library for the Network Security Services
+nss-softokn.x86_64: Network Security Services Softoken Module
+perl-vars.noarch: Perl pragma to predeclare global variable names
+perl-libs.x86_64: The libraries for the perl run-time
+perl-DynaLoader.x86_64: Dynamically load C libraries into Perl code
+perl-Fcntl.x86_64: File operation options
+perl-Symbol.noarch: Manipulate Perl symbols and their names
+perl-POSIX.x86_64: Perl interface to IEEE Std 1003.1
+perl-locale.noarch: Pragma to use or avoid POSIX locales for built-in operations
+perl-File-Basename.noarch: Parse file paths into directory, file name, and suffix
+perl-overloading.noarch: Perl pragma to lexically control overloading
+perl-SelectSaver.noarch: Save and restore selected file handle
+perl-Class-Struct.noarch: Declare struct-like data types as Perl classes
+perl-Errno.x86_64: System errno constants
+perl-if.noarch: Use a Perl module if a condition holds
+perl-mro.x86_64: Method resolution order
+perl-overload.noarch: Overloading Perl operations
+perl-File-stat.noarch: By-name interface to Perl built-in stat functions
+perl-IO.x86_64: Perl input/output modules
+vte-profile.x86_64: Profile script for VTE terminal emulator library
+llvm-filesystem.x86_64: Filesystem package that owns the versioned llvm prefix
+llvm-libs.x86_64: LLVM shared libraries
+clang-libs.x86_64: Runtime library for clang
+libomp.x86_64: OpenMP runtime for clang
+llvm-filesystem.i686: Filesystem package that owns the versioned llvm prefix
+libnvme.x86_64: Linux-native nvme device management library
+gssdp.x86_64: Resource discovery and announcement over SSDP
+coreutils-common.x86_64: coreutils common optional components
+coreutils.x86_64: A set of basic GNU tools commonly used in shell scripts
+nss.x86_64: Network Security Services
+nss-sysinit.x86_64: System NSS Initialization
+bluez-libs.x86_64: Libraries for use in Bluetooth applications
+bluez-obexd.x86_64: Object Exchange daemon for sharing content
+container-selinux.noarch: SELinux policies for container runtimes
+nss-tools.x86_64: Tools for the Network Security Services
+gupnp.x86_64: A framework for creating UPnP devices & control points
+nvme-cli.x86_64: NVMe management command line interface
+libomp-devel.x86_64: OpenMP header files
+clang.x86_64: A C language family front-end for LLVM
+vte291.x86_64: GTK terminal emulator library
+perl-FileHandle.noarch: Object methods for file handles
+perl-IPC-Open3.noarch: Open a process for reading, writing, and error handling
+perl-File-Copy.noarch: Copy files or file handles
+perl-Math-Complex.noarch: Complex numbers and trigonometric functions
+perl-B.x86_64: Perl compiler backend
+perl-File-Find.noarch: Traverse a directory tree
+perl-AutoLoader.noarch: Load subroutines only on demand
+perl-Getopt-Std.noarch: Process single-character switches with switch clustering
+perl-I18N-Langinfo.x86_64: Query locale information
+perl-NDBM_File.x86_64: Tied access to ndbm files
+perl-Sys-Hostname.x86_64: Try every conceivable way to get a hostname
+perl-Term-ReadLine.noarch: Perl interface to various read-line packages
+perl-base.noarch: Establish an ISA relationship with base classes at compile time
+perl-interpreter.x86_64: Standalone executable Perl interpreter
+perl-lib.x86_64: Manipulate @INC at compile time
+perl-subs.noarch: Perl pragma to predeclare subroutine names
+samba-winbind-clients.x86_64: Samba winbind clients
+samba-usershares.noarch: Provides support for non-root user shares
+samba-client.x86_64: Samba client programs
+bluez-cups.x86_64: CUPS printer backend for Bluetooth printers
+gtk4.x86_64: GTK graphical user interface library
+compiler-rt.x86_64: LLVM "compiler-rt" runtime libraries
+crypto-policies-scripts.noarch: Tool to switch between crypto policies
+amd-gpu-firmware.noarch: Firmware for AMD GPUs
+amd-ucode-firmware.noarch: Microcode updates for AMD CPUs
+atheros-firmware.noarch: Firmware for Qualcomm Atheros WiFi/Bluetooth adapters
+brcmfmac-firmware.noarch: Firmware for Broadcom/Cypress brcmfmac WiFi/Bluetooth adapters
+cirrus-audio-firmware.noarch: Firmware for Cirrus audio amplifiers and codecs
+intel-audio-firmware.noarch: Firmware for Intel audio DSP amplifiers and codecs
+intel-gpu-firmware.noarch: Firmware for Intel GPUs
+intel-vsc-firmware.noarch: Firmware files for Intel Visual Sensing Controller (IVSC)
+iwlegacy-firmware.noarch: Firmware for Intel(R) Wireless WiFi Link 3945(A)BG and 4965AGN adapters
+iwlwifi-dvm-firmware.noarch: DVM Firmware for Intel(R) Wireless WiFi adapters
+iwlwifi-mvm-firmware.noarch: MVM Firmware for Intel(R) Wireless WiFi adapters
+libertas-firmware.noarch: Firmware for Marvell Libertas SD/USB WiFi Network Adapters
+linux-firmware.noarch: Firmware files used by the Linux kernel
+mt7xxx-firmware.noarch: Firmware for Mediatek 7600/7900 series WiFi/Bluetooth adapters
+nvidia-gpu-firmware.noarch: Firmware for NVIDIA GPUs
+nxpwireless-firmware.noarch: Firmware for NXP WiFi/Bluetooth/UWB adapters
+realtek-firmware.noarch: Firmware for Realtek WiFi/Bluetooth adapters
+tiwilink-firmware.noarch: Firmware for Texas Instruments WiFi/Bluetooth adapters
+realmd.x86_64: Kerberos realm enrollment service
+python3-requests.noarch: HTTP library, written in Python, for human beings
+luajit.x86_64: Just-In-Time Compiler for Lua
+dbus-broker.x86_64: Linux D-Bus Message Broker
+nspr.i686: Netscape Portable Runtime
+nss-util.i686: Network Security Services Utilities Library
+nss-softokn-freebl.i686: Freebl library for the Network Security Services
+nss-softokn.i686: Network Security Services Softoken Module
+nss.i686: Network Security Services
+llvm-libs.i686: LLVM shared libraries
+pango.i686: System for layout and rendering of internationalized text
+bluez-libs.i686: Libraries for use in Bluetooth applications
+libsoup.x86_64: Soup, an HTTP library implementation
+osm-gps-map.x86_64: Gtk+ widget for displaying OpenStreetMap tiles
+portmidi.x86_64: Real-time Midi I/O Library
+gmic-libs.x86_64: G'MIC shared libraries
+colord-gtk.x86_64: GTK+ 3 support library for colord
+darktable.x86_64: Utility to organize and develop raw images
+qt6-qtdeclarative.x86_64: Qt6 - QtDeclarative component
+kf6-filesystem.x86_64: Filesystem for KDE Frameworks 6
+kf6-ki18n.x86_64: KDE Frameworks 6 Tier 1 addon for localization
+kf6-kcoreaddons.x86_64: KDE Frameworks 6 Tier 1 addon with various classes on top of QtCore
+kf6-kconfig.x86_64: KDE Frameworks 6 Tier 1 addon with advanced configuration system
+kf6-kwidgetsaddons.x86_64: KDE Frameworks 6 Tier 1 addon with various classes on top of QtWidgets
+kf6-kservice.x86_64: KDE Frameworks 6 Tier 3 solution for advanced plugin and service introspection
+kf6-kwindowsystem.x86_64: KDE Frameworks 6 Tier 1 integration module with classes for windows management
+kf6-kdbusaddons.x86_64: KDE Frameworks 6 Tier 1 addon with various classes on top of QtDBus
+kf6-knotifications.x86_64: KDE Frameworks 6 Tier 2 solution with abstraction for system notifications
+kf6-kcrash.x86_64: KDE Frameworks 6 Tier 2 addon for handling application crashes
+kf6-kguiaddons.x86_64: KDE Frameworks 6 Tier 1 addon with various classes on top of QtGui
+kf6-kcolorscheme.x86_64: Classes to read and interact with KColorScheme
+kf6-kglobalaccel.x86_64: KDE Frameworks 6 Tier 3 integration module for global shortcuts
+kf6-kirigami.x86_64: QtQuick plugins to build user interfaces based on the KDE UX guidelines
+kf6-kauth.x86_64: KDE Frameworks 6 module to perform actions as privileged user
+kf6-kjobwidgets.x86_64: KDE Frameworks 6 Tier 2 addon for KJobs
+kf6-solid.x86_64: KDE Frameworks 6 Tier 1 integration module that provides hardware information
+plasma-activities.x86_64: Core components for the KDE Activity concept
+kf6-networkmanager-qt.x86_64: A Tier 1 KDE Frameworks 6 module that wraps NetworkManager DBus API
+kf6-kstatusnotifieritem.x86_64: Implementation of Status Notifier Items
+kf6-kidletime.x86_64: KDE Frameworks 6 Tier 1 integration module for idle time detection
+kf6-kitemviews.x86_64: KDE Frameworks 6 Tier 1 addon with item views
+openssl-libs.x86_64: A general purpose cryptography library with TLS implementation
+kf6-karchive.x86_64: KDE Frameworks 6 Tier 1 addon with archive functions
+kf6-kpackage.x86_64: KDE Frameworks 6 Tier 2 library to load and install packages as plugins
+kf6-kcodecs.x86_64: KDE Frameworks 6 Tier 1 addon with string manipulation methods
+kf6-kcompletion.x86_64: KDE Frameworks 6 Tier 2 addon with auto completion widgets and classes
+kf6-kconfigwidgets.x86_64: KDE Frameworks 6 Tier 3 addon for creating configuration dialogs
+kf6-kitemmodels.x86_64: KDE Frameworks 6 Tier 1 addon with item models
+kf6-krunner.x86_64: KDE Frameworks 6 Tier 3 solution with parallelized query system
+kf6-sonnet.x86_64: KDE Frameworks 6 Tier 1 solution for spell checking
+kf6-ksvg.x86_64: Components for handling SVGs
+kdecoration.x86_64: A plugin-based library to create window decorations
+libreoffice-data.x86_64: LibreOffice data files
+kf6-kdeclarative.x86_64: KDE Frameworks 6 Tier 3 addon for Qt declarative
+kwayland.x86_64: Qt-style API to interact with the wayland-client API
+layer-shell-qt.x86_64: Library to easily use clients based on wlr-layer-shell
+kf6-kfilemetadata.x86_64: A Tier 2 KDE Framework for extracting file metadata
+kf6-kirigami-addons.x86_64: Convergent visual components ("widgets") for Kirigami-based applications
+kpipewire.x86_64: Set of convenient classes to use PipeWire in Qt projects
+kf6-prison.x86_64: KDE Frameworks 6 Tier 1 barcode library
+kernel-core.x86_64: The Linux kernel
+kernel-modules-core.x86_64: Core kernel modules to match the core kernel
+breeze-gtk-common.noarch: Breeze widget theme for GTK common files
+unbound-libs.x86_64: Libraries used by the unbound server and client applications
+plasma-activities-stats.x86_64: Library to access the usage statistics data collected by the KDE activity manager
+kf6-kded.x86_64: KDE Frameworks 6 Tier 3 addon with extensible daemon for system-level services
+kf6-kbookmarks.x86_64: KDE Frameworks 6 Tier 3 addon for bookmarks manipulation
+kf6-attica.x86_64: KDE Frameworks Tier 1 Addon with Open Collaboration Services API
+libkscreen.x86_64: KDE display configuration library
+kf6-kuserfeedback.x86_64: Framework for collecting user feedback for apps via telemetry and surveys
+plasma-workspace-common.x86_64: Common files for plasma-workspace
+gnutls.x86_64: A TLS protocol implementation
+NetworkManager-libnm.x86_64: Libraries for adding NetworkManager support to applications.
+NetworkManager.x86_64: Network connection manager and user applications
+moby-filesystem.noarch: Filesystem package for the Moby/Docker stack
+breeze-icon-theme.noarch: Breeze icon theme
+docker-cli.x86_64: The Docker CLI
+kernel-modules.x86_64: kernel modules to match the core kernel
+kf6-kdoctools.x86_64: KDE Frameworks 6 Tier 2 addon for generating documentation
+kf6-kwallet-libs.x86_64: KWallet framework libraries
+kf6-kwallet.x86_64: KDE Frameworks 6 Tier 3 solution for password management
+kf6-kpty.x86_64: KDE Frameworks 6 Tier 2 module providing Pty abstraction
+kf6-kunitconversion.x86_64: KDE Frameworks 6 Tier 2 addon for unit conversions
+kf6-bluez-qt.x86_64: A Qt wrapper for Bluez
+kf6-syntax-highlighting.x86_64: KDE Frameworks 6 Syntax highlighting engine for Kate syntax definitions
+kf6-kholidays.x86_64: The KHolidays Library
+kf6-kquickcharts.x86_64: A QtQuick module providing high-performance charts
+vim-data.noarch: Shared data for Vi and Vim
+plasma-breeze-common.noarch: Common files shared between Plasma 5 and Plasma 6 versions of the Breeze style
+plasma-breeze-qt5.x86_64: Breeze application style for Qt5
+kf6-kdesu.x86_64: KDE Frameworks 6 Tier 3 integration with su
+kdesu.x86_64: Runs a program with elevated privileges
+kwrited.x86_64: KDE Write Daemon
+kernel-modules-extra.x86_64: Extra kernel modules to match the kernel
+kf6-breeze-icons.x86_64: Breeze icon theme library
+kf6-kiconthemes.x86_64: KDE Frameworks 6 Tier 3 integration module with icon themes
+kf6-kio-core-libs.x86_64: Runtime libraries for KIO Core
+kf6-kio-doc.noarch: Documentation files for kf6-kio
+kf6-kio-widgets.x86_64: Widgets for KIO Framework
+kf6-kio-widgets-libs.x86_64: Runtime libraries for KIO Widgets library
+kf6-kio-gui.x86_64: Gui components for the KIO Framework
+kf6-kio-file-widgets.x86_64: Widgets for file-handling for KIO Framework
+kf6-kio-core.x86_64: Core components of the KIO Framework
+kf6-kxmlgui.x86_64: KDE Frameworks 6 Tier 3 solution for user-configurable main windows
+kf6-kcmutils.x86_64: KDE Frameworks 6 Tier 3 addon with extra API to write KConfigModules
+libplasma.x86_64: Plasma is the foundation of the KDE user interface (v6)
+libkworkspace6.x86_64: Runtime libkworkspace6 library
+plasma-discover-libs.x86_64: Runtime libraries for plasma-discover
+kf6-kparts.x86_64: KDE Frameworks 6 Tier 3 solution for KParts
+kf6-baloo-libs.x86_64: Runtime libraries for kf6-baloo
+kscreenlocker.x86_64: Library and components for secure lock screen architecture
+kf6-purpose.x86_64: Framework for providing abstractions to get the developer's purposes fulfilled
+kf6-qqc2-desktop-style.x86_64: QtQuickControls2 style for consistency between QWidget and QML apps
+plasma-discover.x86_64: KDE and Plasma resources management GUI
+kde-cli-tools.x86_64: Tools based on KDE Frameworks 5 to better interact with the system
+plasma-systemsettings.x86_64: KDE System Settings application
+kglobalacceld.x86_64: Daemon providing Global Keyboard Shortcut functionality
+kf6-knotifyconfig.x86_64: KDE Frameworks 6 Tier 3 module for KNotify configuration
+kf6-baloo.x86_64: A Tier 3 KDE Frameworks 6 module that provides indexing and search functionality
+kf6-ktexteditor.x86_64: KDE Frameworks 6 Tier 3 with advanced embeddable text editor
+powerdevil.x86_64: Manages the power consumption settings of a Plasma Shell
+flatpak-kcm.x86_64: Flatpak Permissions Management KCM
+kactivitymanagerd.x86_64: Plasma service to manage user's activities
+kmenuedit.x86_64: KDE menu editor
+xdg-desktop-portal-kde.x86_64: Backend implementation for xdg-desktop-portal using Qt/KF5
+qqc2-breeze-style.x86_64: QtQuickControls2 breeze style
+NetworkManager-wwan.x86_64: Mobile broadband device plugin for NetworkManager
+krdp-libs.x86_64: Library for creating an RDP server
+kf6-ktextwidgets.x86_64: KDE Frameworks 6 Tier 3 addon with advanced text editing widgets
+kf6-kcontacts.x86_64: The KContacts Library
+kf6-syndication.x86_64: The Syndication Library
+kf6-knewstuff.x86_64: KDE Frameworks 6 Tier 3 module for downloading application assets
+kf6-frameworkintegration.x86_64: KDE Frameworks 6 Tier 4 workspace and cross-framework integration plugins
+kf6-frameworkintegration-libs.x86_64: Runtime libraries for kf6-frameworkintegration
+plasma-breeze-qt6.x86_64: Breeze application style for Qt6
+plasma-breeze.x86_64: Artwork, styles and assets for the Breeze visual style for the Plasma Desktop
+kf6-kimageformats.x86_64: KDE Frameworks 6 Tier 1 addon with additional image plugins for QtGui
+openssl.x86_64: Utilities from the general purpose cryptography library with TLS implementation
+openssl-devel.x86_64: Files for development of applications which will use OpenSSL
+kernel-devel.x86_64: Development package for building kernel modules to match the kernel
+libksysguard-common.x86_64: Runtime data files shared by libksysguard and ksysguard-libs
+libksysguard.x86_64: Library for managing processes running on the system
+plasma5support.x86_64: Support components for porting from KF5/Qt5 to KF6/Qt6
+plasma-workspace-libs.x86_64: Runtime libraries for plasma-workspace
+ksystemstats.x86_64: KSystemStats is a daemon that collects statistics about the running system.
+polkit-kde.x86_64: PolicyKit integration for KDE Desktop
+kf6-modemmanager-qt.x86_64: A Tier 1 KDE Frameworks module wrapping ModemManager DBus API
+plasma-nm.x86_64: Plasma for managing network connections
+ocean-sound-theme.noarch: Ocean Sound Theme for Plasma
+xxd.x86_64: A hex dump utility
+vim-filesystem.noarch: VIM filesystem layout
+vim-common.x86_64: The common files needed by any version of the VIM editor
+python3-botocore.noarch: Low-level, data-driven core of boto 3
+plasma-integration-qt5.x86_64: Qt5 support for plasma-integration
+libreoffice-ure-common.x86_64: Common UNO Runtime Environment
+libreoffice-ure.x86_64: UNO Runtime Environment
+libreoffice-opensymbol-fonts.noarch: LibreOffice dingbats font
+libinput.x86_64: Input device library
+kwin-libs.x86_64: KWin runtime libraries
+kwin-common.x86_64: Common files for KWin X11 and KWin Wayland
+kwin.x86_64: KDE Window manager
+langtable.noarch: Guessing reasonable defaults for locale, keyboard layout, territory, and language.
+kernel-tools-libs.x86_64: Libraries for the kernels-tools
+ibus-table-chinese.noarch: Chinese input tables for IBus
+breeze-cursor-theme.noarch: Breeze cursor theme
+plasma-integration.x86_64: Qt Platform Theme integration plugin for Plasma
+plasma-lookandfeel-fedora.noarch: Fedora look-and-feel for Plasma
+plasma-workspace.x86_64: Plasma workspace, applications and applets
+plasma-desktop.x86_64: Plasma Desktop shell
+plasma-print-manager-libs.x86_64: Runtime files for plasma-print-manager
+plasma-print-manager.x86_64: Printer management for KDE
+autocorr-en.noarch: English auto-correction rules
+libreoffice-kf6.x86_64: LibreOffice KDE Frameworks 6 integration plug-in
+libreoffice-core.x86_64: Core modules for LibreOffice
+libreoffice-langpack-en.x86_64: English language pack for LibreOffice
+libreoffice-pyuno.x86_64: Python support for LibreOffice
+libreoffice-pdfimport.x86_64: PDF Importer for LibreOffice Draw
+libreoffice-ogltrans.x86_64: 3D OpenGL slide transitions for LibreOffice
+libreoffice-graphicfilter.x86_64: LibreOffice Extra Graphic filters
+libreoffice-writer.x86_64: LibreOffice Word Processor Application
+libreoffice-emailmerge.x86_64: Email mail-merge component for LibreOffice
+libreoffice-impress.x86_64: LibreOffice Presentation Application
+libreoffice-draw.x86_64: LibreOffice Drawing Application
+libreoffice-calc.x86_64: LibreOffice Spreadsheet Application
+libreoffice-math.x86_64: LibreOffice Equation Editor Application
+libreoffice-help-en.x86_64: English help for LibreOffice
+libreoffice-gtk4.x86_64: LibreOffice GTK+ 4 experimental integration plug-in
+libreoffice-gtk3.x86_64: LibreOffice GTK+ 3 integration plug-in
+sddm-breeze.noarch: SDDM breeze theme
+ibus-table-chinese-cangjie.noarch: Cangjie based input methods
+kernel-tools.x86_64: Assortment of tools for the Linux kernel
+python3-langtable.noarch: Python module to query the langtable-data
+sddm-wayland-plasma.noarch: Plasma Wayland SDDM greeter configuration
+python3-boto3.noarch: The AWS SDK for Python
+vim-enhanced.x86_64: A version of the VIM editor which includes recent enhancements
+plasma-nm-vpnc.x86_64: Vpnc support for plasma-nm
+plasma-nm-pptp.x86_64: PPTP support for plasma-nm
+plasma-nm-openvpn.x86_64: OpenVPN support for plasma-nm
+plasma-nm-openswan.x86_64: Openswan support for plasma-nm
+plasma-nm-openconnect.x86_64: OpenConnect support for plasma-nm
+plasma-nm-l2tp.x86_64: L2TP support for plasma-nm
+plasma-systemmonitor.x86_64: An application for monitoring system resources
+plasma-browser-integration.x86_64: plasma-browser-integration provides components necessary to integrate browsers into the Plasma Desktop
+kdeplasma-addons.x86_64: Additional Plasmoids for Plasma 6
+plasma-vault.x86_64: Plasma Vault offers strong encryption features in a user-friendly way
+kernel-devel-matched.x86_64: Meta package to install matching core and devel packages for a given kernel
+krdp.x86_64: Desktop sharing using RDP
+plasma-discover-kns.x86_64: Plasma Discover KNewStuff support
+kf6-kpeople.x86_64: KDE Frameworks 6 Tier 3 library for contact and people aggregation
+NetworkManager-bluetooth.x86_64: Bluetooth device plugin for NetworkManager
+plasma-discover-flatpak.x86_64: Plasma Discover flatpak support
+kinfocenter.x86_64: KDE Info Center
+kde-gtk-config.x86_64: Configure the appearance of GTK apps in KDE
+plasma-discover-packagekit.x86_64: Plasma Discover PackageKit support
+plasma-discover-offline-updates.x86_64: Plasma Discover Offline updates enablement
+plasma-discover-notifier.x86_64: Plasma Discover Update Notifier
+spectacle.x86_64: Screenshot capture utility
+kf6-baloo-file.x86_64: File indexing and search for Baloo
+kscreen.x86_64: KDE Display Management software
+plasma-pa.x86_64: Plasma applet for audio volume management using PulseAudio
+plasma-welcome.x86_64: Plasma Welcome
+aurorae.x86_64: Aurorae is a themeable window decoration for KWin
+bluedevil.x86_64: Bluetooth stack for KDE
+plasma-disks.x86_64: Hard disk health monitoring for KDE Plasma
+plasma-drkonqi.x86_64: DrKonqi crash handler for KF6/Plasma6
+plasma-thunderbolt.x86_64: Plasma integration for controlling Thunderbolt devices
+sddm-kcm.x86_64: SDDM KDE configuration module
+kf6-kdav.x86_64: A DAV protocol implementation with KJobs
+kernel.x86_64: The Linux kernel
+vim-minimal.x86_64: A minimal version of the VIM editor
+pam-kwallet.x86_64: PAM module for KWallet
+ksshaskpass.x86_64: A ssh-add helper that uses kwallet and kpassworddialog
+moby-engine.x86_64: The open-source application container engine
+docker-compose.x86_64: Define and run multi-container applications with Docker
+breeze-icon-theme-fedora.noarch: Breeze icon theme Fedora specific icons
+NetworkManager-wifi.x86_64: Wifi plugin for NetworkManager
+NetworkManager-team.x86_64: Team device plugin for NetworkManager
+NetworkManager-ppp.x86_64: PPP plugin for NetworkManager
+NetworkManager-adsl.x86_64: ADSL device plugin for NetworkManager
+gnutls-dane.x86_64: A DANE protocol implementation for GnuTLS
+python3-unbound.x86_64: Python 3 modules and extensions for unbound
+unbound-anchor.x86_64: DNSSEC trust anchor maintaining tool
+breeze-gtk-gtk4.noarch: Breeze widget theme for GTK 4
+breeze-gtk-gtk3.noarch: Breeze widget theme for GTK 3
+breeze-gtk-gtk2.noarch: Breeze widget theme for GTK 2
+kf6-sonnet-hunspell.x86_64: hunspell plugin for kf6-sonnet
+plasma-milou.x86_64: A dedicated KDE search application built on top of Baloo
+ostree-libs.x86_64: C shared libraries ostree
+python3-perf.x86_64: Python bindings for apps which will manipulate perf events
+kf6-kidletime-x11.x86_64: Idle time detection plugins for X11 environments
+kf6-kdnssd.x86_64: KDE Frameworks 6 Tier 1 integration module for DNS-SD services (Zeroconf)
+kf6-threadweaver.x86_64: KDE Frameworks 6 Tier 1 addon for advanced thread management
+kf6-kcalendarcore.x86_64: KDE Frameworks 6 Tier 1 KCalendarCore Library
+kf6-ktexttemplate.x86_64: Separates the structure of documents from their data
+python3-pycryptodomex.x86_64: A self-contained cryptographic library for Python
+python3-augeas.x86_64: Python 3 bindings to augeas
+pyproject-srpm-macros.noarch: Minimal implementation of %pyproject_buildrequires
+plasma-workspace-wallpapers.noarch: Additional wallpapers for Plasma workspace
+plasma-desktop-doc.noarch: Documentation and user manuals for plasma-desktop
+moby-engine-nano.noarch: GNU nano syntax highlighting files for Moby
+libvpl.x86_64: Intel Video Processing Library
+libsolv.x86_64: Package dependency solver
+ibus-typing-booster.noarch: A completion input method
+gstreamer1-plugin-dav1d.x86_64: GStreamer dav1d AV1 decoder Plugin
+go-srpm-macros.noarch: Source-stage rpm automation for Go packages
+gnome-desktop3.x86_64: Library with common API for various GNOME modules
+code.x86_64: Code editing. Redefined.
+NetworkManager-config-connectivity-fedora.noarch: NetworkManager config file for connectivity checking via Fedora servers
+gnutls.i686: A TLS protocol implementation
+NetworkManager-libnm.i686: Libraries for adding NetworkManager support to applications.
+openssl-libs.i686: A general purpose cryptography library with TLS implementation
+kmod-nvidia-6.15.6-200.fc42.x86_64.x86_64: nvidia kernel module(s) for 6.15.6-200.fc42.x86_64
+gpg-pubkey.(none): Tony George <teejeetech@gmail.com> public key
+rclone.x86_64: Rsync for cloud storage
+newt.x86_64: A library for text mode user interfaces
+python3-msgpack.x86_64: Python MessagePack (de)serializer
+python3-llfuse.x86_64: Python Bindings for the low-level FUSE API Python 3.13 packages
+borgbackup.x86_64: A deduplicating backup program with compression and authenticated encryption
+baqpaq.x86_64: Data backup tool for Linux
+baqpaq-assets.x86_64: Data backup tool for Linux
+baqpaq-gtk.x86_64: Data backup tool for Linux
+wine-filesystem.noarch: Filesystem directories for wine
+wine-core.x86_64: Wine core package
+wine-common.noarch: Common files
+anaconda-core.x86_64: Core of the Anaconda installer
+anaconda-tui.x86_64: Textual user interface for the Anaconda installer
+wine-cms.i686: Color Management for wine
+wine-cms.x86_64: Color Management for wine
+wine-ldap.i686: LDAP support for wine
+wine-ldap.x86_64: LDAP support for wine
+wine-opencl.x86_64: OpenCL support for wine
+wine-smartcard.x86_64: Smart card support for wine
+wine-twain.x86_64: Twain support for wine
+wine-alsa.x86_64: Alsa support for wine
+wine-pulseaudio.x86_64: Pulseaudio support for wine
+wine-mono.noarch: Mono library required for Wine
+wine-tahoma-fonts.noarch: Wine Tahoma font family
+wine-times-new-roman-fonts.noarch: Wine Times New Roman font family
+selinux-policy.noarch: SELinux policy configuration
+selinux-policy-targeted.noarch: SELinux targeted policy
+wine-wingdings-fonts.noarch: Wine Wingdings font family
+wine-webdings-fonts.noarch: Wine Webdings font family
+wine-system-fonts.noarch: Wine System font family
+wine-symbol-fonts.noarch: Wine Symbol font family
+wine-small-fonts.noarch: Wine Small font family
+wine-ms-sans-serif-fonts.noarch: Wine MS Sans Serif font family
+wine-marlett-fonts.noarch: Wine Marlett font family
+wine-fixedsys-fonts.noarch: Wine Fixedsys font family
+wine-courier-fonts.noarch: Wine Courier font family
+wine-arial-fonts.noarch: Wine Arial font family
+wine-fonts.noarch: Wine font files
+wine-systemd.noarch: Systemd config for the wine binfmt handler
+wine-desktop.noarch: Desktop integration features for wine
+anaconda-widgets.x86_64: A set of custom GTK+ widgets for use with anaconda
+anaconda-gui.x86_64: Graphical user interface for the Anaconda installer
+anaconda.x86_64: Graphical system installer
+anaconda-live.noarch: Live installation specific files and dependencies
+anaconda-install-env-deps.x86_64: Installation environment specific dependencies
+wine-opencl.i686: OpenCL support for wine
+wine-smartcard.i686: Smart card support for wine
+wine-twain.i686: Twain support for wine
+wine-alsa.i686: Alsa support for wine
+wine-pulseaudio.i686: Pulseaudio support for wine
+wine-core.i686: Wine core package
+wine.x86_64: A compatibility layer for windows applications
