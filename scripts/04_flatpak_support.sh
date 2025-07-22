@@ -16,6 +16,9 @@ fi
 # Add the Flathub repository
 echo "Adding Flathub repository..."
 flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+echo "Removing Flatpak repository..."
+
+flatpak remote-modify --disable fedora
 
 echo ""
 echo "Flatpak setup completed!"
