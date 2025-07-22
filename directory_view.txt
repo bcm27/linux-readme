@@ -1,0 +1,19 @@
+.
+├── directory_view.txt
+├── enabled_services.txt
+├── flatpak_apps.txt
+├── installed_packages.txt
+├── README.md
+└── scripts
+    ├── 01_enable_repos.sh
+    ├── 02_update_packages.sh
+    ├── 03_firmware_updates.sh
+    ├── 04_flatpak_support.sh
+    ├── 05_nvidia_drivers.sh
+    ├── 06_multimedia_codecs.sh
+    ├── 07_video_acceleration.sh
+    ├── 08_proton-ge.sh
+    ├── 09_hosts_file.sh
+    └── 10_ssh_hardening.sh
+
+2 directories, 15 files
